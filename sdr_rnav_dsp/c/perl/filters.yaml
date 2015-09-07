@@ -1,0 +1,157 @@
+---
+ - name: lp3k_sr31250
+   type: fir
+   subtype: bandpass
+   sample_rate: 31250 
+   bands: 
+    - start: 0
+      end: 2500
+    - start: 3k
+      end: 15625
+   mags:
+    - 1
+    - 0
+   ripple:
+    - 1dB
+    - -80dB
+ - name: lp25k_sr250k
+   type: fir
+   subtype: bandpass
+   sample_rate: 250000
+   bands: 
+    - start: 0
+      end: 22k
+    - start: 28k
+      end: 125k
+   mags:
+    - 1
+    - 0
+   ripple:
+    - 1dB
+    - -80dB
+ - name: lp100k_sr1024k
+   type: fir
+   subtype: bandpass
+   sample_rate: 1024000
+   bands:
+    - start: 0
+      end: 100k
+    - start: 150k
+      end: 512k
+   mags:
+    - 1
+    - 0
+   ripple:
+    - 1dB
+    - -80dB
+ - name: lp25k_sr256k
+   type: fir
+   subtype: bandpass
+   sample_rate: 256000 
+   bands:
+    - start: 0
+      end: 20k
+    - start: 30k
+      end: 128000
+   mags:
+    - 1
+    - 0
+   ripple:
+    - 1dB
+    - -80dB
+ - name: lp400_sr32000
+   type: fir
+   subtype: bandpass
+   sample_rate: 32000
+   bands:
+    - start: 0
+      end: 400
+    - start: 700
+      end: 16000
+   mags:
+    - 1
+    - 0
+   ripple:
+    - 1dB
+    - -70dB
+ - name: bp30_sr1280
+   type: fir
+   subtype: bandpass
+   sample_rate: 1280 
+   num_taps: 275
+   bands:
+    - start: 0
+      end: 20 
+    - start: 25
+      end: 35
+    - start: 40
+      end: 640
+   mags:
+    - 0
+    - 1
+    - 0
+   ripple:
+    - -60dB
+    - 1dB
+    - -60dB
+ - name: bp105_sr1280
+   type: fir
+   subtype: bandpass
+   num_taps: 275
+   sample_rate: 1280 
+   bands:
+    - start: 0
+      end: 95 
+    - start: 100
+      end: 110 
+    - start: 115 
+      end: 640
+   mags:
+    - 0
+    - 1
+    - 0
+   ripple:
+    - -60dB
+    - 1dB
+    - -60dB
+ - name: bp9960_sr32000
+   num_taps: 275 
+   type: fir
+   subtype: bandpass
+   sample_rate: 32000
+   bands:
+    - start: 0
+      end: 9300
+    - start: 9450 
+      end: 10470
+    - start: 10620
+      end: 16000
+   mags:
+    - 0
+    - 1
+    - 0
+   ripple:
+    - -60dB
+    - 1dB
+    - -60dB
+ - name: bp1020_sr6400
+   type: fir
+   subtype: bandpass
+   num_taps: 170
+   sample_rate: 6400
+   bands:
+    - start: 0
+      end: 940 
+    - start: 990 
+      end: 1050 
+    - start: 1100 
+      end: 3200
+   mags:
+    - 0
+    - 1
+    - 0
+   ripple:
+    - -60dB
+    - 1dB
+    - -60dB
+

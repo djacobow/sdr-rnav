@@ -1,0 +1,9 @@
+This folder contains a version of the scan-sources-and-make-filters
+routine but instead of using python and gr as an intermediary, it just
+links directly to the remez() routine.
+
+Unfortunately it doesn't work and I haven't figured out why even after
+spending a LOONG time on it!
+
+-- dgj
+

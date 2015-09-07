@@ -1,0 +1,18 @@
+cd ../dp
+make -f Makefile.linux
+cd ../qq
+
+gcc -g \
+    simple.c \
+    -I../dp \
+    -I../src \
+    -I../inc \
+    -I../ \
+    -L../dp -ldp \
+    -lasound \
+    -lpthread \
+    -lm  \
+    -o foo
+
+
+

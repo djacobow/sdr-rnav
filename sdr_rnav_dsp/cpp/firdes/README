@@ -1,0 +1,20 @@
+
+This folder contains a perl script that calls a python script that 
+in turn calls the remez() function provided by gnuradio. Therefore, 
+for it to work, all three tools must be installed.
+
+The perl script takes a first argument which is the name of a file to
+create that will contain the filer taps. The rest of the arguments are
+source files to scan. Each file is scanned for comments that look like
+YAML. If found, the YAML is interpreted as parameters for FIR filters
+to be designed. 
+
+The perl calls the python for each filter needed, and the results are
+written to a .h and .c version of the output file.
+
+The result is that the files with the comments can also reference 
+arrays with the taps, and if the comment is changed and the project
+recompiled, the new filter will automagically be there.
+
+-- dgj
+

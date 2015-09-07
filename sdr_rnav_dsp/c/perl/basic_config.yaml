@@ -1,0 +1,64 @@
+---
+blens:
+  if0: 51200
+debug: 1
+fft_pk_thresh: 80 
+files:
+  in:
+    iq: OAK_clairmont_116791kHz_1024ksps.wav
+#    iq: SFO_clairmont_115791kHz_1024ksps.wav
+  indir: ../../test_input_files/
+  out:
+    fft_unf: fft_unfiltered.wav
+    af_9960: af_c9960.wav
+    af_9960_2: af_bb.wav
+    af_audio: af_audio.wav
+    af_bb: af_c_bb.wav
+    if1_c_mixed: if1_c_mixed.wav
+    if1_c_read_copy: if1_c_read_copy.wav
+    if0_c_filt: if0_c_filtered.wav
+    nf_lp400: nf_lp400.wav
+    mo_morsebin: mo_morse_bin.csv
+    mo_morseenv: mo_morse_env.csv
+    nf_ref30: nf_ref30.wav
+    nf_ref30text: nf_ref30.csv
+    mo_tone1020: mo_tone1020.wav
+    nf_var100text: nf_var100.csv
+    nf_var30: nf_var30.wav
+    nf_var30text: nf_var30.csv
+  outdir: outdir/
+lpf_factor: 0.9
+max_baselist: 60
+max_buffer_count: 5000
+max_rs_queue: 5
+min_carrier_snr: 20
+radial_calibration: -30
+rcmds:
+  GT_FREQ: 2
+  GT_SR: 4
+  ST_AGC: 5
+  ST_FREQ: 1
+  ST_SR: 3
+  ST_TEST: 8
+  ST_TUNER_GAIN: 7
+  ST_TUNER_GAIN_MODE: 6
+rmasks:
+  NEVER: 0
+  ALWAYS: 1
+  FFT: 2
+  MIXER: 4
+  DECODE: 8
+rtl_buf_ct: 2
+srates:
+  if0: 1024000
+  if1: 256000 
+  af: 32000
+  mo: 6400
+  nf: 1280
+  fft: 1024000 
+use_fft_fir: 0
+use_radio: 1
+vor_parameters:
+  nav_freq: 30
+  subcarrier_freq: 9960
+  subcarrier_max_dev: 480

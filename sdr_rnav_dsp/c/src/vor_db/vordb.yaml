@@ -1,0 +1,8296 @@
+---
+ABB:
+  elevation: 710
+  frequency: 112400000
+  id: ABB
+  latitude: 38.5887985229492
+  longitude: -85.6360015869141
+  magnetic_variation: -4.045
+ABI:
+  elevation: 1810
+  frequency: 113700000
+  id: ABI
+  latitude: 32.4813003540039
+  longitude: -99.8635025024414
+  magnetic_variation: 6.246
+ABQ:
+  elevation: 5743
+  frequency: 113200000
+  id: ABQ
+  latitude: 35.0438003540039
+  longitude: -106.81600189209
+  magnetic_variation: 9.551
+ABR:
+  elevation: 1301
+  frequency: 113000000
+  id: ABR
+  latitude: 45.4174003601074
+  longitude: -98.3686981201172
+  magnetic_variation: 5.316
+ACH:
+  elevation: 5450
+  frequency: 117800000
+  id: ACH
+  latitude: 35.1116981506348
+  longitude: -105.040000915527
+  magnetic_variation: 9.091
+ACK:
+  elevation: 100
+  frequency: 116200000
+  id: ACK
+  latitude: 41.2817993164062
+  longitude: -70.0267028808594
+  magnetic_variation: -15.298
+ACO:
+  elevation: 1200
+  frequency: 114400000
+  id: ACO
+  latitude: 41.1078987121582
+  longitude: -81.2014999389648
+  magnetic_variation: -8.159
+ACT:
+  elevation: 510
+  frequency: 115300000
+  id: ACT
+  latitude: 31.6623001098633
+  longitude: -97.2689971923828
+  magnetic_variation: 4.574
+ACV:
+  elevation: 193
+  frequency: 110200000
+  id: ACV
+  latitude: 40.9813995361328
+  longitude: -124.108001708984
+  magnetic_variation: 15.535
+ACY:
+  elevation: 70
+  frequency: 108600000
+  id: ACY
+  latitude: 39.4558982849121
+  longitude: -74.576301574707
+  magnetic_variation: -12.268
+ADH:
+  elevation: 987
+  frequency: 117800000
+  id: ADH
+  latitude: 34.8026008605957
+  longitude: -96.6700973510742
+  magnetic_variation: 4.33
+ADM:
+  elevation: 925
+  frequency: 116700000
+  id: ADM
+  latitude: 34.2116012573242
+  longitude: -97.1682968139648
+  magnetic_variation: 4.523
+ADN:
+  elevation: 1476
+  frequency: 115400000
+  id: ADN
+  latitude: 25.8654003143311
+  longitude: -100.238998413086
+  magnetic_variation: 6.258
+ADW:
+  elevation: 260
+  frequency: 113100000
+  id: ADW
+  latitude: 38.807201385498
+  longitude: -76.8662033081055
+  magnetic_variation: -10.463
+AEL:
+  elevation: 1265
+  frequency: 109800000
+  id: AEL
+  latitude: 43.6818008422852
+  longitude: -93.3707962036133
+  magnetic_variation: 1.315
+AEX:
+  elevation: 80
+  frequency: 116100000
+  id: AEX
+  latitude: 31.2567005157471
+  longitude: -92.5009994506836
+  magnetic_variation: 2.012
+AGC:
+  elevation: 1290
+  frequency: 110000000
+  id: AGC
+  latitude: 40.2787017822266
+  longitude: -80.040901184082
+  magnetic_variation: -8.553
+AHC:
+  elevation: 4028
+  frequency: 109000000
+  id: AHC
+  latitude: 40.2678985595703
+  longitude: -120.152000427246
+  magnetic_variation: 15.017
+AHN:
+  elevation: 790
+  frequency: 109600000
+  id: AHN
+  latitude: 33.9476013183594
+  longitude: -83.3247985839844
+  magnetic_variation: -4.57
+AIA:
+  elevation: 3925
+  frequency: 111800000
+  id: AIA
+  latitude: 42.0555992126465
+  longitude: -102.804000854492
+  magnetic_variation: 8.342
+AIR:
+  elevation: 1290
+  frequency: 117100000
+  id: AIR
+  latitude: 40.0169982910156
+  longitude: -80.8172988891602
+  magnetic_variation: -8.152
+AKN:
+  elevation: 89
+  frequency: 112800000
+  id: AKN
+  latitude: 58.7247009277344
+  longitude: -156.751998901367
+  magnetic_variation: 16.44
+AKO:
+  elevation: 4620
+  frequency: 114400000
+  id: AKO
+  latitude: 40.1556015014648
+  longitude: -103.180000305176
+  magnetic_variation: 8.391
+ALB:
+  elevation: 275
+  frequency: 115300000
+  id: ALB
+  latitude: 42.747200012207
+  longitude: -73.8031997680664
+  magnetic_variation: -14.006
+ALD:
+  elevation: 190
+  frequency: 116700000
+  id: ALD
+  latitude: 33.0125007629395
+  longitude: -81.2921981811523
+  magnetic_variation: -6.129
+ALI:
+  elevation: 170
+  frequency: 114500000
+  id: ALI
+  latitude: 27.7397994995117
+  longitude: -98.0213012695312
+  magnetic_variation: 5.234
+ALO:
+  elevation: 865
+  frequency: 112200000
+  id: ALO
+  latitude: 42.5564994812012
+  longitude: -92.3989028930664
+  magnetic_variation: 0.509
+ALS:
+  elevation: 7535
+  frequency: 113900000
+  id: ALS
+  latitude: 37.3492012023926
+  longitude: -105.81600189209
+  magnetic_variation: 9.45
+ALW:
+  elevation: 1150
+  frequency: 116400000
+  id: ALW
+  latitude: 46.0870018005371
+  longitude: -118.292999267578
+  magnetic_variation: 16.139
+AMG:
+  elevation: 200
+  frequency: 115100000
+  id: AMG
+  latitude: 31.5365009307861
+  longitude: -82.5081024169922
+  magnetic_variation: -5.027
+AML:
+  elevation: 297
+  frequency: 113500000
+  id: AML
+  latitude: 38.9346008300781
+  longitude: -77.4666976928711
+  magnetic_variation: -10.239
+ANC:
+  elevation: 287
+  frequency: 114300000
+  id: ANC
+  latitude: 61.1507987976074
+  longitude: -150.207000732422
+  magnetic_variation: 20.108
+ANN:
+  elevation: 174
+  frequency: 117100000
+  id: ANN
+  latitude: 55.0603981018066
+  longitude: -131.578002929688
+  magnetic_variation: 21.341
+ANW:
+  elevation: 2582
+  frequency: 112700000
+  id: ANW
+  latitude: 42.5690994262695
+  longitude: -99.9897003173828
+  magnetic_variation: 6.449
+ANX:
+  elevation: 878
+  frequency: 114000000
+  id: ANX
+  latitude: 39.095401763916
+  longitude: -94.1287994384766
+  magnetic_variation: 2.354
+ANY:
+  elevation: 1390
+  frequency: 112900000
+  id: ANY
+  latitude: 37.1589012145996
+  longitude: -98.1707000732422
+  magnetic_variation: 5.293
+AOH:
+  elevation: 980
+  frequency: 108400000
+  id: AOH
+  latitude: 40.7070999145508
+  longitude: -83.9682006835938
+  magnetic_variation: -5.554
+AOO:
+  elevation: 1630
+  frequency: 108800000
+  id: AOO
+  latitude: 40.3254013061523
+  longitude: -78.3037033081055
+  magnetic_variation: -10.131
+APE:
+  elevation: 1350
+  frequency: 116700000
+  id: APE
+  latitude: 40.1511001586914
+  longitude: -82.5883026123047
+  magnetic_variation: -6.539
+APN:
+  elevation: 680
+  frequency: 108800000
+  id: APN
+  latitude: 45.0828018188477
+  longitude: -83.556999206543
+  magnetic_variation: -7.332
+ARD:
+  elevation: 300
+  frequency: 108200000
+  id: ARD
+  latitude: 40.2532997131348
+  longitude: -74.907600402832
+  magnetic_variation: -12.293
+ARG:
+  elevation: 260
+  frequency: 114500000
+  id: ARG
+  latitude: 36.1100006103516
+  longitude: -90.9536972045898
+  magnetic_variation: 0.292
+ART:
+  elevation: 370
+  frequency: 109800000
+  id: ART
+  latitude: 43.9519996643066
+  longitude: -76.0645980834961
+  magnetic_variation: -13.013
+ASP:
+  elevation: 627
+  frequency: 116100000
+  id: ASP
+  latitude: 44.4491004943848
+  longitude: -83.3943023681641
+  magnetic_variation: -7.291
+AST:
+  elevation: 10
+  frequency: 114000000
+  id: AST
+  latitude: 46.1617012023926
+  longitude: -123.879997253418
+  magnetic_variation: 17.281
+ASX:
+  elevation: 820
+  frequency: 110200000
+  id: ASX
+  latitude: 46.5494003295898
+  longitude: -90.9171981811523
+  magnetic_variation: -1.106
+ATL:
+  elevation: 1000
+  frequency: 116900000
+  id: ATL
+  latitude: 33.6291007995605
+  longitude: -84.4350967407227
+  magnetic_variation: -4.022
+ATR:
+  elevation: 5
+  frequency: 112600000
+  id: ATR
+  latitude: 38.8097991943359
+  longitude: -75.2113037109375
+  magnetic_variation: -11.514
+ATY:
+  elevation: 1750
+  frequency: 116600000
+  id: ATY
+  latitude: 44.9796981811523
+  longitude: -97.1417007446289
+  magnetic_variation: 4.335
+AUG:
+  elevation: 349
+  frequency: 111400000
+  id: AUG
+  latitude: 44.3199996948242
+  longitude: -69.7966003417969
+  magnetic_variation: -16.422
+AUW:
+  elevation: 1210
+  frequency: 111600000
+  id: AUW
+  latitude: 44.8468017578125
+  longitude: -89.5866012573242
+  magnetic_variation: -2.019
+AVE:
+  elevation: 710
+  frequency: 117100000
+  id: AVE
+  latitude: 35.6469993591309
+  longitude: -119.978996276855
+  magnetic_variation: 13.488
+AXN:
+  elevation: 1380
+  frequency: 112800000
+  id: AXN
+  latitude: 45.9584007263184
+  longitude: -95.2325973510742
+  magnetic_variation: 2.519
+AYS:
+  elevation: 150
+  frequency: 110200000
+  id: AYS
+  latitude: 31.2693996429443
+  longitude: -82.556396484375
+  magnetic_variation: -4.575
+AZO:
+  elevation: 870
+  frequency: 109000000
+  id: AZO
+  latitude: 42.2369995117188
+  longitude: -85.5531997680664
+  magnetic_variation: -4.59
+AZQ:
+  elevation: 1247
+  frequency: 111200000
+  id: AZQ
+  latitude: 37.391300201416
+  longitude: -83.2630004882812
+  magnetic_variation: -5.417
+BAE:
+  elevation: 1080
+  frequency: 116400000
+  id: BAE
+  latitude: 43.1169013977051
+  longitude: -88.2843017578125
+  magnetic_variation: -2.489
+BAF:
+  elevation: 270
+  frequency: 113000000
+  id: BAF
+  latitude: 42.1619987487793
+  longitude: -72.7162017822266
+  magnetic_variation: -14.256
+BAL:
+  elevation: 140
+  frequency: 115100000
+  id: BAL
+  latitude: 39.1711006164551
+  longitude: -76.6613006591797
+  magnetic_variation: -11.01
+BAM:
+  elevation: 4536
+  frequency: 112200000
+  id: BAM
+  latitude: 40.5691986083984
+  longitude: -116.921997070312
+  magnetic_variation: 14.219
+BAX:
+  elevation: 755
+  frequency: 108200000
+  id: BAX
+  latitude: 43.7827987670898
+  longitude: -82.9838027954102
+  magnetic_variation: -7.373
+BCE:
+  elevation: 9040
+  frequency: 112800000
+  id: BCE
+  latitude: 37.6892013549805
+  longitude: -112.304000854492
+  magnetic_variation: 12.222
+BDA:
+  elevation: 11
+  frequency: 113900000
+  id: BDA
+  latitude: 32.3643989562988
+  longitude: -64.6895980834961
+  magnetic_variation: -15.154
+BDE:
+  elevation: 1081
+  frequency: 111600000
+  id: BDE
+  latitude: 48.7228012084961
+  longitude: -94.6072998046875
+  magnetic_variation: 1.554
+BDF:
+  elevation: 810
+  frequency: 114700000
+  id: BDF
+  latitude: 41.1596984863281
+  longitude: -89.5878982543945
+  magnetic_variation: -1.184
+BDL:
+  elevation: 160
+  frequency: 109000000
+  id: BDL
+  latitude: 41.9410018920898
+  longitude: -72.6885986328125
+  magnetic_variation: -14.219
+BDR:
+  elevation: 9
+  frequency: 108800000
+  id: BDR
+  latitude: 41.160701751709
+  longitude: -73.1244964599609
+  magnetic_variation: -13.512
+BET:
+  elevation: 92
+  frequency: 114100000
+  id: BET
+  latitude: 60.7848014831543
+  longitude: -161.824005126953
+  magnetic_variation: 14.501
+BFD:
+  elevation: 2100
+  frequency: 116600000
+  id: BFD
+  latitude: 41.7863998413086
+  longitude: -78.6194000244141
+  magnetic_variation: -10.268
+BFF:
+  elevation: 4170
+  frequency: 112600000
+  id: BFF
+  latitude: 41.8941993713379
+  longitude: -103.482002258301
+  magnetic_variation: 8.58
+BFM:
+  elevation: 10
+  frequency: 112800000
+  id: BFM
+  latitude: 30.612699508667
+  longitude: -88.0554962158203
+  magnetic_variation: -0.562
+BFV:
+  elevation: 1780
+  frequency: 110000000
+  id: BFV
+  latitude: 35.2369003295898
+  longitude: -99.2061996459961
+  magnetic_variation: 6.064
+BGD:
+  elevation: 3130
+  frequency: 108600000
+  id: BGD
+  latitude: 35.8070983886719
+  longitude: -101.38200378418
+  magnetic_variation: 7.22
+BGQ:
+  elevation: 160
+  frequency: 112500000
+  id: BGQ
+  latitude: 61.5694999694824
+  longitude: -149.966995239258
+  magnetic_variation: 20.248
+BGR:
+  elevation: 359
+  frequency: 114800000
+  id: BGR
+  latitude: 44.8418006896973
+  longitude: -68.8740005493164
+  magnetic_variation: -17.185
+BGS:
+  elevation: 2670
+  frequency: 114300000
+  id: BGS
+  latitude: 32.3856010437012
+  longitude: -101.484001159668
+  magnetic_variation: 7.147
+BIB:
+  elevation: 540
+  frequency: 109000000
+  id: BIB
+  latitude: 38.9202995300293
+  longitude: -88.4817962646484
+  magnetic_variation: -1.501
+BIE:
+  elevation: 1300
+  frequency: 110600000
+  id: BIE
+  latitude: 40.301399230957
+  longitude: -96.7546005249023
+  magnetic_variation: 4.28
+BIG:
+  elevation: 1230
+  frequency: 114900000
+  id: BIG
+  latitude: 64.0044021606445
+  longitude: -145.716995239258
+  magnetic_variation: 22.559
+BIH:
+  elevation: 4110
+  frequency: 109600000
+  id: BIH
+  latitude: 37.3769989013672
+  longitude: -118.366996765137
+  magnetic_variation: 13.546
+BIL:
+  elevation: 3808
+  frequency: 114500000
+  id: BIL
+  latitude: 45.8086013793945
+  longitude: -108.625
+  magnetic_variation: 12.207
+BIS:
+  elevation: 1841
+  frequency: 116500000
+  id: BIS
+  latitude: 46.7617988586426
+  longitude: -100.665000915527
+  magnetic_variation: 7.19
+BJB:
+  elevation: 871
+  frequency: 109800000
+  id: BJB
+  latitude: 43.4220008850098
+  longitude: -88.1251983642578
+  magnetic_variation: -3.015
+BJC:
+  elevation: 5734
+  frequency: 115400000
+  id: BJC
+  latitude: 39.9129981994629
+  longitude: -105.138999938965
+  magnetic_variation: 9.42
+BJI:
+  elevation: 1410
+  frequency: 108600000
+  id: BJI
+  latitude: 47.5759010314941
+  longitude: -95.0248031616211
+  magnetic_variation: 2.29
+BKA:
+  elevation: 240
+  frequency: 113800000
+  id: BKA
+  latitude: 56.8594017028809
+  longitude: -135.550994873047
+  magnetic_variation: 22.092
+BKE:
+  elevation: 3360
+  frequency: 115300000
+  id: BKE
+  latitude: 44.8405990600586
+  longitude: -117.807998657227
+  magnetic_variation: 15.44
+BKW:
+  elevation: 2500
+  frequency: 117700000
+  id: BKW
+  latitude: 37.7803001403809
+  longitude: -81.1234970092773
+  magnetic_variation: -7.256
+BKX:
+  elevation: 1641
+  frequency: 108800000
+  id: BKX
+  latitude: 44.3031997680664
+  longitude: -96.8151016235352
+  magnetic_variation: 4.199
+BLD:
+  elevation: 3650
+  frequency: 116700000
+  id: BLD
+  latitude: 35.9958000183105
+  longitude: -114.863998413086
+  magnetic_variation: 12.471
+BLF:
+  elevation: 2900
+  frequency: 110000000
+  id: BLF
+  latitude: 37.3064002990723
+  longitude: -81.1942977905273
+  magnetic_variation: -7.154
+BLH:
+  elevation: 410
+  frequency: 117400000
+  id: BLH
+  latitude: 33.5960998535156
+  longitude: -114.761001586914
+  magnetic_variation: 12.161
+BMI:
+  elevation: 880
+  frequency: 108200000
+  id: BMI
+  latitude: 40.4808006286621
+  longitude: -88.9311981201172
+  magnetic_variation: -1.442
+BML:
+  elevation: 1730
+  frequency: 110400000
+  id: BML
+  latitude: 44.6333999633789
+  longitude: -71.1860961914062
+  magnetic_variation: -16.101
+BNA:
+  elevation: 566
+  frequency: 114100000
+  id: BNA
+  latitude: 36.1370010375977
+  longitude: -86.6847991943359
+  magnetic_variation: -2.468
+BOI:
+  elevation: 2876
+  frequency: 113300000
+  id: BOI
+  latitude: 43.5527992248535
+  longitude: -116.192001342773
+  magnetic_variation: 14.549
+BOS:
+  elevation: 20
+  frequency: 112700000
+  id: BOS
+  latitude: 42.3573989868164
+  longitude: -70.989501953125
+  magnetic_variation: -15.243
+BOY:
+  elevation: 7550
+  frequency: 117800000
+  id: BOY
+  latitude: 43.4631996154785
+  longitude: -108.300003051758
+  magnetic_variation: 11.467
+BPI:
+  elevation: 6949
+  frequency: 116500000
+  id: BPI
+  latitude: 42.5793991088867
+  longitude: -110.109001159668
+  magnetic_variation: 12.278
+BPT:
+  elevation: 10
+  frequency: 114500000
+  id: BPT
+  latitude: 29.9461002349854
+  longitude: -94.0161972045898
+  magnetic_variation: 3.041
+BQM:
+  elevation: 540
+  frequency: 112200000
+  id: BQM
+  latitude: 38.2302017211914
+  longitude: -85.6647033691406
+  magnetic_variation: -3.587
+BQS:
+  elevation: 930
+  frequency: 111200000
+  id: BQS
+  latitude: 39.6305999755859
+  longitude: -93.8752975463867
+  magnetic_variation: 2.213
+BQU:
+  elevation: 6464
+  frequency: 114500000
+  id: BQU
+  latitude: 40.7597007751465
+  longitude: -115.761001586914
+  magnetic_variation: 14.055
+BQZ:
+  elevation: 8250
+  frequency: 112200000
+  id: BQZ
+  latitude: 40.4636993408203
+  longitude: -106.872001647949
+  magnetic_variation: 10.382
+BRD:
+  elevation: 1250
+  frequency: 116900000
+  id: BRD
+  latitude: 46.3483009338379
+  longitude: -94.0260009765625
+  magnetic_variation: 1.445
+BRK:
+  elevation: 6934
+  frequency: 112500000
+  id: BRK
+  latitude: 38.9444999694824
+  longitude: -104.633003234863
+  magnetic_variation: 9.202
+BRL:
+  elevation: 730
+  frequency: 111400000
+  id: BRL
+  latitude: 40.7234001159668
+  longitude: -90.9259033203125
+  magnetic_variation: -0.073
+BRO:
+  elevation: 10
+  frequency: 116300000
+  id: BRO
+  latitude: 25.9241008758545
+  longitude: -97.3752975463867
+  magnetic_variation: 5.051
+BRV:
+  elevation: 145
+  frequency: 114500000
+  id: BRV
+  latitude: 38.3362998962402
+  longitude: -77.352897644043
+  magnetic_variation: -10.184
+BRW:
+  elevation: 40
+  frequency: 116200000
+  id: BRW
+  latitude: 71.2733993530273
+  longitude: -156.787994384766
+  magnetic_variation: 20.29
+BSR:
+  elevation: 4085
+  frequency: 114000000
+  id: BSR
+  latitude: 36.1813011169434
+  longitude: -121.641998291016
+  magnetic_variation: 14.129
+BSV:
+  elevation: 1230
+  frequency: 112400000
+  id: BSV
+  latitude: 40.7406997680664
+  longitude: -81.4320983886719
+  magnetic_variation: -7.587
+BTG:
+  elevation: 253
+  frequency: 116600000
+  id: BTG
+  latitude: 45.7477989196777
+  longitude: -122.592002868652
+  magnetic_variation: 17.067
+BTL:
+  elevation: 930
+  frequency: 109400000
+  id: BTL
+  latitude: 42.3097991943359
+  longitude: -85.2522964477539
+  magnetic_variation: -5.155
+BTR:
+  elevation: 20
+  frequency: 116500000
+  id: BTR
+  latitude: 30.4850997924805
+  longitude: -91.2940979003906
+  magnetic_variation: 1.172
+BTT:
+  elevation: 634
+  frequency: 116000000
+  id: BTT
+  latitude: 66.9049987792969
+  longitude: -151.535995483398
+  magnetic_variation: 21.396
+BTV:
+  elevation: 420
+  frequency: 117500000
+  id: BTV
+  latitude: 44.3970985412598
+  longitude: -73.1826019287109
+  magnetic_variation: -15
+BTY:
+  elevation: 2925
+  frequency: 114700000
+  id: BTY
+  latitude: 36.8005981445312
+  longitude: -116.748001098633
+  magnetic_variation: 13.258
+BUA:
+  elevation: 3020
+  frequency: 109400000
+  id: BUA
+  latitude: 45.5522003173828
+  longitude: -103.456001281738
+  magnetic_variation: 9.151
+BUD:
+  elevation: 991
+  frequency: 109800000
+  id: BUD
+  latitude: 40.6166000366211
+  longitude: -83.0637969970703
+  magnetic_variation: -6.383
+BUF:
+  elevation: 730
+  frequency: 116400000
+  id: BUF
+  latitude: 42.9290008544922
+  longitude: -78.6463012695312
+  magnetic_variation: -10.486
+BUM:
+  elevation: 890
+  frequency: 115900000
+  id: BUM
+  latitude: 38.2720985412598
+  longitude: -94.4881973266602
+  magnetic_variation: 2.549
+BUU:
+  elevation: 780
+  frequency: 114500000
+  id: BUU
+  latitude: 42.6893005371094
+  longitude: -88.3018035888672
+  magnetic_variation: -2.424
+BVL:
+  elevation: 4220
+  frequency: 112300000
+  id: BVL
+  latitude: 40.7261009216309
+  longitude: -113.75700378418
+  magnetic_variation: 13.284
+BVO:
+  elevation: 940
+  frequency: 117900000
+  id: BVO
+  latitude: 36.8342018127441
+  longitude: -96.0183029174805
+  magnetic_variation: 4.041
+BVR:
+  elevation: 5252
+  frequency: 113500000
+  id: BVR
+  latitude: 39.7658004760742
+  longitude: -103.928001403809
+  magnetic_variation: 9.024
+BVT:
+  elevation: 750
+  frequency: 115100000
+  id: BVT
+  latitude: 40.5560989379883
+  longitude: -87.0692977905273
+  magnetic_variation: -3.185
+BWD:
+  elevation: 1571
+  frequency: 108600000
+  id: BWD
+  latitude: 31.892599105835
+  longitude: -98.9574966430664
+  magnetic_variation: 5.544
+BWG:
+  elevation: 565
+  frequency: 117900000
+  id: BWG
+  latitude: 36.9286994934082
+  longitude: -86.4433975219727
+  magnetic_variation: -3.066
+BWS:
+  elevation: 4100
+  frequency: 109600000
+  id: BWS
+  latitude: 32.8213005065918
+  longitude: -106.013000488281
+  magnetic_variation: 9.198
+BWZ:
+  elevation: 1048
+  frequency: 114200000
+  id: BWZ
+  latitude: 40.7984008789062
+  longitude: -74.8218002319336
+  magnetic_variation: -12.43
+BXK:
+  elevation: 1060
+  frequency: 110600000
+  id: BXK
+  latitude: 33.453498840332
+  longitude: -112.824996948242
+  magnetic_variation: 11.442
+BXZ:
+  elevation: 805
+  frequency: 113200000
+  id: BXZ
+  latitude: 44.2426986694336
+  longitude: -84.1835021972656
+  magnetic_variation: -6.44
+BYI:
+  elevation: 4230
+  frequency: 114100000
+  id: BYI
+  latitude: 42.5802001953125
+  longitude: -113.865997314453
+  magnetic_variation: 13.555
+BYP:
+  elevation: 700
+  frequency: 114600000
+  id: BYP
+  latitude: 33.5374984741211
+  longitude: -96.2341003417969
+  magnetic_variation: 4.182
+BZA:
+  elevation: 130
+  frequency: 116800000
+  id: BZA
+  latitude: 32.7681007385254
+  longitude: -114.602996826172
+  magnetic_variation: 12.039
+BZM:
+  elevation: 1880
+  frequency: 110800000
+  id: BZM
+  latitude: 35.8689002990723
+  longitude: -81.2405014038086
+  magnetic_variation: -6.528
+BZN:
+  elevation: 4430
+  frequency: 112400000
+  id: BZN
+  latitude: 45.7839012145996
+  longitude: -111.154998779297
+  magnetic_variation: 13.342
+CAE:
+  elevation: 400
+  frequency: 114700000
+  id: CAE
+  latitude: 33.8572998046875
+  longitude: -81.0539016723633
+  magnetic_variation: -6.34
+CAM:
+  elevation: 1490
+  frequency: 115000000
+  id: CAM
+  latitude: 42.9943008422852
+  longitude: -73.3440017700195
+  magnetic_variation: -14.221
+CBM:
+  elevation: 220
+  frequency: 115200000
+  id: CBM
+  latitude: 33.6414985656738
+  longitude: -88.4384994506836
+  magnetic_variation: -1.042
+CCC:
+  elevation: 86
+  frequency: 117200000
+  id: CCC
+  latitude: 40.9295997619629
+  longitude: -72.7988967895508
+  magnetic_variation: -13.576
+CCR:
+  elevation: 5
+  frequency: 117000000
+  id: CCR
+  latitude: 38.0448989868164
+  longitude: -122.044998168945
+  magnetic_variation: 14.461
+CCT:
+  elevation: 450
+  frequency: 109800000
+  id: CCT
+  latitude: 37.3824005126953
+  longitude: -87.2637023925781
+  magnetic_variation: -2.327
+CCV:
+  elevation: 10
+  frequency: 112200000
+  id: CCV
+  latitude: 37.3474998474121
+  longitude: -75.9977035522461
+  magnetic_variation: -10.561
+CDB:
+  elevation: 97
+  frequency: 112600000
+  id: CDB
+  latitude: 55.2673988342285
+  longitude: -162.774002075195
+  magnetic_variation: 13.27
+CDC:
+  elevation: 5464
+  frequency: 117300000
+  id: CDC
+  latitude: 37.7873001098633
+  longitude: -113.068000793457
+  magnetic_variation: 12.382
+CDR:
+  elevation: 4630
+  frequency: 113400000
+  id: CDR
+  latitude: 42.5587997436523
+  longitude: -103.311996459961
+  magnetic_variation: 8.551
+CDS:
+  elevation: 1920
+  frequency: 117600000
+  id: CDS
+  latitude: 34.3690986633301
+  longitude: -100.289001464844
+  magnetic_variation: 6.422
+CEC:
+  elevation: 50
+  frequency: 109000000
+  id: CEC
+  latitude: 41.779598236084
+  longitude: -124.240997314453
+  magnetic_variation: 16.088
+CEF:
+  elevation: 241
+  frequency: 114000000
+  id: CEF
+  latitude: 42.1974983215332
+  longitude: -72.5262985229492
+  magnetic_variation: -14.327
+CEN:
+  elevation: 205
+  frequency: 115100000
+  id: CEN
+  latitude: 27.3948001861572
+  longitude: -109.83699798584
+  magnetic_variation: 9.567
+CEW:
+  elevation: 255
+  frequency: 115900000
+  id: CEW
+  latitude: 30.8262004852295
+  longitude: -86.6791000366211
+  magnetic_variation: -1.562
+CEZ:
+  elevation: 6223
+  frequency: 108400000
+  id: CEZ
+  latitude: 37.3898010253906
+  longitude: -108.561996459961
+  magnetic_variation: 10.572
+CFB:
+  elevation: 1570
+  frequency: 112200000
+  id: CFB
+  latitude: 42.1575012207031
+  longitude: -76.1364974975586
+  magnetic_variation: -12.193
+CGG:
+  elevation: 1153
+  frequency: 109800000
+  id: CGG
+  latitude: 44.6815986633301
+  longitude: -84.7288970947266
+  magnetic_variation: -6.233
+CGI:
+  elevation: 340
+  frequency: 112900000
+  id: CGI
+  latitude: 37.2275009155273
+  longitude: -89.5724029541016
+  magnetic_variation: -0.425
+CGT:
+  elevation: 630
+  frequency: 114200000
+  id: CGT
+  latitude: 41.5099983215332
+  longitude: -87.5715026855469
+  magnetic_variation: -3.051
+CHE:
+  elevation: 7230
+  frequency: 115600000
+  id: CHE
+  latitude: 40.5200996398926
+  longitude: -107.305000305176
+  magnetic_variation: 10.512
+CHS:
+  elevation: 39
+  frequency: 113500000
+  id: CHS
+  latitude: 32.8942985534668
+  longitude: -80.0378036499023
+  magnetic_variation: -7.049
+CIC:
+  elevation: 220
+  frequency: 109800000
+  id: CIC
+  latitude: 39.7897987365723
+  longitude: -121.84700012207
+  magnetic_variation: 15.126
+CID:
+  elevation: 870
+  frequency: 114100000
+  id: CID
+  latitude: 41.8875007629395
+  longitude: -91.7856979370117
+  magnetic_variation: 0.256
+CIE:
+  elevation: 4230
+  frequency: 115800000
+  id: CIE
+  latitude: 32.0334014892578
+  longitude: -109.758003234863
+  magnetic_variation: 10.35
+CIM:
+  elevation: 6550
+  frequency: 116400000
+  id: CIM
+  latitude: 36.4914016723633
+  longitude: -104.872001647949
+  magnetic_variation: 9.127
+CIP:
+  elevation: 1530
+  frequency: 112900000
+  id: CIP
+  latitude: 41.1463012695312
+  longitude: -79.4580001831055
+  magnetic_variation: -9.372
+CJS:
+  elevation: 3904
+  frequency: 116700000
+  id: CJS
+  latitude: 31.6361999511719
+  longitude: -106.427001953125
+  magnetic_variation: 9.217
+CKB:
+  elevation: 1430
+  frequency: 112600000
+  id: CKB
+  latitude: 39.2532005310059
+  longitude: -80.2678985595703
+  magnetic_variation: -8.276
+CKV:
+  elevation: 540
+  frequency: 110600000
+  id: CKV
+  latitude: 36.6220016479492
+  longitude: -87.41259765625
+  magnetic_variation: -2.179
+CKW:
+  elevation: 7050
+  frequency: 115000000
+  id: CKW
+  latitude: 41.7556991577148
+  longitude: -107.582000732422
+  magnetic_variation: 11.098
+CKZ:
+  elevation: 552
+  frequency: 108850000
+  id: CKZ
+  latitude: 40.3908996582031
+  longitude: -75.2888031005859
+  magnetic_variation: -12.175
+CLL:
+  elevation: 370
+  frequency: 113300000
+  id: CLL
+  latitude: 30.6049995422363
+  longitude: -96.4207000732422
+  magnetic_variation: 4.289
+CLT:
+  elevation: 732
+  frequency: 115000000
+  id: CLT
+  latitude: 35.190299987793
+  longitude: -80.9516983032227
+  magnetic_variation: -6.563
+CMA:
+  elevation: 62
+  frequency: 115800000
+  id: CMA
+  latitude: 34.2125015258789
+  longitude: -119.09400177002
+  magnetic_variation: 13.187
+CME:
+  elevation: 3772
+  frequency: 116100000
+  id: CME
+  latitude: 33.3375015258789
+  longitude: -104.621002197266
+  magnetic_variation: 8.475
+CMI:
+  elevation: 750
+  frequency: 110000000
+  id: CMI
+  latitude: 40.0345001220703
+  longitude: -88.2761001586914
+  magnetic_variation: -2.12
+CMK:
+  elevation: 690
+  frequency: 116600000
+  id: CMK
+  latitude: 41.280101776123
+  longitude: -73.5813980102539
+  magnetic_variation: -13.377
+CMX:
+  elevation: 1072
+  frequency: 112800000
+  id: CMX
+  latitude: 47.1702995300293
+  longitude: -88.4853973388672
+  magnetic_variation: -3.395
+CNG:
+  elevation: 480
+  frequency: 113100000
+  id: CNG
+  latitude: 37.0085983276367
+  longitude: -88.8368988037109
+  magnetic_variation: -1.149
+CNM:
+  elevation: 3250
+  frequency: 116300000
+  id: CNM
+  latitude: 32.2565994262695
+  longitude: -104.225997924805
+  magnetic_variation: 8.313
+CNU:
+  elevation: 1080
+  frequency: 109200000
+  id: CNU
+  latitude: 37.6260986328125
+  longitude: -95.5934982299805
+  magnetic_variation: 3.446
+CNX:
+  elevation: 6411
+  frequency: 115500000
+  id: CNX
+  latitude: 34.367000579834
+  longitude: -105.678001403809
+  magnetic_variation: 9.214
+COD:
+  elevation: 4794
+  frequency: 111800000
+  id: COD
+  latitude: 44.6203994750977
+  longitude: -108.964996337891
+  magnetic_variation: 12.183
+COE:
+  elevation: 2290
+  frequency: 108800000
+  id: COE
+  latitude: 47.7737007141113
+  longitude: -116.820999145508
+  magnetic_variation: 16.177
+COL:
+  elevation: 120
+  frequency: 115400000
+  id: COL
+  latitude: 40.3116989135742
+  longitude: -74.159797668457
+  magnetic_variation: -12.581
+CON:
+  elevation: 710
+  frequency: 112900000
+  id: CON
+  latitude: 43.219799041748
+  longitude: -71.5755004882812
+  magnetic_variation: -15.253
+COT:
+  elevation: 520
+  frequency: 115800000
+  id: COT
+  latitude: 28.4619998931885
+  longitude: -99.1184997558594
+  magnetic_variation: 5.567
+COU:
+  elevation: 883
+  frequency: 110200000
+  id: COU
+  latitude: 38.8107986450195
+  longitude: -92.2182998657227
+  magnetic_variation: 1.092
+CPN:
+  elevation: 5780
+  frequency: 111600000
+  id: CPN
+  latitude: 46.0320014953613
+  longitude: -112.748001098633
+  magnetic_variation: 14.187
+CQY:
+  elevation: 400
+  frequency: 114800000
+  id: CQY
+  latitude: 32.1856994628906
+  longitude: -96.2181015014648
+  magnetic_variation: 4.195
+CRE:
+  elevation: 20
+  frequency: 117600000
+  id: CRE
+  latitude: 33.8138008117676
+  longitude: -78.7245025634766
+  magnetic_variation: -8.123
+CRG:
+  elevation: 40
+  frequency: 114500000
+  id: CRG
+  latitude: 30.3388996124268
+  longitude: -81.5099029541016
+  magnetic_variation: -5.31
+CRI:
+  elevation: 10
+  frequency: 112300000
+  id: CRI
+  latitude: 40.6124992370605
+  longitude: -73.894401550293
+  magnetic_variation: -13.134
+CRL:
+  elevation: 630
+  frequency: 115700000
+  id: CRL
+  latitude: 42.0480995178223
+  longitude: -83.4576034545898
+  magnetic_variation: -6.423
+CRP:
+  elevation: 60
+  frequency: 115500000
+  id: CRP
+  latitude: 27.9037990570068
+  longitude: -97.4449005126953
+  magnetic_variation: 5.054
+CSG:
+  elevation: 630
+  frequency: 117100000
+  id: CSG
+  latitude: 32.6152992248535
+  longitude: -85.0176010131836
+  magnetic_variation: -3.255
+CSI:
+  elevation: 2080
+  frequency: 117500000
+  id: CSI
+  latitude: 29.9223003387451
+  longitude: -99.2145004272461
+  magnetic_variation: 6.008
+CSN:
+  elevation: 445
+  frequency: 116300000
+  id: CSN
+  latitude: 38.6412010192871
+  longitude: -77.8655014038086
+  magnetic_variation: -10.022
+CSX:
+  elevation: 530
+  frequency: 116450000
+  id: CSX
+  latitude: 38.7527008056641
+  longitude: -90.3609008789062
+  magnetic_variation: -0.18
+CTB:
+  elevation: 3780
+  frequency: 114400000
+  id: CTB
+  latitude: 48.5648994445801
+  longitude: -112.343002319336
+  magnetic_variation: 14.46
+CTF:
+  elevation: 560
+  frequency: 108200000
+  id: CTF
+  latitude: 34.6505012512207
+  longitude: -80.27490234375
+  magnetic_variation: -7.183
+CTR:
+  elevation: 1600
+  frequency: 115100000
+  id: CTR
+  latitude: 42.2913017272949
+  longitude: -72.9494018554688
+  magnetic_variation: -14.204
+CTW:
+  elevation: 1180
+  frequency: 111800000
+  id: CTW
+  latitude: 40.2291984558105
+  longitude: -81.4765014648438
+  magnetic_variation: -7.48
+CTY:
+  elevation: 30
+  frequency: 112000000
+  id: CTY
+  latitude: 29.5990009307861
+  longitude: -83.048698425293
+  magnetic_variation: -4.178
+CUL:
+  elevation: 108
+  frequency: 112200000
+  id: CUL
+  latitude: 24.7644004821777
+  longitude: -107.476997375488
+  magnetic_variation: 8.588
+CUS:
+  elevation: 4008
+  frequency: 111200000
+  id: CUS
+  latitude: 31.8190994262695
+  longitude: -107.573997497559
+  magnetic_variation: 9.486
+CUU:
+  elevation: 4462
+  frequency: 114100000
+  id: CUU
+  latitude: 28.798999786377
+  longitude: -105.952003479004
+  magnetic_variation: 8.532
+CUZ:
+  elevation: 2850
+  frequency: 108200000
+  id: CUZ
+  latitude: 41.484001159668
+  longitude: -99.6891021728516
+  magnetic_variation: 6.314
+CVA:
+  elevation: 760
+  frequency: 113800000
+  id: CVA
+  latitude: 41.7084999084473
+  longitude: -90.4832992553711
+  magnetic_variation: -0.386
+CVE:
+  elevation: 450
+  frequency: 116200000
+  id: CVE
+  latitude: 32.8903007507324
+  longitude: -96.9039993286133
+  magnetic_variation: 4.436
+CVG:
+  elevation: 879
+  frequency: 117300000
+  id: CVG
+  latitude: 39.015998840332
+  longitude: -84.7033004760742
+  magnetic_variation: -4.552
+CVI:
+  elevation: 70
+  frequency: 114600000
+  id: CVI
+  latitude: 36.3728981018066
+  longitude: -76.8715972900391
+  magnetic_variation: -10.059
+CVO:
+  elevation: 250
+  frequency: 115400000
+  id: CVO
+  latitude: 44.4995994567871
+  longitude: -123.293998718262
+  magnetic_variation: 16.502
+CVV:
+  elevation: 200
+  frequency: 117200000
+  id: CVV
+  latitude: 48.244701385498
+  longitude: -122.723999023438
+  magnetic_variation: 17.584
+CWK:
+  elevation: 593
+  frequency: 112800000
+  id: CWK
+  latitude: 30.3784999847412
+  longitude: -97.5298004150391
+  magnetic_variation: 5.068
+CXR:
+  elevation: 1310
+  frequency: 112700000
+  id: CXR
+  latitude: 41.5168991088867
+  longitude: -81.163200378418
+  magnetic_variation: -8.25
+CYN:
+  elevation: 210
+  frequency: 113400000
+  id: CYN
+  latitude: 39.8172988891602
+  longitude: -74.4316024780273
+  magnetic_variation: -12.388
+CYS:
+  elevation: 6210
+  frequency: 113100000
+  id: CYS
+  latitude: 41.2109985351562
+  longitude: -104.773002624512
+  magnetic_variation: 9.385
+CYY:
+  elevation: 9
+  frequency: 108600000
+  id: CYY
+  latitude: 26.1534004211426
+  longitude: -81.7780990600586
+  magnetic_variation: -4.322
+CZI:
+  elevation: 4798
+  frequency: 117300000
+  id: CZI
+  latitude: 43.999698638916
+  longitude: -106.435997009277
+  magnetic_variation: 10.533
+CZQ:
+  elevation: 363
+  frequency: 112900000
+  id: CZQ
+  latitude: 36.8843002319336
+  longitude: -119.815002441406
+  magnetic_variation: 14.054
+DAG:
+  elevation: 1760
+  frequency: 113200000
+  id: DAG
+  latitude: 34.9625015258789
+  longitude: -116.578002929688
+  magnetic_variation: 12.587
+DAK:
+  elevation: 1530
+  frequency: 108800000
+  id: DAK
+  latitude: 36.0429000854492
+  longitude: -94.1976013183594
+  magnetic_variation: 2.508
+DAN:
+  elevation: 570
+  frequency: 113100000
+  id: DAN
+  latitude: 36.5689010620117
+  longitude: -79.3367004394531
+  magnetic_variation: -8.264
+DAS:
+  elevation: 75
+  frequency: 116900000
+  id: DAS
+  latitude: 30.1896991729736
+  longitude: -94.6449966430664
+  magnetic_variation: 3.264
+DBL:
+  elevation: 11758
+  frequency: 113000000
+  id: DBL
+  latitude: 39.4393005371094
+  longitude: -106.894996643066
+  magnetic_variation: 10.306
+DBN:
+  elevation: 300
+  frequency: 113100000
+  id: DBN
+  latitude: 32.5606994628906
+  longitude: -82.8331985473633
+  magnetic_variation: -5.006
+DBQ:
+  elevation: 1051
+  frequency: 115800000
+  id: DBQ
+  latitude: 42.4015007019043
+  longitude: -90.709098815918
+  magnetic_variation: -0.339
+DBS:
+  elevation: 4915
+  frequency: 116900000
+  id: DBS
+  latitude: 44.0889015197754
+  longitude: -112.208999633789
+  magnetic_variation: 13.388
+DCA:
+  elevation: 9
+  frequency: 111000000
+  id: DCA
+  latitude: 38.8595008850098
+  longitude: -77.0363998413086
+  magnetic_variation: -10.403
+DCU:
+  elevation: 590
+  frequency: 112800000
+  id: DCU
+  latitude: 34.6483001708984
+  longitude: -86.9394989013672
+  magnetic_variation: -2.202
+DDC:
+  elevation: 2565
+  frequency: 108200000
+  id: DDC
+  latitude: 37.8506011962891
+  longitude: -100.005996704102
+  magnetic_variation: 6.389
+DDD:
+  elevation: 540
+  frequency: 116500000
+  id: DDD
+  latitude: 41.3664016723633
+  longitude: -91.1491012573242
+  magnetic_variation: -0.018
+DDL:
+  elevation: 1417
+  frequency: 108600000
+  id: DDL
+  latitude: 43.212100982666
+  longitude: -95.8339004516602
+  magnetic_variation: 3.368
+DDY:
+  elevation: 5860
+  frequency: 116200000
+  id: DDY
+  latitude: 43.0909004211426
+  longitude: -106.277000427246
+  magnetic_variation: 10.408
+DEC:
+  elevation: 700
+  frequency: 117200000
+  id: DEC
+  latitude: 39.7374992370605
+  longitude: -88.8563995361328
+  magnetic_variation: -1.401
+DEL:
+  elevation: 3888
+  frequency: 113500000
+  id: DEL
+  latitude: 28.2140998840332
+  longitude: -105.447998046875
+  magnetic_variation: 8.39
+DEN:
+  elevation: 5440
+  frequency: 117900000
+  id: DEN
+  latitude: 39.8125
+  longitude: -104.661003112793
+  magnetic_variation: 9.263
+DGD:
+  elevation: 1600
+  frequency: 109400000
+  id: DGD
+  latitude: 37.0234985351562
+  longitude: -92.8768997192383
+  magnetic_variation: 1.495
+DGO:
+  elevation: 6104
+  frequency: 112900000
+  id: DGO
+  latitude: 24.1380004882812
+  longitude: -104.515998840332
+  magnetic_variation: 8.007
+DHP:
+  elevation: 10
+  frequency: 113900000
+  id: DHP
+  latitude: 25.7999992370605
+  longitude: -80.3489990234375
+  magnetic_variation: -5.257
+DHT:
+  elevation: 4020
+  frequency: 112000000
+  id: DHT
+  latitude: 36.0914993286133
+  longitude: -102.544998168945
+  magnetic_variation: 8.006
+DIK:
+  elevation: 2520
+  frequency: 112900000
+  id: DIK
+  latitude: 46.8600006103516
+  longitude: -102.774002075195
+  magnetic_variation: 8.528
+DJB:
+  elevation: 780
+  frequency: 113600000
+  id: DJB
+  latitude: 41.3581008911133
+  longitude: -82.1620025634766
+  magnetic_variation: -7.344
+DKK:
+  elevation: 680
+  frequency: 116200000
+  id: DKK
+  latitude: 42.4906005859375
+  longitude: -79.2741012573242
+  magnetic_variation: -10.114
+DLF:
+  elevation: 1071
+  frequency: 114400000
+  id: DLF
+  latitude: 29.3609008789062
+  longitude: -100.772003173828
+  magnetic_variation: 6.461
+DLG:
+  elevation: 119
+  frequency: 116400000
+  id: DLG
+  latitude: 58.9942016601562
+  longitude: -158.552001953125
+  magnetic_variation: 16.013
+DLH:
+  elevation: 1430
+  frequency: 112600000
+  id: DLH
+  latitude: 46.8022003173828
+  longitude: -92.2029037475586
+  magnetic_variation: -0.011
+DLL:
+  elevation: 1020
+  frequency: 117000000
+  id: DLL
+  latitude: 43.5508995056152
+  longitude: -89.7636032104492
+  magnetic_variation: -1.36
+DLN:
+  elevation: 5260
+  frequency: 113000000
+  id: DLN
+  latitude: 45.2486000061035
+  longitude: -112.546997070312
+  magnetic_variation: 14.027
+DMN:
+  elevation: 4210
+  frequency: 108600000
+  id: DMN
+  latitude: 32.2756004333496
+  longitude: -107.605003356934
+  magnetic_variation: 9.528
+DNJ:
+  elevation: 7300
+  frequency: 116200000
+  id: DNJ
+  latitude: 44.7671012878418
+  longitude: -116.206001281738
+  magnetic_variation: 15.142
+DNV:
+  elevation: 700
+  frequency: 111000000
+  id: DNV
+  latitude: 40.2938003540039
+  longitude: -87.5571975708008
+  magnetic_variation: -2.508
+DNW:
+  elevation: 7720
+  frequency: 117200000
+  id: DNW
+  latitude: 43.8283004760742
+  longitude: -110.334999084473
+  magnetic_variation: 12.479
+DNY:
+  elevation: 2560
+  frequency: 112100000
+  id: DNY
+  latitude: 42.1782989501953
+  longitude: -74.956901550293
+  magnetic_variation: -13.057
+DPA:
+  elevation: 800
+  frequency: 108400000
+  id: DPA
+  latitude: 41.8903999328613
+  longitude: -88.3501968383789
+  magnetic_variation: -2.298
+DPK:
+  elevation: 117
+  frequency: 117700000
+  id: DPK
+  latitude: 40.7918014526367
+  longitude: -73.3037033081055
+  magnetic_variation: -13.377
+DPR:
+  elevation: 2530
+  frequency: 116800000
+  id: DPR
+  latitude: 45.0780982971191
+  longitude: -101.714996337891
+  magnetic_variation: 8.019
+DQN:
+  elevation: 990
+  frequency: 114500000
+  id: DQN
+  latitude: 40.0163993835449
+  longitude: -84.3968963623047
+  magnetic_variation: -5.241
+DQO:
+  elevation: 70
+  frequency: 114000000
+  id: DQO
+  latitude: 39.6781005859375
+  longitude: -75.6071014404297
+  magnetic_variation: -11.519
+DRK:
+  elevation: 4963
+  frequency: 114100000
+  id: DRK
+  latitude: 34.7025985717773
+  longitude: -112.480003356934
+  magnetic_variation: 11.52
+DRO:
+  elevation: 6660
+  frequency: 108200000
+  id: DRO
+  latitude: 37.1533012390137
+  longitude: -107.75
+  magnetic_variation: 10.35
+DRU:
+  elevation: 4150
+  frequency: 117100000
+  id: DRU
+  latitude: 46.636100769043
+  longitude: -113.186996459961
+  magnetic_variation: 14.385
+DSD:
+  elevation: 4100
+  frequency: 117600000
+  id: DSD
+  latitude: 44.252799987793
+  longitude: -121.304000854492
+  magnetic_variation: 16.236
+DSM:
+  elevation: 940
+  frequency: 117500000
+  id: DSM
+  latitude: 41.4370002746582
+  longitude: -93.6486968994141
+  magnetic_variation: 2.006
+DTA:
+  elevation: 4600
+  frequency: 116100000
+  id: DTA
+  latitude: 39.3022994995117
+  longitude: -112.505996704102
+  magnetic_variation: 12.454
+DTL:
+  elevation: 1384
+  frequency: 111200000
+  id: DTL
+  latitude: 46.8255004882812
+  longitude: -95.8873977661133
+  magnetic_variation: 3.21
+DTN:
+  elevation: 175
+  frequency: 108600000
+  id: DTN
+  latitude: 32.5399017333984
+  longitude: -93.7413024902344
+  magnetic_variation: 2.448
+DUC:
+  elevation: 1090
+  frequency: 111000000
+  id: DUC
+  latitude: 34.3844985961914
+  longitude: -97.9168014526367
+  magnetic_variation: 5.197
+DUG:
+  elevation: 4160
+  frequency: 108800000
+  id: DUG
+  latitude: 31.4727001190186
+  longitude: -109.601997375488
+  magnetic_variation: 10.271
+DVC:
+  elevation: 6990
+  frequency: 114600000
+  id: DVC
+  latitude: 37.8087997436523
+  longitude: -108.930999755859
+  magnetic_variation: 11.099
+DVL:
+  elevation: 1450
+  frequency: 111000000
+  id: DVL
+  latitude: 48.1152000427246
+  longitude: -98.9124984741211
+  magnetic_variation: 5.534
+DVV:
+  elevation: 5270
+  frequency: 114700000
+  id: DVV
+  latitude: 39.8946990966797
+  longitude: -104.624000549316
+  magnetic_variation: 9.257
+DWN:
+  elevation: 1130
+  frequency: 109000000
+  id: DWN
+  latitude: 45.0875015258789
+  longitude: -94.4537963867188
+  magnetic_variation: 2.171
+DXO:
+  elevation: 638
+  frequency: 113400000
+  id: DXO
+  latitude: 42.2131004333496
+  longitude: -83.36669921875
+  magnetic_variation: -6.497
+DYR:
+  elevation: 380
+  frequency: 116800000
+  id: DYR
+  latitude: 36.0186004638672
+  longitude: -89.3175964355469
+  magnetic_variation: -0.442
+EAR:
+  elevation: 2130
+  frequency: 111200000
+  id: EAR
+  latitude: 40.7256011962891
+  longitude: -99.0050964355469
+  magnetic_variation: 6.03
+EAT:
+  elevation: 1224
+  frequency: 111000000
+  id: EAT
+  latitude: 47.3997001647949
+  longitude: -120.210998535156
+  magnetic_variation: 17.084
+EAU:
+  elevation: 900
+  frequency: 112900000
+  id: EAU
+  latitude: 44.8977012634277
+  longitude: -91.4785003662109
+  magnetic_variation: -0.195
+ECA:
+  elevation: 48
+  frequency: 116000000
+  id: ECA
+  latitude: 37.8335990905762
+  longitude: -121.170997619629
+  magnetic_variation: 14.343
+ECB:
+  elevation: 1070
+  frequency: 110400000
+  id: ECB
+  latitude: 38.1584014892578
+  longitude: -82.9101028442383
+  magnetic_variation: -6.088
+ECG:
+  elevation: 10
+  frequency: 112500000
+  id: ECG
+  latitude: 36.2575988769531
+  longitude: -76.1755981445312
+  magnetic_variation: -10.316
+ECK:
+  elevation: 810
+  frequency: 114000000
+  id: ECK
+  latitude: 43.2559013366699
+  longitude: -82.717903137207
+  magnetic_variation: -7.409
+ECS:
+  elevation: 4211
+  frequency: 108200000
+  id: ECS
+  latitude: 43.8811988830566
+  longitude: -104.307998657227
+  magnetic_variation: 9.385
+EDN:
+  elevation: 369
+  frequency: 116600000
+  id: EDN
+  latitude: 31.2959995269775
+  longitude: -85.9032974243164
+  magnetic_variation: -2.338
+EDS:
+  elevation: 189
+  frequency: 111400000
+  id: EDS
+  latitude: 33.4556999206543
+  longitude: -80.8583984375
+  magnetic_variation: -6.372
+EDW:
+  elevation: 2354
+  frequency: 116400000
+  id: EDW
+  latitude: 34.9823989868164
+  longitude: -117.733001708984
+  magnetic_variation: 13.138
+EED:
+  elevation: 620
+  frequency: 115200000
+  id: EED
+  latitude: 34.765998840332
+  longitude: -114.473999023438
+  magnetic_variation: 12.259
+EEN:
+  elevation: 1380
+  frequency: 109400000
+  id: EEN
+  latitude: 42.7943000793457
+  longitude: -72.2918014526367
+  magnetic_variation: -14.531
+EHF:
+  elevation: 550
+  frequency: 115400000
+  id: EHF
+  latitude: 35.4846000671387
+  longitude: -119.09700012207
+  magnetic_variation: 13.369
+EIC:
+  elevation: 190
+  frequency: 117400000
+  id: EIC
+  latitude: 32.7714004516602
+  longitude: -93.8098983764648
+  magnetic_variation: 2.467
+EKN:
+  elevation: 2160
+  frequency: 114200000
+  id: EKN
+  latitude: 38.9143981933594
+  longitude: -80.0992965698242
+  magnetic_variation: -8.296
+EKR:
+  elevation: 7620
+  frequency: 115200000
+  id: EKR
+  latitude: 40.0675010681152
+  longitude: -107.925003051758
+  magnetic_variation: 11.046
+ELA:
+  elevation: 190
+  frequency: 116400000
+  id: ELA
+  latitude: 29.6625003814697
+  longitude: -96.3171997070312
+  magnetic_variation: 4.266
+ELB:
+  elevation: 336
+  frequency: 117200000
+  id: ELB
+  latitude: 33.6759986877441
+  longitude: -117.731002807617
+  magnetic_variation: 12.561
+ELD:
+  elevation: 230
+  frequency: 115500000
+  id: ELD
+  latitude: 33.2561988830566
+  longitude: -92.743896484375
+  magnetic_variation: 2.019
+ELN:
+  elevation: 1766
+  frequency: 117900000
+  id: ELN
+  latitude: 47.024299621582
+  longitude: -120.458000183105
+  magnetic_variation: 17.046
+ELO:
+  elevation: 1490
+  frequency: 109600000
+  id: ELO
+  latitude: 47.8218994140625
+  longitude: -91.8301010131836
+  magnetic_variation: -0.352
+ELP:
+  elevation: 4020
+  frequency: 115200000
+  id: ELP
+  latitude: 31.8159008026123
+  longitude: -106.281997680664
+  magnetic_variation: 9.196
+ELW:
+  elevation: 740
+  frequency: 108600000
+  id: ELW
+  latitude: 34.4192008972168
+  longitude: -82.7846984863281
+  magnetic_variation: -5.265
+ELX:
+  elevation: 795
+  frequency: 116600000
+  id: ELX
+  latitude: 42.144401550293
+  longitude: -86.1225967407227
+  magnetic_variation: -4.282
+ELY:
+  elevation: 6254
+  frequency: 110600000
+  id: ELY
+  latitude: 39.2980995178223
+  longitude: -114.847999572754
+  magnetic_variation: 13.296
+ELZ:
+  elevation: 2296
+  frequency: 111400000
+  id: ELZ
+  latitude: 42.089599609375
+  longitude: -77.9994964599609
+  magnetic_variation: -11
+EMG:
+  elevation: 160
+  frequency: 111200000
+  id: EMG
+  latitude: 32.4001998901367
+  longitude: -93.595100402832
+  magnetic_variation: 2.395
+EMI:
+  elevation: 820
+  frequency: 117900000
+  id: EMI
+  latitude: 39.4949989318848
+  longitude: -76.9785995483398
+  magnetic_variation: -10.539
+EMP:
+  elevation: 1220
+  frequency: 112800000
+  id: EMP
+  latitude: 38.2910995483398
+  longitude: -96.1380996704102
+  magnetic_variation: 4.059
+ENA:
+  elevation: 114
+  frequency: 117600000
+  id: ENA
+  latitude: 60.6147003173828
+  longitude: -151.195007324219
+  magnetic_variation: 19.372
+END:
+  elevation: 1304
+  frequency: 115400000
+  id: END
+  latitude: 36.3450012207031
+  longitude: -97.9182968139648
+  magnetic_variation: 5.197
+ENE:
+  elevation: 190
+  frequency: 117100000
+  id: ENE
+  latitude: 43.4257011413574
+  longitude: -70.6135025024414
+  magnetic_variation: -15.588
+ENI:
+  elevation: 2980
+  frequency: 112300000
+  id: ENI
+  latitude: 39.0531997680664
+  longitude: -123.274002075195
+  magnetic_variation: 15.134
+ENL:
+  elevation: 550
+  frequency: 115000000
+  id: ENL
+  latitude: 38.4199981689453
+  longitude: -89.1589965820312
+  magnetic_variation: -1.126
+ENM:
+  elevation: 5
+  frequency: 117800000
+  id: ENM
+  latitude: 62.7845993041992
+  longitude: -164.488006591797
+  magnetic_variation: 13.521
+ENN:
+  elevation: 1600
+  frequency: 115800000
+  id: ENN
+  latitude: 64.5899963378906
+  longitude: -149.072998046875
+  magnetic_variation: 21.522
+ENO:
+  elevation: 10
+  frequency: 111400000
+  id: ENO
+  latitude: 39.2317008972168
+  longitude: -75.5158996582031
+  magnetic_variation: -11.473
+ENW:
+  elevation: 735
+  frequency: 109200000
+  id: ENW
+  latitude: 42.5990982055664
+  longitude: -87.9317016601562
+  magnetic_variation: -3.006
+EON:
+  elevation: 690
+  frequency: 113200000
+  id: EON
+  latitude: 41.2695999145508
+  longitude: -87.7910995483398
+  magnetic_variation: -2.508
+EOS:
+  elevation: 1200
+  frequency: 117300000
+  id: EOS
+  latitude: 36.842399597168
+  longitude: -94.4356994628906
+  magnetic_variation: 2.58
+EPH:
+  elevation: 1250
+  frequency: 112600000
+  id: EPH
+  latitude: 47.3778991699219
+  longitude: -119.424003601074
+  magnetic_variation: 16.561
+ERI:
+  elevation: 800
+  frequency: 109400000
+  id: ERI
+  latitude: 42.0173988342285
+  longitude: -80.2927017211914
+  magnetic_variation: -9.152
+ERY:
+  elevation: 871
+  frequency: 108200000
+  id: ERY
+  latitude: 46.312801361084
+  longitude: -85.4643020629883
+  magnetic_variation: -6.148
+ESC:
+  elevation: 600
+  frequency: 110800000
+  id: ESC
+  latitude: 45.722599029541
+  longitude: -87.089599609375
+  magnetic_variation: -4.335
+ESF:
+  elevation: 195
+  frequency: 117900000
+  id: ESF
+  latitude: 31.4475002288818
+  longitude: -92.3218994140625
+  magnetic_variation: 1.532
+ESL:
+  elevation: 2590
+  frequency: 110800000
+  id: ESL
+  latitude: 39.2254981994629
+  longitude: -78.989501953125
+  magnetic_variation: -9.239
+EST:
+  elevation: 1320
+  frequency: 110400000
+  id: EST
+  latitude: 43.4090995788574
+  longitude: -94.7444000244141
+  magnetic_variation: 2.426
+ETG:
+  elevation: 2250
+  frequency: 116000000
+  id: ETG
+  latitude: 41.2150001525879
+  longitude: -78.1427993774414
+  magnetic_variation: -10.366
+ETL:
+  elevation: 8460
+  frequency: 110200000
+  id: ETL
+  latitude: 38.0402984619141
+  longitude: -108.259002685547
+  magnetic_variation: 10.554
+ETX:
+  elevation: 750
+  frequency: 110200000
+  id: ETX
+  latitude: 40.5810012817383
+  longitude: -75.6839981079102
+  magnetic_variation: -12.058
+EUF:
+  elevation: 280
+  frequency: 109200000
+  id: EUF
+  latitude: 31.9501991271973
+  longitude: -85.130500793457
+  magnetic_variation: -3.137
+EUG:
+  elevation: 364
+  frequency: 112900000
+  id: EUG
+  latitude: 44.1208992004395
+  longitude: -123.222999572754
+  magnetic_variation: 16.423
+EVM:
+  elevation: 1376
+  frequency: 108200000
+  id: EVM
+  latitude: 47.4244003295898
+  longitude: -92.5018997192383
+  magnetic_variation: 0.086
+EVW:
+  elevation: 7131
+  frequency: 109600000
+  id: EVW
+  latitude: 41.2724990844727
+  longitude: -111.046997070312
+  magnetic_variation: 12.347
+EWA:
+  elevation: 300
+  frequency: 113800000
+  id: EWA
+  latitude: 32.3667984008789
+  longitude: -88.4583969116211
+  magnetic_variation: -0.531
+EWC:
+  elevation: 1220
+  frequency: 115800000
+  id: EWC
+  latitude: 40.8251991271973
+  longitude: -80.2116012573242
+  magnetic_variation: -8.571
+EWM:
+  elevation: 4040
+  frequency: 112400000
+  id: EWM
+  latitude: 31.9517002105713
+  longitude: -106.272003173828
+  magnetic_variation: 9.202
+EWN:
+  elevation: 10
+  frequency: 113600000
+  id: EWN
+  latitude: 35.0731010437012
+  longitude: -77.0450973510742
+  magnetic_variation: -9.39
+EWO:
+  elevation: 960
+  frequency: 110800000
+  id: EWO
+  latitude: 37.6318016052246
+  longitude: -85.6759033203125
+  magnetic_variation: -3.509
+EYW:
+  elevation: 10
+  frequency: 113500000
+  id: EYW
+  latitude: 24.5858993530273
+  longitude: -81.8004989624023
+  magnetic_variation: -4.14
+FAH:
+  elevation: 744
+  frequency: 110000000
+  id: FAH
+  latitude: 43.7689018249512
+  longitude: -87.8482971191406
+  magnetic_variation: -3.211
+FAI:
+  elevation: 1493
+  frequency: 108600000
+  id: FAI
+  latitude: 64.8001022338867
+  longitude: -148.011993408203
+  magnetic_variation: 22.231
+FAK:
+  elevation: 460
+  frequency: 113300000
+  id: FAK
+  latitude: 37.5284996032715
+  longitude: -77.8282012939453
+  magnetic_variation: -9.453
+FAM:
+  elevation: 1220
+  frequency: 115700000
+  id: FAM
+  latitude: 37.6734008789062
+  longitude: -90.234001159668
+  magnetic_variation: -0.152
+FAR:
+  elevation: 910
+  frequency: 116200000
+  id: FAR
+  latitude: 46.7533988952637
+  longitude: -96.8513031005859
+  magnetic_variation: 4.12
+FAY:
+  elevation: 180
+  frequency: 108800000
+  id: FAY
+  latitude: 34.9855003356934
+  longitude: -78.8750991821289
+  magnetic_variation: -8.227
+FBR:
+  elevation: 7060
+  frequency: 108600000
+  id: FBR
+  latitude: 41.3783988952637
+  longitude: -110.424003601074
+  magnetic_variation: 12.225
+FCA:
+  elevation: 2984
+  frequency: 113200000
+  id: FCA
+  latitude: 48.2140998840332
+  longitude: -114.176002502441
+  magnetic_variation: 15.276
+FCM:
+  elevation: 900
+  frequency: 111800000
+  id: FCM
+  latitude: 44.8256988525391
+  longitude: -93.4568023681641
+  magnetic_variation: 1.269
+FCS:
+  elevation: 5829
+  frequency: 108800000
+  id: FCS
+  latitude: 38.6806983947754
+  longitude: -104.75700378418
+  magnetic_variation: 9.225
+FDK:
+  elevation: 299
+  frequency: 109000000
+  id: FDK
+  latitude: 39.4122009277344
+  longitude: -77.3750991821289
+  magnetic_variation: -10.361
+FDY:
+  elevation: 820
+  frequency: 108200000
+  id: FDY
+  latitude: 40.9552993774414
+  longitude: -83.7559967041016
+  magnetic_variation: -6.097
+FFM:
+  elevation: 1190
+  frequency: 110400000
+  id: FFM
+  latitude: 46.2892990112305
+  longitude: -96.1567001342773
+  magnetic_variation: 3.382
+FFT:
+  elevation: 800
+  frequency: 109400000
+  id: FFT
+  latitude: 38.1823997497559
+  longitude: -84.9085998535156
+  magnetic_variation: -4.351
+FFU:
+  elevation: 7690
+  frequency: 116600000
+  id: FFU
+  latitude: 40.2748985290527
+  longitude: -111.94100189209
+  magnetic_variation: 12.45
+FGT:
+  elevation: 930
+  frequency: 115700000
+  id: FGT
+  latitude: 44.6309013366699
+  longitude: -93.1820983886719
+  magnetic_variation: 1.141
+FHU:
+  elevation: 4664
+  frequency: 113600000
+  id: FHU
+  latitude: 31.5897006988525
+  longitude: -110.355003356934
+  magnetic_variation: 10.421
+FIM:
+  elevation: 2200
+  frequency: 112500000
+  id: FIM
+  latitude: 34.3567008972168
+  longitude: -118.880996704102
+  magnetic_variation: 13.184
+FJC:
+  elevation: 680
+  frequency: 117500000
+  id: FJC
+  latitude: 40.7266998291016
+  longitude: -75.4548034667969
+  magnetic_variation: -12.175
+FJS:
+  elevation: 4900
+  frequency: 109600000
+  id: FJS
+  latitude: 41.4496994018555
+  longitude: -122.805999755859
+  magnetic_variation: 15.5
+FKL:
+  elevation: 1530
+  frequency: 109600000
+  id: FKL
+  latitude: 41.4385986328125
+  longitude: -79.8567962646484
+  magnetic_variation: -9.245
+FKN:
+  elevation: 90
+  frequency: 110600000
+  id: FKN
+  latitude: 36.7141990661621
+  longitude: -77.0122985839844
+  magnetic_variation: -10.056
+FLG:
+  elevation: 7026
+  frequency: 113850000
+  id: FLG
+  latitude: 35.1472015380859
+  longitude: -111.674003601074
+  magnetic_variation: 11.42
+FLL:
+  elevation: 10
+  frequency: 114400000
+  id: FLL
+  latitude: 26.0746994018555
+  longitude: -80.1524963378906
+  magnetic_variation: -5.368
+FLM:
+  elevation: 810
+  frequency: 117000000
+  id: FLM
+  latitude: 38.6495018005371
+  longitude: -84.3106002807617
+  magnetic_variation: -5.092
+FLO:
+  elevation: 110
+  frequency: 115200000
+  id: FLO
+  latitude: 34.2328987121582
+  longitude: -79.657096862793
+  magnetic_variation: -7.39
+FLP:
+  elevation: 780
+  frequency: 112800000
+  id: FLP
+  latitude: 36.2995986938477
+  longitude: -92.4583969116211
+  magnetic_variation: 1.348
+FLW:
+  elevation: 3870
+  frequency: 117500000
+  id: FLW
+  latitude: 35.0931015014648
+  longitude: -119.865997314453
+  magnetic_variation: 13.393
+FMG:
+  elevation: 5949
+  frequency: 117900000
+  id: FMG
+  latitude: 39.5312995910645
+  longitude: -119.65599822998
+  magnetic_variation: 14.439
+FML:
+  elevation: 645
+  frequency: 112400000
+  id: FML
+  latitude: 34.9891014099121
+  longitude: -80.9548034667969
+  magnetic_variation: -6.534
+FNT:
+  elevation: 770
+  frequency: 116900000
+  id: FNT
+  latitude: 42.9668006896973
+  longitude: -83.7470016479492
+  magnetic_variation: -6.435
+FOD:
+  elevation: 1150
+  frequency: 113500000
+  id: FOD
+  latitude: 42.611198425293
+  longitude: -94.2947998046875
+  magnetic_variation: 2.251
+FOT:
+  elevation: 400
+  frequency: 114000000
+  id: FOT
+  latitude: 40.6712989807129
+  longitude: -124.235000610352
+  magnetic_variation: 15.491
+FOW:
+  elevation: 1098
+  frequency: 111200000
+  id: FOW
+  latitude: 44.2043991088867
+  longitude: -93.3704986572266
+  magnetic_variation: 1.275
+FQF:
+  elevation: 5780
+  frequency: 116300000
+  id: FQF
+  latitude: 39.6901016235352
+  longitude: -104.621002197266
+  magnetic_variation: 9.243
+FQM:
+  elevation: 2090
+  frequency: 114400000
+  id: FQM
+  latitude: 41.3386001586914
+  longitude: -76.77490234375
+  magnetic_variation: -11.368
+FRA:
+  elevation: 2380
+  frequency: 115600000
+  id: FRA
+  latitude: 37.1044006347656
+  longitude: -119.595001220703
+  magnetic_variation: 14.062
+FRI:
+  elevation: 1240
+  frequency: 109400000
+  id: FRI
+  latitude: 38.9701995849609
+  longitude: -96.8610000610352
+  magnetic_variation: 4.351
+FRM:
+  elevation: 1160
+  frequency: 110200000
+  id: FRM
+  latitude: 43.6459999084473
+  longitude: -94.4225997924805
+  magnetic_variation: 2.251
+FSD:
+  elevation: 1570
+  frequency: 115000000
+  id: FSD
+  latitude: 43.6495018005371
+  longitude: -96.7811965942383
+  magnetic_variation: 4.205
+FSM:
+  elevation: 430
+  frequency: 110400000
+  id: FSM
+  latitude: 35.3884010314941
+  longitude: -94.2714996337891
+  magnetic_variation: 2.562
+FST:
+  elevation: 2890
+  frequency: 116900000
+  id: FST
+  latitude: 30.9521007537842
+  longitude: -102.975997924805
+  magnetic_variation: 7.52
+FTI:
+  elevation: 6870
+  frequency: 117300000
+  id: FTI
+  latitude: 35.657600402832
+  longitude: -105.136001586914
+  magnetic_variation: 9.15
+FTK:
+  elevation: 740
+  frequency: 109600000
+  id: FTK
+  latitude: 37.907398223877
+  longitude: -85.972900390625
+  magnetic_variation: -3.401
+FTZ:
+  elevation: 817
+  frequency: 110800000
+  id: FTZ
+  latitude: 38.6944999694824
+  longitude: -90.9712982177734
+  magnetic_variation: 0.115
+FUZ:
+  elevation: 637
+  frequency: 115700000
+  id: FUZ
+  latitude: 32.8894996643066
+  longitude: -97.1793975830078
+  magnetic_variation: 4.536
+FWA:
+  elevation: 802
+  frequency: 117800000
+  id: FWA
+  latitude: 40.9790992736816
+  longitude: -85.188102722168
+  magnetic_variation: -4.588
+FXU:
+  elevation: 315
+  frequency: 108400000
+  id: FXU
+  latitude: 31.1116008758545
+  longitude: -93.217903137207
+  magnetic_variation: 2.297
+FYU:
+  elevation: 425
+  frequency: 114400000
+  id: FYU
+  latitude: 66.5743026733398
+  longitude: -145.276992797852
+  magnetic_variation: 24.143
+FZT:
+  elevation: 305
+  frequency: 111400000
+  id: FZT
+  latitude: 32.0746002197266
+  longitude: -95.5307998657227
+  magnetic_variation: 3.545
+GAD:
+  elevation: 560
+  frequency: 112300000
+  id: GAD
+  latitude: 33.9763984680176
+  longitude: -86.0836029052734
+  magnetic_variation: -2.521
+GAG:
+  elevation: 2430
+  frequency: 115600000
+  id: GAG
+  latitude: 36.3437004089355
+  longitude: -99.8800964355469
+  magnetic_variation: 6.319
+GAL:
+  elevation: 130
+  frequency: 114800000
+  id: GAL
+  latitude: 64.7381973266602
+  longitude: -156.776992797852
+  magnetic_variation: 18.224
+GBG:
+  elevation: 760
+  frequency: 109800000
+  id: GBG
+  latitude: 40.9373016357422
+  longitude: -90.4345016479492
+  magnetic_variation: -0.336
+GBN:
+  elevation: 790
+  frequency: 116600000
+  id: GBN
+  latitude: 32.956298828125
+  longitude: -112.674003601074
+  magnetic_variation: 11.363
+GCC:
+  elevation: 4334
+  frequency: 114600000
+  id: GCC
+  latitude: 44.3478012084961
+  longitude: -105.542999267578
+  magnetic_variation: 10.256
+GCK:
+  elevation: 2880
+  frequency: 113300000
+  id: GCK
+  latitude: 37.9191017150879
+  longitude: -100.724998474121
+  magnetic_variation: 7.018
+GCN:
+  elevation: 6670
+  frequency: 113100000
+  id: GCN
+  latitude: 35.9603004455566
+  longitude: -112.146003723145
+  magnetic_variation: 11.598
+GCV:
+  elevation: 300
+  frequency: 115700000
+  id: GCV
+  latitude: 31.0979995727539
+  longitude: -88.4860992431641
+  magnetic_variation: -0.42
+GDM:
+  elevation: 1280
+  frequency: 110600000
+  id: GDM
+  latitude: 42.5460014343262
+  longitude: -72.0581970214844
+  magnetic_variation: -14.553
+GEE:
+  elevation: 990
+  frequency: 108200000
+  id: GEE
+  latitude: 42.834400177002
+  longitude: -77.7326965332031
+  magnetic_variation: -11.268
+GEF:
+  elevation: 220
+  frequency: 109000000
+  id: GEF
+  latitude: 30.5513000488281
+  longitude: -83.7830963134766
+  magnetic_variation: -3.571
+GEG:
+  elevation: 2755
+  frequency: 115500000
+  id: GEG
+  latitude: 47.5648994445801
+  longitude: -117.626998901367
+  magnetic_variation: 16.291
+GEP:
+  elevation: 880
+  frequency: 117300000
+  id: GEP
+  latitude: 45.1456985473633
+  longitude: -93.3731994628906
+  magnetic_variation: 1.198
+GFK:
+  elevation: 841
+  frequency: 114300000
+  id: GFK
+  latitude: 47.9547996520996
+  longitude: -97.1854019165039
+  magnetic_variation: 4.239
+GFL:
+  elevation: 319
+  frequency: 110200000
+  id: GFL
+  latitude: 43.3417015075684
+  longitude: -73.6118011474609
+  magnetic_variation: -14.205
+GFS:
+  elevation: 4000
+  frequency: 114400000
+  id: GFS
+  latitude: 35.1310997009277
+  longitude: -115.176002502441
+  magnetic_variation: 12.41
+GGG:
+  elevation: 320
+  frequency: 112300000
+  id: GGG
+  latitude: 32.4178009033203
+  longitude: -94.7531967163086
+  magnetic_variation: 3.244
+GGT:
+  elevation: 2040
+  frequency: 117800000
+  id: GGT
+  latitude: 42.7890014648438
+  longitude: -75.8266983032227
+  magnetic_variation: -12.449
+GGW:
+  elevation: 2280
+  frequency: 113900000
+  id: GGW
+  latitude: 48.2153015136719
+  longitude: -106.625
+  magnetic_variation: 11.363
+GHM:
+  elevation: 770
+  frequency: 111600000
+  id: GHM
+  latitude: 35.834098815918
+  longitude: -87.4517974853516
+  magnetic_variation: -2.083
+GIJ:
+  elevation: 800
+  frequency: 115400000
+  id: GIJ
+  latitude: 41.7686004638672
+  longitude: -86.3183975219727
+  magnetic_variation: -4.128
+GKN:
+  elevation: 1548
+  frequency: 115600000
+  id: GKN
+  latitude: 62.152400970459
+  longitude: -145.449996948242
+  magnetic_variation: 22.154
+GLD:
+  elevation: 3650
+  frequency: 115100000
+  id: GLD
+  latitude: 39.3879013061523
+  longitude: -101.692001342773
+  magnetic_variation: 7.439
+GLH:
+  elevation: 130
+  frequency: 110200000
+  id: GLH
+  latitude: 33.5234985351562
+  longitude: -90.9829025268555
+  magnetic_variation: 0.469
+GLJ:
+  elevation: 138
+  frequency: 111000000
+  id: GLJ
+  latitude: 34.9524002075195
+  longitude: -120.521003723145
+  magnetic_variation: 13.44
+GLL:
+  elevation: 4910
+  frequency: 114200000
+  id: GLL
+  latitude: 40.5038986206055
+  longitude: -104.553001403809
+  magnetic_variation: 9.27
+GLR:
+  elevation: 1320
+  frequency: 109200000
+  id: GLR
+  latitude: 45.0125007629395
+  longitude: -84.7042999267578
+  magnetic_variation: -6.309
+GMN:
+  elevation: 4920
+  frequency: 116100000
+  id: GMN
+  latitude: 34.8040008544922
+  longitude: -118.861000061035
+  magnetic_variation: 13.244
+GNL:
+  elevation: 512
+  frequency: 108800000
+  id: GNL
+  latitude: 31.5814990997314
+  longitude: -96.5491027832031
+  magnetic_variation: 4.322
+GNP:
+  elevation: 810
+  frequency: 110600000
+  id: GNP
+  latitude: 35.9208984375
+  longitude: -95.9686965942383
+  magnetic_variation: 4.039
+GNV:
+  elevation: 128
+  frequency: 116200000
+  id: GNV
+  latitude: 29.6921005249023
+  longitude: -82.2730026245117
+  magnetic_variation: -4.529
+GOJ:
+  elevation: 250
+  frequency: 111800000
+  id: GOJ
+  latitude: 35.951000213623
+  longitude: -89.9411010742188
+  magnetic_variation: -0.154
+GON:
+  elevation: 20
+  frequency: 110850000
+  id: GON
+  latitude: 41.3303985595703
+  longitude: -72.052001953125
+  magnetic_variation: -14.302
+GPT:
+  elevation: 20
+  frequency: 109000000
+  id: GPT
+  latitude: 30.4067993164062
+  longitude: -89.0767974853516
+  magnetic_variation: -0.122
+GPZ:
+  elevation: 1400
+  frequency: 111400000
+  id: GPZ
+  latitude: 47.1636009216309
+  longitude: -93.4885025024414
+  magnetic_variation: 1.073
+GQE:
+  elevation: 211
+  frequency: 113000000
+  id: GQE
+  latitude: 35.3470001220703
+  longitude: -90.4782028198242
+  magnetic_variation: 0.131
+GQO:
+  elevation: 1030
+  frequency: 115800000
+  id: GQO
+  latitude: 34.9612998962402
+  longitude: -85.1533966064453
+  magnetic_variation: -3.455
+GRB:
+  elevation: 760
+  frequency: 115500000
+  id: GRB
+  latitude: 44.5551986694336
+  longitude: -88.1949005126953
+  magnetic_variation: -3.139
+GRD:
+  elevation: 630
+  frequency: 115500000
+  id: GRD
+  latitude: 34.2515983581543
+  longitude: -82.1541976928711
+  magnetic_variation: -5.51
+GRI:
+  elevation: 1840
+  frequency: 112000000
+  id: GRI
+  latitude: 40.984001159668
+  longitude: -98.3147964477539
+  magnetic_variation: 5.341
+GRK:
+  elevation: 980
+  frequency: 111800000
+  id: GRK
+  latitude: 31.0328998565674
+  longitude: -97.8137969970703
+  magnetic_variation: 5.162
+GRR:
+  elevation: 800
+  frequency: 115950000
+  id: GRR
+  latitude: 42.7867012023926
+  longitude: -85.4971008300781
+  magnetic_variation: -5.104
+GRV:
+  elevation: 2640
+  frequency: 112300000
+  id: GRV
+  latitude: 39.6349983215332
+  longitude: -79.0504989624023
+  magnetic_variation: -9.283
+GSH:
+  elevation: 850
+  frequency: 113700000
+  id: GSH
+  latitude: 41.5251998901367
+  longitude: -86.0279998779297
+  magnetic_variation: -4.241
+GSO:
+  elevation: 879
+  frequency: 116200000
+  id: GSO
+  latitude: 36.0457000732422
+  longitude: -79.9764022827148
+  magnetic_variation: -7.51
+GTF:
+  elevation: 3673
+  frequency: 115100000
+  id: GTF
+  latitude: 47.4500007629395
+  longitude: -111.412002563477
+  magnetic_variation: 14.038
+GTH:
+  elevation: 1940
+  frequency: 114500000
+  id: GTH
+  latitude: 33.7783012390137
+  longitude: -100.335998535156
+  magnetic_variation: 6.425
+GUP:
+  elevation: 7053
+  frequency: 115100000
+  id: GUP
+  latitude: 35.476001739502
+  longitude: -108.873001098633
+  magnetic_variation: 10.474
+GUS:
+  elevation: 810
+  frequency: 108450000
+  id: GUS
+  latitude: 40.6449012756348
+  longitude: -86.1517028808594
+  magnetic_variation: -4.057
+GVE:
+  elevation: 380
+  frequency: 115600000
+  id: GVE
+  latitude: 38.013599395752
+  longitude: -78.1529006958008
+  magnetic_variation: -9.396
+GVO:
+  elevation: 2620
+  frequency: 113800000
+  id: GVO
+  latitude: 34.5312995910645
+  longitude: -120.091003417969
+  magnetic_variation: 13.335
+GXU:
+  elevation: 114
+  frequency: 110600000
+  id: GXU
+  latitude: 40.0094985961914
+  longitude: -74.5962982177734
+  magnetic_variation: -12.357
+GZG:
+  elevation: 4200
+  frequency: 110200000
+  id: GZG
+  latitude: 36.8250999450684
+  longitude: -82.0790023803711
+  magnetic_variation: -6.284
+HAB:
+  elevation: 810
+  frequency: 110400000
+  id: HAB
+  latitude: 34.1950988769531
+  longitude: -88.0124969482422
+  magnetic_variation: -1.278
+HAR:
+  elevation: 1301
+  frequency: 112500000
+  id: HAR
+  latitude: 40.3022003173828
+  longitude: -77.0696029663086
+  magnetic_variation: -11.049
+HBR:
+  elevation: 1463
+  frequency: 111800000
+  id: HBR
+  latitude: 34.8666000366211
+  longitude: -99.0634002685547
+  magnetic_variation: 6.01
+HBU:
+  elevation: 8730
+  frequency: 114900000
+  id: HBU
+  latitude: 38.4522018432617
+  longitude: -107.040000915527
+  magnetic_variation: 10.269
+HCH:
+  elevation: 3040
+  frequency: 117600000
+  id: HCH
+  latitude: 35.7809982299805
+  longitude: -84.9785003662109
+  magnetic_variation: -4.019
+HCM:
+  elevation: 10
+  frequency: 108800000
+  id: HCM
+  latitude: 37.4486999511719
+  longitude: -76.7114028930664
+  magnetic_variation: -10.296
+HCT:
+  elevation: 3010
+  frequency: 117700000
+  id: HCT
+  latitude: 40.4541015625
+  longitude: -100.924003601074
+  magnetic_variation: 7.185
+HDF:
+  elevation: 1414
+  frequency: 113400000
+  id: HDF
+  latitude: 33.7762985229492
+  longitude: -117.184997558594
+  magnetic_variation: 12.508
+HDO:
+  elevation: 947
+  frequency: 109400000
+  id: HDO
+  latitude: 29.349100112915
+  longitude: -99.1779022216797
+  magnetic_variation: 5.591
+HEC:
+  elevation: 1850
+  frequency: 112700000
+  id: HEC
+  latitude: 34.7970008850098
+  longitude: -116.462997436523
+  magnetic_variation: 12.55
+HEY:
+  elevation: 300
+  frequency: 110600000
+  id: HEY
+  latitude: 31.3740997314453
+  longitude: -85.6528015136719
+  magnetic_variation: -2.453
+HEZ:
+  elevation: 280
+  frequency: 110000000
+  id: HEZ
+  latitude: 31.618200302124
+  longitude: -91.2995986938477
+  magnetic_variation: 1.112
+HFD:
+  elevation: 849
+  frequency: 114900000
+  id: HFD
+  latitude: 41.6411018371582
+  longitude: -72.5474014282227
+  magnetic_variation: -14.203
+HGO:
+  elevation: 5233
+  frequency: 112100000
+  id: HGO
+  latitude: 38.8175010681152
+  longitude: -103.621002197266
+  magnetic_variation: 8.474
+HGR:
+  elevation: 560
+  frequency: 109800000
+  id: HGR
+  latitude: 39.6977005004883
+  longitude: -77.8556976318359
+  magnetic_variation: -10.21
+HIA:
+  elevation: 5530
+  frequency: 113700000
+  id: HIA
+  latitude: 45.8618011474609
+  longitude: -112.169998168945
+  magnetic_variation: 14.018
+HIB:
+  elevation: 1350
+  frequency: 110800000
+  id: HIB
+  latitude: 47.3014984130859
+  longitude: -92.7041015625
+  magnetic_variation: 0.215
+HIC:
+  elevation: 920
+  frequency: 117600000
+  id: HIC
+  latitude: 43.5749015808105
+  longitude: -85.7162017822266
+  magnetic_variation: -5.116
+HLC:
+  elevation: 2690
+  frequency: 113700000
+  id: HLC
+  latitude: 39.2587013244629
+  longitude: -100.225997924805
+  magnetic_variation: 6.496
+HLG:
+  elevation: 1269
+  frequency: 112200000
+  id: HLG
+  latitude: 40.2598991394043
+  longitude: -80.568603515625
+  magnetic_variation: -8.308
+HLI:
+  elevation: 630
+  frequency: 112400000
+  id: HLI
+  latitude: 34.7703018188477
+  longitude: -89.4964981079102
+  magnetic_variation: -0.263
+HLN:
+  elevation: 3823
+  frequency: 117700000
+  id: HLN
+  latitude: 46.6068000793457
+  longitude: -111.953002929688
+  magnetic_variation: 14.067
+HLV:
+  elevation: 920
+  frequency: 114200000
+  id: HLV
+  latitude: 39.1134986877441
+  longitude: -92.1281967163086
+  magnetic_variation: 1.03
+HML:
+  elevation: 800
+  frequency: 112400000
+  id: HML
+  latitude: 48.8692016601562
+  longitude: -97.1178970336914
+  magnetic_variation: 4.156
+HMO:
+  elevation: 627
+  frequency: 112800000
+  id: HMO
+  latitude: 29.0955009460449
+  longitude: -111.052001953125
+  magnetic_variation: 10.311
+HMU:
+  elevation: 40
+  frequency: 109600000
+  id: HMU
+  latitude: 30.5193996429443
+  longitude: -90.4175033569336
+  magnetic_variation: 0.418
+HMV:
+  elevation: 4321
+  frequency: 114600000
+  id: HMV
+  latitude: 36.4370994567871
+  longitude: -82.1296005249023
+  magnetic_variation: -6.207
+HNB:
+  elevation: 530
+  frequency: 109200000
+  id: HNB
+  latitude: 38.250301361084
+  longitude: -86.9563980102539
+  magnetic_variation: -2.568
+HNK:
+  elevation: 2070
+  frequency: 116800000
+  id: HNK
+  latitude: 42.0630989074707
+  longitude: -75.3162994384766
+  magnetic_variation: -12.496
+HNN:
+  elevation: 880
+  frequency: 115900000
+  id: HNN
+  latitude: 38.7541007995605
+  longitude: -82.0261993408203
+  magnetic_variation: -6.589
+HNW:
+  elevation: 2583
+  frequency: 115500000
+  id: HNW
+  latitude: 38.7247009277344
+  longitude: -120.749000549316
+  magnetic_variation: 14.419
+HOB:
+  elevation: 3660
+  frequency: 111000000
+  id: HOB
+  latitude: 32.6381988525391
+  longitude: -103.268997192383
+  magnetic_variation: 8.072
+HOM:
+  elevation: 1621
+  frequency: 114600000
+  id: HOM
+  latitude: 59.709400177002
+  longitude: -151.457000732422
+  magnetic_variation: 19.141
+HON:
+  elevation: 1300
+  frequency: 117600000
+  id: HON
+  latitude: 44.4401016235352
+  longitude: -98.3110961914062
+  magnetic_variation: 5.305
+HOT:
+  elevation: 530
+  frequency: 110000000
+  id: HOT
+  latitude: 34.4785995483398
+  longitude: -93.0905990600586
+  magnetic_variation: 2.107
+HPB:
+  elevation: 7
+  frequency: 115200000
+  id: HPB
+  latitude: 61.5144004821777
+  longitude: -166.134002685547
+  magnetic_variation: 12.421
+HPW:
+  elevation: 70
+  frequency: 112000000
+  id: HPW
+  latitude: 37.3288993835449
+  longitude: -77.1158981323242
+  magnetic_variation: -10.113
+HQM:
+  elevation: 10
+  frequency: 117700000
+  id: HQM
+  latitude: 46.9469985961914
+  longitude: -124.149002075195
+  magnetic_variation: 17.465
+HRK:
+  elevation: 669
+  frequency: 117700000
+  id: HRK
+  latitude: 42.7619018554688
+  longitude: -87.8143997192383
+  magnetic_variation: -3.089
+HRL:
+  elevation: 30
+  frequency: 109200000
+  id: HRL
+  latitude: 26.2292003631592
+  longitude: -97.6519012451172
+  magnetic_variation: 5.131
+HRO:
+  elevation: 1400
+  frequency: 112500000
+  id: HRO
+  latitude: 36.3182983398438
+  longitude: -93.2133026123047
+  magnetic_variation: 2.076
+HRS:
+  elevation: 3660
+  frequency: 109800000
+  id: HRS
+  latitude: 34.943000793457
+  longitude: -83.9157028198242
+  magnetic_variation: -4.406
+HRV:
+  elevation: 3
+  frequency: 114100000
+  id: HRV
+  latitude: 29.8502006530762
+  longitude: -90.0029983520508
+  magnetic_variation: 0.294
+HSI:
+  elevation: 1950
+  frequency: 108800000
+  id: HSI
+  latitude: 40.6044998168945
+  longitude: -98.4296035766602
+  magnetic_variation: 5.391
+HSL:
+  elevation: 187
+  frequency: 117400000
+  id: HSL
+  latitude: 65.7079010009766
+  longitude: -156.363006591797
+  magnetic_variation: 18.522
+HTL:
+  elevation: 1145
+  frequency: 111600000
+  id: HTL
+  latitude: 44.3588981628418
+  longitude: -84.6657028198242
+  magnetic_variation: -6.207
+HTO:
+  elevation: 30
+  frequency: 113600000
+  id: HTO
+  latitude: 40.9189987182617
+  longitude: -72.3167037963867
+  magnetic_variation: -14.134
+HUB:
+  elevation: 82
+  frequency: 117100000
+  id: HUB
+  latitude: 29.6555995941162
+  longitude: -95.2766036987305
+  magnetic_variation: 3.505
+HUH:
+  elevation: 84
+  frequency: 113000000
+  id: HUH
+  latitude: 48.9453010559082
+  longitude: -122.579002380371
+  magnetic_variation: 18.115
+HUL:
+  elevation: 860
+  frequency: 116100000
+  id: HUL
+  latitude: 46.0395011901855
+  longitude: -67.8341979980469
+  magnetic_variation: -18.129
+HUO:
+  elevation: 1300
+  frequency: 116100000
+  id: HUO
+  latitude: 41.4096984863281
+  longitude: -74.5915985107422
+  magnetic_variation: -13.037
+HUP:
+  elevation: 4390
+  frequency: 115000000
+  id: HUP
+  latitude: 31.5687007904053
+  longitude: -105.375999450684
+  magnetic_variation: 8.565
+HUT:
+  elevation: 1531
+  frequency: 116800000
+  id: HUT
+  latitude: 37.996898651123
+  longitude: -97.934196472168
+  magnetic_variation: 5.199
+HUW:
+  elevation: 1220
+  frequency: 111600000
+  id: HUW
+  latitude: 36.8713989257812
+  longitude: -91.9000015258789
+  magnetic_variation: 1.068
+HVE:
+  elevation: 4430
+  frequency: 115900000
+  id: HVE
+  latitude: 38.4168014526367
+  longitude: -110.699996948242
+  magnetic_variation: 11.57
+HVN:
+  elevation: 13
+  frequency: 109800000
+  id: HVN
+  latitude: 41.2622985839844
+  longitude: -72.8852005004883
+  magnetic_variation: -14.014
+HVQ:
+  elevation: 1100
+  frequency: 117400000
+  id: HVQ
+  latitude: 38.3497009277344
+  longitude: -81.7698974609375
+  magnetic_variation: -7.047
+HVR:
+  elevation: 2580
+  frequency: 111800000
+  id: HVR
+  latitude: 48.5405006408691
+  longitude: -109.769996643066
+  magnetic_variation: 13.292
+HYK:
+  elevation: 1039
+  frequency: 112600000
+  id: HYK
+  latitude: 37.9664001464844
+  longitude: -84.4725036621094
+  magnetic_variation: -4.524
+HYP:
+  elevation: 182
+  frequency: 114200000
+  id: HYP
+  latitude: 37.2193984985352
+  longitude: -120.400001525879
+  magnetic_variation: 14.168
+HYR:
+  elevation: 1207
+  frequency: 113400000
+  id: HYR
+  latitude: 46.0190010070801
+  longitude: -91.446403503418
+  magnetic_variation: -0.341
+HYS:
+  elevation: 2020
+  frequency: 110400000
+  id: HYS
+  latitude: 38.847599029541
+  longitude: -99.2768020629883
+  magnetic_variation: 6.127
+HZL:
+  elevation: 1709
+  frequency: 109400000
+  id: HZL
+  latitude: 40.9751014709473
+  longitude: -76.1258010864258
+  magnetic_variation: -11.56
+HZN:
+  elevation: 4080
+  frequency: 114100000
+  id: HZN
+  latitude: 39.5163993835449
+  longitude: -118.998001098633
+  magnetic_variation: 14.355
+IAH:
+  elevation: 90
+  frequency: 116600000
+  id: IAH
+  latitude: 29.9568996429443
+  longitude: -95.345703125
+  magnetic_variation: 3.522
+ICT:
+  elevation: 1471
+  frequency: 113800000
+  id: ICT
+  latitude: 37.7453002929688
+  longitude: -97.5838012695312
+  magnetic_variation: 5.061
+IDA:
+  elevation: 4724
+  frequency: 113850000
+  id: IDA
+  latitude: 43.5190010070801
+  longitude: -112.064002990723
+  magnetic_variation: 13.279
+IDU:
+  elevation: 419
+  frequency: 110200000
+  id: IDU
+  latitude: 29.9561004638672
+  longitude: -96.5622024536133
+  magnetic_variation: 4.346
+IFI:
+  elevation: 1110
+  frequency: 114700000
+  id: IFI
+  latitude: 35.8053016662598
+  longitude: -98.0038986206055
+  magnetic_variation: 5.229
+IFM:
+  elevation: 350
+  frequency: 112500000
+  id: IFM
+  latitude: 31.4286994934082
+  longitude: -83.488899230957
+  magnetic_variation: -4.195
+IGB:
+  elevation: 240
+  frequency: 116200000
+  id: IGB
+  latitude: 33.4855003356934
+  longitude: -88.5136032104492
+  magnetic_variation: -0.597
+IGM:
+  elevation: 3410
+  frequency: 108800000
+  id: IGM
+  latitude: 35.2605018615723
+  longitude: -113.93399810791
+  magnetic_variation: 12.232
+IGN:
+  elevation: 580
+  frequency: 117600000
+  id: IGN
+  latitude: 41.6655006408691
+  longitude: -73.8223037719727
+  magnetic_variation: -13.37
+IHD:
+  elevation: 2820
+  frequency: 108200000
+  id: IHD
+  latitude: 39.9742012023926
+  longitude: -79.3583984375
+  magnetic_variation: -9.206
+IIK:
+  elevation: 0
+  frequency: 115900000
+  id: IIK
+  latitude: 59.942798614502
+  longitude: -164.033996582031
+  magnetic_variation: 13.359
+IIP:
+  elevation: 4900
+  frequency: 108600000
+  id: IIP
+  latitude: 42.6761016845703
+  longitude: -105.225997924805
+  magnetic_variation: 10.031
+IIU:
+  elevation: 720
+  frequency: 114800000
+  id: IIU
+  latitude: 38.1035003662109
+  longitude: -85.5774002075195
+  magnetic_variation: -4.014
+IJX:
+  elevation: 615
+  frequency: 108600000
+  id: IJX
+  latitude: 39.7764015197754
+  longitude: -90.2387008666992
+  magnetic_variation: -0.327
+IKK:
+  elevation: 625
+  frequency: 111600000
+  id: IKK
+  latitude: 41.0744018554688
+  longitude: -87.8498001098633
+  magnetic_variation: -2.455
+ILA:
+  elevation: 50
+  frequency: 114400000
+  id: ILA
+  latitude: 39.0710983276367
+  longitude: -122.027000427246
+  magnetic_variation: 15.026
+ILC:
+  elevation: 9318
+  frequency: 116300000
+  id: ILC
+  latitude: 38.2501983642578
+  longitude: -114.393997192383
+  magnetic_variation: 13.078
+ILL:
+  elevation: 1120
+  frequency: 113700000
+  id: ILL
+  latitude: 45.1175003051758
+  longitude: -95.0905990600586
+  magnetic_variation: 2.499
+ILM:
+  elevation: 20
+  frequency: 117000000
+  id: ILM
+  latitude: 34.3516998291016
+  longitude: -77.874397277832
+  magnetic_variation: -8.549
+ILR:
+  elevation: 4140
+  frequency: 113800000
+  id: ILR
+  latitude: 43.5931015014648
+  longitude: -118.955001831055
+  magnetic_variation: 15.407
+IMB:
+  elevation: 5220
+  frequency: 115600000
+  id: IMB
+  latitude: 44.6483993530273
+  longitude: -119.71199798584
+  magnetic_variation: 16.098
+IMT:
+  elevation: 1130
+  frequency: 111200000
+  id: IMT
+  latitude: 45.8160018920898
+  longitude: -88.1120986938477
+  magnetic_variation: -3.38
+INA:
+  elevation: 4302
+  frequency: 108200000
+  id: INA
+  latitude: 40.899299621582
+  longitude: -117.811996459961
+  magnetic_variation: 14.404
+INK:
+  elevation: 2860
+  frequency: 112100000
+  id: INK
+  latitude: 31.8747997283936
+  longitude: -103.244003295898
+  magnetic_variation: 8.032
+INL:
+  elevation: 1180
+  frequency: 111000000
+  id: INL
+  latitude: 48.5657997131348
+  longitude: -93.4057006835938
+  magnetic_variation: 0.474
+INW:
+  elevation: 4910
+  frequency: 112600000
+  id: INW
+  latitude: 35.0615997314453
+  longitude: -110.794998168945
+  magnetic_variation: 11.242
+IOW:
+  elevation: 770
+  frequency: 116200000
+  id: IOW
+  latitude: 41.5190010070801
+  longitude: -91.6132965087891
+  magnetic_variation: 0.2
+IPL:
+  elevation: -20
+  frequency: 115900000
+  id: IPL
+  latitude: 32.7489013671875
+  longitude: -115.509002685547
+  magnetic_variation: 12.162
+IRK:
+  elevation: 985
+  frequency: 114600000
+  id: IRK
+  latitude: 40.1349983215332
+  longitude: -92.5916976928711
+  magnetic_variation: 1.182
+IRQ:
+  elevation: 428
+  frequency: 113900000
+  id: IRQ
+  latitude: 33.7074012756348
+  longitude: -82.1621017456055
+  magnetic_variation: -5.438
+IRW:
+  elevation: 1230
+  frequency: 114100000
+  id: IRW
+  latitude: 35.3586006164551
+  longitude: -97.6091995239258
+  magnetic_variation: 5.082
+ISD:
+  elevation: 2355
+  frequency: 112800000
+  id: ISD
+  latitude: 43.4878997802734
+  longitude: -99.7613983154297
+  magnetic_variation: 6.36
+ISN:
+  elevation: 2372
+  frequency: 116300000
+  id: ISN
+  latitude: 48.2532997131348
+  longitude: -103.750999450684
+  magnetic_variation: 9.411
+ISO:
+  elevation: 70
+  frequency: 109600000
+  id: ISO
+  latitude: 35.3709983825684
+  longitude: -77.5582962036133
+  magnetic_variation: -9.235
+ISQ:
+  elevation: 680
+  frequency: 110400000
+  id: ISQ
+  latitude: 45.9762001037598
+  longitude: -86.1734008789062
+  magnetic_variation: -5.29
+ITH:
+  elevation: 1110
+  frequency: 111800000
+  id: ITH
+  latitude: 42.4949989318848
+  longitude: -76.4597015380859
+  magnetic_variation: -12.132
+IWA:
+  elevation: 1370
+  frequency: 113300000
+  id: IWA
+  latitude: 33.3031997680664
+  longitude: -111.651000976562
+  magnetic_variation: 11.206
+IWD:
+  elevation: 1230
+  frequency: 108800000
+  id: IWD
+  latitude: 46.532299041748
+  longitude: -90.1258010864258
+  magnetic_variation: -1.553
+JAC:
+  elevation: 6452
+  frequency: 115400000
+  id: JAC
+  latitude: 43.6209983825684
+  longitude: -110.732002258301
+  magnetic_variation: 12.559
+JAN:
+  elevation: 360
+  frequency: 112600000
+  id: JAN
+  latitude: 32.5074996948242
+  longitude: -90.1677017211914
+  magnetic_variation: 0.188
+JAY:
+  elevation: 1232
+  frequency: 108200000
+  id: JAY
+  latitude: 43.576301574707
+  longitude: -92.9197006225586
+  magnetic_variation: 1.092
+JBR:
+  elevation: 247
+  frequency: 108600000
+  id: JBR
+  latitude: 35.8749008178711
+  longitude: -90.5885009765625
+  magnetic_variation: 0.144
+JCT:
+  elevation: 2280
+  frequency: 116000000
+  id: JCT
+  latitude: 30.5979995727539
+  longitude: -99.817497253418
+  magnetic_variation: 6.201
+JEN:
+  elevation: 1300
+  frequency: 115000000
+  id: JEN
+  latitude: 32.1595993041992
+  longitude: -97.8777008056641
+  magnetic_variation: 5.183
+JFK:
+  elevation: 11
+  frequency: 115900000
+  id: JFK
+  latitude: 40.6329002380371
+  longitude: -73.7714004516602
+  magnetic_variation: -13.182
+JFN:
+  elevation: 900
+  frequency: 115200000
+  id: JFN
+  latitude: 41.7601013183594
+  longitude: -80.7481002807617
+  magnetic_variation: -8.491
+JHW:
+  elevation: 1790
+  frequency: 114700000
+  id: JHW
+  latitude: 42.1885986328125
+  longitude: -79.1212997436523
+  magnetic_variation: -10.123
+JKS:
+  elevation: 630
+  frequency: 109400000
+  id: JKS
+  latitude: 35.5989990234375
+  longitude: -88.3589019775391
+  magnetic_variation: -1.245
+JLI:
+  elevation: 5560
+  frequency: 114000000
+  id: JLI
+  latitude: 33.1404991149902
+  longitude: -116.585998535156
+  magnetic_variation: 12.349
+JMS:
+  elevation: 1490
+  frequency: 114500000
+  id: JMS
+  latitude: 46.9328994750977
+  longitude: -98.6788024902344
+  magnetic_variation: 5.439
+JNC:
+  elevation: 7100
+  frequency: 112400000
+  id: JNC
+  latitude: 39.0596008300781
+  longitude: -108.792999267578
+  magnetic_variation: 11.182
+JOH:
+  elevation: 47
+  frequency: 116700000
+  id: JOH
+  latitude: 60.4809989929199
+  longitude: -146.598999023438
+  magnetic_variation: 21.139
+JOT:
+  elevation: 593
+  frequency: 112300000
+  id: JOT
+  latitude: 41.5463981628418
+  longitude: -88.3183975219727
+  magnetic_variation: -2.273
+JPU:
+  elevation: 1030
+  frequency: 108600000
+  id: JPU
+  latitude: 39.4412002563477
+  longitude: -81.3748016357422
+  magnetic_variation: -7.399
+JST:
+  elevation: 2280
+  frequency: 113000000
+  id: JST
+  latitude: 40.3166999816895
+  longitude: -78.8341979980469
+  magnetic_variation: -9.498
+JVL:
+  elevation: 900
+  frequency: 114300000
+  id: JVL
+  latitude: 42.5579986572266
+  longitude: -89.1053009033203
+  magnetic_variation: -1.587
+JWJ:
+  elevation: 981
+  frequency: 109400000
+  id: JWJ
+  latitude: 42.111400604248
+  longitude: -92.9088973999023
+  magnetic_variation: 1.199
+JXN:
+  elevation: 1000
+  frequency: 109600000
+  id: JXN
+  latitude: 42.2592010498047
+  longitude: -84.4585037231445
+  magnetic_variation: -5.553
+JYU:
+  elevation: 160
+  frequency: 113600000
+  id: JYU
+  latitude: 32.3446006774902
+  longitude: -86.9913024902344
+  magnetic_variation: -1.564
+LAA:
+  elevation: 3944
+  frequency: 116900000
+  id: LAA
+  latitude: 38.1971015930176
+  longitude: -102.688003540039
+  magnetic_variation: 8.139
+LAL:
+  elevation: 135
+  frequency: 116000000
+  id: LAL
+  latitude: 27.9862003326416
+  longitude: -82.0139007568359
+  magnetic_variation: -4.43
+LAN:
+  elevation: 880
+  frequency: 110800000
+  id: LAN
+  latitude: 42.717399597168
+  longitude: -84.6977005004883
+  magnetic_variation: -5.506
+LAP:
+  elevation: 69
+  frequency: 112300000
+  id: LAP
+  latitude: 24.085599899292
+  longitude: -110.359001159668
+  magnetic_variation: 9.386
+LAR:
+  elevation: 7280
+  frequency: 117600000
+  id: LAR
+  latitude: 41.3378982543945
+  longitude: -105.721000671387
+  magnetic_variation: 10.099
+LAS:
+  elevation: 2141
+  frequency: 116900000
+  id: LAS
+  latitude: 36.0797004699707
+  longitude: -115.160003662109
+  magnetic_variation: 12.529
+LAW:
+  elevation: 1100
+  frequency: 109400000
+  id: LAW
+  latitude: 34.4962005615234
+  longitude: -98.4131011962891
+  magnetic_variation: 5.376
+LAX:
+  elevation: 182
+  frequency: 113600000
+  id: LAX
+  latitude: 33.9331016540527
+  longitude: -118.431999206543
+  magnetic_variation: 13.076
+LBB:
+  elevation: 3310
+  frequency: 109200000
+  id: LBB
+  latitude: 33.7048988342285
+  longitude: -101.914001464844
+  magnetic_variation: 7.32
+LBF:
+  elevation: 3050
+  frequency: 117400000
+  id: LBF
+  latitude: 41.0485992431641
+  longitude: -100.747001647949
+  magnetic_variation: 7.13
+LBL:
+  elevation: 2890
+  frequency: 112300000
+  id: LBL
+  latitude: 37.0443992614746
+  longitude: -100.971000671387
+  magnetic_variation: 7.083
+LBT:
+  elevation: 126
+  frequency: 110000000
+  id: LBT
+  latitude: 34.6106986999512
+  longitude: -79.054801940918
+  magnetic_variation: -8.098
+LBV:
+  elevation: 30
+  frequency: 110400000
+  id: LBV
+  latitude: 26.8281993865967
+  longitude: -81.3914031982422
+  magnetic_variation: -4.555
+LBY:
+  elevation: 290
+  frequency: 110600000
+  id: LBY
+  latitude: 31.4186992645264
+  longitude: -89.3376007080078
+  magnetic_variation: -0.086
+LCH:
+  elevation: 20
+  frequency: 113400000
+  id: LCH
+  latitude: 30.1415004730225
+  longitude: -93.105598449707
+  magnetic_variation: 2.293
+LCU:
+  elevation: 4400
+  frequency: 113600000
+  id: LCU
+  latitude: 41.3629989624023
+  longitude: -113.841003417969
+  magnetic_variation: 13.384
+LDK:
+  elevation: 370
+  frequency: 117800000
+  id: LDK
+  latitude: 33.2588996887207
+  longitude: -87.5369033813477
+  magnetic_variation: -1.416
+LDN:
+  elevation: 2440
+  frequency: 114300000
+  id: LDN
+  latitude: 38.8544006347656
+  longitude: -78.2055969238281
+  magnetic_variation: -9.514
+LEB:
+  elevation: 1460
+  frequency: 113700000
+  id: LEB
+  latitude: 43.6789016723633
+  longitude: -72.2161026000977
+  magnetic_variation: -15.154
+LEM:
+  elevation: 2570
+  frequency: 111400000
+  id: LEM
+  latitude: 45.9197006225586
+  longitude: -102.103996276855
+  magnetic_variation: 8.209
+LEV:
+  elevation: 2
+  frequency: 113500000
+  id: LEV
+  latitude: 29.175199508667
+  longitude: -90.1039962768555
+  magnetic_variation: 0.378
+LFD:
+  elevation: 1040
+  frequency: 111200000
+  id: LFD
+  latitude: 42.0625
+  longitude: -84.7650985717773
+  magnetic_variation: -5.366
+LFK:
+  elevation: 200
+  frequency: 112100000
+  id: LFK
+  latitude: 31.1623992919922
+  longitude: -94.7170028686523
+  magnetic_variation: 3.264
+LFT:
+  elevation: 37
+  frequency: 109800000
+  id: LFT
+  latitude: 30.1937999725342
+  longitude: -91.9925994873047
+  magnetic_variation: 1.463
+LFV:
+  elevation: 152
+  frequency: 114700000
+  id: LFV
+  latitude: 42.0172004699707
+  longitude: -70.0373001098633
+  magnetic_variation: -15.445
+LGA:
+  elevation: 10
+  frequency: 113100000
+  id: LGA
+  latitude: 40.787899017334
+  longitude: -73.8770980834961
+  magnetic_variation: -13.164
+LGC:
+  elevation: 790
+  frequency: 115600000
+  id: LGC
+  latitude: 33.0490989685059
+  longitude: -85.2061996459961
+  magnetic_variation: -3.217
+LGU:
+  elevation: 4466
+  frequency: 109800000
+  id: LGU
+  latitude: 41.8441009521484
+  longitude: -111.86499786377
+  magnetic_variation: 13.023
+LHO:
+  elevation: 5358
+  frequency: 112900000
+  id: LHO
+  latitude: 41.7929000854492
+  longitude: -112.01000213623
+  magnetic_variation: 13.049
+LHS:
+  elevation: 5790
+  frequency: 108400000
+  id: LHS
+  latitude: 34.6829986572266
+  longitude: -118.577003479004
+  magnetic_variation: 13.195
+LHY:
+  elevation: 2320
+  frequency: 110800000
+  id: LHY
+  latitude: 41.4757995605469
+  longitude: -75.4825973510742
+  magnetic_variation: -12.312
+LIA:
+  elevation: 2990
+  frequency: 114900000
+  id: LIA
+  latitude: 42.9827003479004
+  longitude: -115.774002075195
+  magnetic_variation: 14.386
+LIB:
+  elevation: 830
+  frequency: 113000000
+  id: LIB
+  latitude: 35.8115997314453
+  longitude: -79.6126022338867
+  magnetic_variation: -8.033
+LIN:
+  elevation: 260
+  frequency: 114800000
+  id: LIN
+  latitude: 38.0746002197266
+  longitude: -121.003997802734
+  magnetic_variation: 14.364
+LIT:
+  elevation: 240
+  frequency: 113900000
+  id: LIT
+  latitude: 34.6777000427246
+  longitude: -92.1804962158203
+  magnetic_variation: 1.314
+LJT:
+  elevation: 750
+  frequency: 112500000
+  id: LJT
+  latitude: 43.1097984313965
+  longitude: -88.0373001098633
+  magnetic_variation: -3.019
+LKT:
+  elevation: 9258
+  frequency: 113500000
+  id: LKT
+  latitude: 45.0213012695312
+  longitude: -114.083999633789
+  magnetic_variation: 14.349
+LKV:
+  elevation: 7460
+  frequency: 112000000
+  id: LKV
+  latitude: 42.4928016662598
+  longitude: -120.50700378418
+  magnetic_variation: 15.427
+LLA:
+  elevation: 40
+  frequency: 110400000
+  id: LLA
+  latitude: 29.663200378418
+  longitude: -92.3735961914062
+  magnetic_variation: 2.035
+LLC:
+  elevation: 4784
+  frequency: 116500000
+  id: LLC
+  latitude: 40.1249008178711
+  longitude: -118.578002929688
+  magnetic_variation: 14.393
+LLO:
+  elevation: 1200
+  frequency: 108200000
+  id: LLO
+  latitude: 30.7963008880615
+  longitude: -98.7873992919922
+  magnetic_variation: 5.48
+LMM:
+  elevation: 16
+  frequency: 115500000
+  id: LMM
+  latitude: 25.6826000213623
+  longitude: -109.071998596191
+  magnetic_variation: 9.312
+LMN:
+  elevation: 1140
+  frequency: 116700000
+  id: LMN
+  latitude: 40.5966987609863
+  longitude: -93.9675979614258
+  magnetic_variation: 2.206
+LMT:
+  elevation: 4087
+  frequency: 115900000
+  id: LMT
+  latitude: 42.1530990600586
+  longitude: -121.727996826172
+  magnetic_variation: 15.512
+LNK:
+  elevation: 1370
+  frequency: 116100000
+  id: LNK
+  latitude: 40.9238014221191
+  longitude: -96.7419967651367
+  magnetic_variation: 4.261
+LNN:
+  elevation: 620
+  frequency: 110200000
+  id: LNN
+  latitude: 41.684398651123
+  longitude: -81.3895034790039
+  magnetic_variation: -8.172
+LNR:
+  elevation: 1184
+  frequency: 112800000
+  id: LNR
+  latitude: 43.2943992614746
+  longitude: -90.1331024169922
+  magnetic_variation: -1.134
+LOA:
+  elevation: 350
+  frequency: 110800000
+  id: LOA
+  latitude: 31.1240005493164
+  longitude: -95.9680023193359
+  magnetic_variation: 4.121
+LOZ:
+  elevation: 1240
+  frequency: 116100000
+  id: LOZ
+  latitude: 37.0331001281738
+  longitude: -84.1100997924805
+  magnetic_variation: -4.574
+LRD:
+  elevation: 580
+  frequency: 117400000
+  id: LRD
+  latitude: 27.4787006378174
+  longitude: -99.4177017211914
+  magnetic_variation: 6.047
+LRP:
+  elevation: 400
+  frequency: 117300000
+  id: LRP
+  latitude: 40.1199989318848
+  longitude: -76.2912979125977
+  magnetic_variation: -11.331
+LSE:
+  elevation: 650
+  frequency: 108400000
+  id: LSE
+  latitude: 43.8760986328125
+  longitude: -91.2559967041016
+  magnetic_variation: -0.205
+LSF:
+  elevation: 250
+  frequency: 111400000
+  id: LSF
+  latitude: 32.3324012756348
+  longitude: -84.9933013916016
+  magnetic_variation: -3.236
+LTJ:
+  elevation: 3220
+  frequency: 112300000
+  id: LTJ
+  latitude: 45.7136001586914
+  longitude: -121.100997924805
+  magnetic_variation: 16.481
+LTO:
+  elevation: 34
+  frequency: 113200000
+  id: LTO
+  latitude: 25.9806995391846
+  longitude: -111.349998474121
+  magnetic_variation: 10.076
+LTS:
+  elevation: 1370
+  frequency: 109800000
+  id: LTS
+  latitude: 34.662899017334
+  longitude: -99.2712020874023
+  magnetic_variation: 6.08
+LVD:
+  elevation: 100
+  frequency: 116500000
+  id: LVD
+  latitude: 56.467700958252
+  longitude: -133.082992553711
+  magnetic_variation: 22.094
+LVL:
+  elevation: 350
+  frequency: 112900000
+  id: LVL
+  latitude: 36.818000793457
+  longitude: -77.9029998779297
+  magnetic_variation: -9.309
+LVM:
+  elevation: 4650
+  frequency: 116100000
+  id: LVM
+  latitude: 45.7024993896484
+  longitude: -110.442001342773
+  magnetic_variation: 13.135
+LVT:
+  elevation: 1020
+  frequency: 108400000
+  id: LVT
+  latitude: 36.5845985412598
+  longitude: -85.1666030883789
+  magnetic_variation: -4.026
+LVZ:
+  elevation: 2120
+  frequency: 111600000
+  id: LVZ
+  latitude: 41.2728004455566
+  longitude: -75.6894989013672
+  magnetic_variation: -12.19
+LWB:
+  elevation: 2319
+  frequency: 116050000
+  id: LWB
+  latitude: 37.8638000488281
+  longitude: -80.3919982910156
+  magnetic_variation: -7.598
+LWL:
+  elevation: 5905
+  frequency: 114200000
+  id: LWL
+  latitude: 41.1447982788086
+  longitude: -114.977996826172
+  magnetic_variation: 13.571
+LWM:
+  elevation: 299
+  frequency: 112500000
+  id: LWM
+  latitude: 42.7403984069824
+  longitude: -71.0948028564453
+  magnetic_variation: -15.294
+LWT:
+  elevation: 4133
+  frequency: 112000000
+  id: LWT
+  latitude: 47.0530014038086
+  longitude: -109.606002807617
+  magnetic_variation: 13.054
+LWV:
+  elevation: 429
+  frequency: 108800000
+  id: LWV
+  latitude: 38.7699012756348
+  longitude: -87.6037979125977
+  magnetic_variation: -2.312
+LYH:
+  elevation: 880
+  frequency: 109200000
+  id: LYH
+  latitude: 37.2546005249023
+  longitude: -79.2365036010742
+  magnetic_variation: -8.412
+LZZ:
+  elevation: 1290
+  frequency: 112500000
+  id: LZZ
+  latitude: 31.1854991912842
+  longitude: -98.1418991088867
+  magnetic_variation: 5.271
+MAD:
+  elevation: 230
+  frequency: 110400000
+  id: MAD
+  latitude: 41.3138008117676
+  longitude: -72.6921997070312
+  magnetic_variation: -14.089
+MAF:
+  elevation: 2860
+  frequency: 114800000
+  id: MAF
+  latitude: 32.0093002319336
+  longitude: -102.190002441406
+  magnetic_variation: 7.342
+MAH:
+  elevation: 831
+  frequency: 114900000
+  id: MAH
+  latitude: 41.0150985717773
+  longitude: -83.6647033691406
+  magnetic_variation: -6.152
+MAI:
+  elevation: 120
+  frequency: 114000000
+  id: MAI
+  latitude: 30.7861995697021
+  longitude: -85.1244964599609
+  magnetic_variation: -3.022
+MAM:
+  elevation: 25
+  frequency: 114300000
+  id: MAM
+  latitude: 25.7707996368408
+  longitude: -97.5239028930664
+  magnetic_variation: 5.097
+MAP:
+  elevation: 1370
+  frequency: 113400000
+  id: MAP
+  latitude: 37.5908012390137
+  longitude: -91.7885971069336
+  magnetic_variation: 0.572
+MAW:
+  elevation: 280
+  frequency: 111200000
+  id: MAW
+  latitude: 36.5550994873047
+  longitude: -89.9113998413086
+  magnetic_variation: -0.214
+MBL:
+  elevation: 618
+  frequency: 111400000
+  id: MBL
+  latitude: 44.2706985473633
+  longitude: -86.2539978027344
+  magnetic_variation: -4.545
+MBS:
+  elevation: 670
+  frequency: 112900000
+  id: MBS
+  latitude: 43.5316009521484
+  longitude: -84.0772018432617
+  magnetic_variation: -6.366
+MBW:
+  elevation: 7000
+  frequency: 111600000
+  id: MBW
+  latitude: 41.8455009460449
+  longitude: -106.003997802734
+  magnetic_variation: 10.225
+MCB:
+  elevation: 440
+  frequency: 116700000
+  id: MCB
+  latitude: 31.304500579834
+  longitude: -90.2582015991211
+  magnetic_variation: 0.304
+MCC:
+  elevation: 72
+  frequency: 109200000
+  id: MCC
+  latitude: 38.6674003601074
+  longitude: -121.403999328613
+  magnetic_variation: 14.499
+MCG:
+  elevation: 350
+  frequency: 115500000
+  id: MCG
+  latitude: 62.951000213623
+  longitude: -155.610992431641
+  magnetic_variation: 18.255
+MCI:
+  elevation: 1017
+  frequency: 113250000
+  id: MCI
+  latitude: 39.2853012084961
+  longitude: -94.7370986938477
+  magnetic_variation: 3.019
+MCK:
+  elevation: 2571
+  frequency: 115300000
+  id: MCK
+  latitude: 40.203800201416
+  longitude: -100.59400177002
+  magnetic_variation: 7.054
+MCM:
+  elevation: 870
+  frequency: 112900000
+  id: MCM
+  latitude: 39.6540985107422
+  longitude: -92.4822006225586
+  magnetic_variation: 1.161
+MCN:
+  elevation: 350
+  frequency: 114200000
+  id: MCN
+  latitude: 32.6912002563477
+  longitude: -83.6472015380859
+  magnetic_variation: -4.265
+MCW:
+  elevation: 1210
+  frequency: 114900000
+  id: MCW
+  latitude: 43.0946998596191
+  longitude: -93.3299026489258
+  magnetic_variation: 1.338
+MDO:
+  elevation: 121
+  frequency: 115300000
+  id: MDO
+  latitude: 59.4217987060547
+  longitude: -146.350006103516
+  magnetic_variation: 20.554
+MEE:
+  elevation: 610
+  frequency: 108600000
+  id: MEE
+  latitude: 35.663200378418
+  longitude: -95.3676986694336
+  magnetic_variation: 3.403
+MEI:
+  elevation: 580
+  frequency: 117000000
+  id: MEI
+  latitude: 32.3785018920898
+  longitude: -88.8042984008789
+  magnetic_variation: -0.383
+MEM:
+  elevation: 360
+  frequency: 117500000
+  id: MEM
+  latitude: 35.0150985717773
+  longitude: -89.9832000732422
+  magnetic_variation: -0.065
+MFD:
+  elevation: 1210
+  frequency: 108800000
+  id: MFD
+  latitude: 40.8685989379883
+  longitude: -82.5910034179688
+  magnetic_variation: -7.054
+MFE:
+  elevation: 100
+  frequency: 117200000
+  id: MFE
+  latitude: 26.173900604248
+  longitude: -98.2407989501953
+  magnetic_variation: 5.305
+MGM:
+  elevation: 270
+  frequency: 112100000
+  id: MGM
+  latitude: 32.2223014831543
+  longitude: -86.3197021484375
+  magnetic_variation: -2.246
+MGR:
+  elevation: 290
+  frequency: 108800000
+  id: MGR
+  latitude: 31.0823001861572
+  longitude: -83.80419921875
+  magnetic_variation: -4.019
+MGW:
+  elevation: 2340
+  frequency: 111600000
+  id: MGW
+  latitude: 39.5567016601562
+  longitude: -79.8603973388672
+  magnetic_variation: -8.51
+MHE:
+  elevation: 1301
+  frequency: 109200000
+  id: MHE
+  latitude: 43.7770004272461
+  longitude: -98.03759765625
+  magnetic_variation: 5.189
+MHF:
+  elevation: 38
+  frequency: 113600000
+  id: MHF
+  latitude: 29.5463008880615
+  longitude: -94.7474975585938
+  magnetic_variation: 3.319
+MHK:
+  elevation: 1044
+  frequency: 110200000
+  id: MHK
+  latitude: 39.1454010009766
+  longitude: -96.668701171875
+  magnetic_variation: 4.266
+MHT:
+  elevation: 469
+  frequency: 114400000
+  id: MHT
+  latitude: 42.8684997558594
+  longitude: -71.369499206543
+  magnetic_variation: -15.239
+MIE:
+  elevation: 940
+  frequency: 114400000
+  id: MIE
+  latitude: 40.2373008728027
+  longitude: -85.3939971923828
+  magnetic_variation: -4.38
+MIP:
+  elevation: 1000
+  frequency: 109200000
+  id: MIP
+  latitude: 41.0233993530273
+  longitude: -76.6652984619141
+  magnetic_variation: -11.352
+MKG:
+  elevation: 660
+  frequency: 115200000
+  id: MKG
+  latitude: 43.1693000793457
+  longitude: -86.0392990112305
+  magnetic_variation: -4.481
+MKL:
+  elevation: 410
+  frequency: 112000000
+  id: MKL
+  latitude: 35.6035995483398
+  longitude: -88.910400390625
+  magnetic_variation: -0.594
+MKT:
+  elevation: 1020
+  frequency: 110800000
+  id: MKT
+  latitude: 44.219898223877
+  longitude: -93.9123992919922
+  magnetic_variation: 1.553
+MLB:
+  elevation: 30
+  frequency: 110000000
+  id: MLB
+  latitude: 28.1053009033203
+  longitude: -80.6352996826172
+  magnetic_variation: -5.409
+MLC:
+  elevation: 820
+  frequency: 112000000
+  id: MLC
+  latitude: 34.8494987487793
+  longitude: -95.7823028564453
+  magnetic_variation: 3.586
+MLD:
+  elevation: 7330
+  frequency: 117400000
+  id: MLD
+  latitude: 42.1999015808105
+  longitude: -112.450996398926
+  magnetic_variation: 13.199
+MLF:
+  elevation: 4980
+  frequency: 112100000
+  id: MLF
+  latitude: 38.3604011535645
+  longitude: -113.013000488281
+  magnetic_variation: 12.441
+MLP:
+  elevation: 6100
+  frequency: 117800000
+  id: MLP
+  latitude: 47.456901550293
+  longitude: -115.646003723145
+  magnetic_variation: 15.479
+MLS:
+  elevation: 2640
+  frequency: 112100000
+  id: MLS
+  latitude: 46.3821983337402
+  longitude: -105.954002380371
+  magnetic_variation: 10.558
+MLT:
+  elevation: 550
+  frequency: 117900000
+  id: MLT
+  latitude: 45.5867004394531
+  longitude: -68.5155029296875
+  magnetic_variation: -17.457
+MLU:
+  elevation: 80
+  frequency: 117200000
+  id: MLU
+  latitude: 32.5168991088867
+  longitude: -92.036003112793
+  magnetic_variation: 1.364
+MMJ:
+  elevation: 1200
+  frequency: 112000000
+  id: MMJ
+  latitude: 40.4882011413574
+  longitude: -80.1939010620117
+  magnetic_variation: -8.519
+MML:
+  elevation: 1180
+  frequency: 111000000
+  id: MML
+  latitude: 44.4483985900879
+  longitude: -95.8247985839844
+  magnetic_variation: 3.308
+MMM:
+  elevation: 2120
+  frequency: 114300000
+  id: MMM
+  latitude: 36.7692985534668
+  longitude: -114.277000427246
+  magnetic_variation: 12.474
+MMT:
+  elevation: 249
+  frequency: 113200000
+  id: MMT
+  latitude: 33.9240989685059
+  longitude: -80.8023986816406
+  magnetic_variation: -6.458
+MNM:
+  elevation: 650
+  frequency: 109600000
+  id: MNM
+  latitude: 45.1800994873047
+  longitude: -87.6472015380859
+  magnetic_variation: -3.535
+MOD:
+  elevation: 90
+  frequency: 114600000
+  id: MOD
+  latitude: 37.6273002624512
+  longitude: -120.958000183105
+  magnetic_variation: 14.289
+MOL:
+  elevation: 3460
+  frequency: 115300000
+  id: MOL
+  latitude: 37.9005012512207
+  longitude: -79.1069030761719
+  magnetic_variation: -8.569
+MON:
+  elevation: 280
+  frequency: 111600000
+  id: MON
+  latitude: 33.5620994567871
+  longitude: -91.7156982421875
+  magnetic_variation: 1.177
+MOP:
+  elevation: 752
+  frequency: 110600000
+  id: MOP
+  latitude: 43.6227989196777
+  longitude: -84.7372970581055
+  magnetic_variation: -6.039
+MOS:
+  elevation: 14
+  frequency: 116300000
+  id: MOS
+  latitude: 64.6965026855469
+  longitude: -162.070999145508
+  magnetic_variation: 15.349
+MOT:
+  elevation: 1691
+  frequency: 117100000
+  id: MOT
+  latitude: 48.2602996826172
+  longitude: -101.287002563477
+  magnetic_variation: 7.501
+MOV:
+  elevation: 1864
+  frequency: 117900000
+  id: MOV
+  latitude: 26.9554996490479
+  longitude: -101.471000671387
+  magnetic_variation: 6.597
+MOX:
+  elevation: 1132
+  frequency: 109600000
+  id: MOX
+  latitude: 45.5657997131348
+  longitude: -95.9692001342773
+  magnetic_variation: 3.324
+MPV:
+  elevation: 2080
+  frequency: 110800000
+  id: MPV
+  latitude: 44.0854988098145
+  longitude: -72.4494018554688
+  magnetic_variation: -15.172
+MQG:
+  elevation: 1720
+  frequency: 108200000
+  id: MQG
+  latitude: 46.3815994262695
+  longitude: -116.870002746582
+  magnetic_variation: 15.539
+MQO:
+  elevation: 1463
+  frequency: 112400000
+  id: MQO
+  latitude: 35.2523002624512
+  longitude: -120.76000213623
+  magnetic_variation: 13.507
+MQP:
+  elevation: 900
+  frequency: 117700000
+  id: MQP
+  latitude: 32.7262001037598
+  longitude: -97.9973983764648
+  magnetic_variation: 5.225
+MRB:
+  elevation: 600
+  frequency: 112100000
+  id: MRB
+  latitude: 39.3856010437012
+  longitude: -77.8483963012695
+  magnetic_variation: -10.158
+MRF:
+  elevation: 4830
+  frequency: 115900000
+  id: MRF
+  latitude: 30.2984008789062
+  longitude: -103.955001831055
+  magnetic_variation: 8.146
+MSL:
+  elevation: 580
+  frequency: 116500000
+  id: MSL
+  latitude: 34.706901550293
+  longitude: -87.4915008544922
+  magnetic_variation: -1.558
+MSN:
+  elevation: 860
+  frequency: 108600000
+  id: MSN
+  latitude: 43.1447982788086
+  longitude: -89.3396987915039
+  magnetic_variation: -1.535
+MSO:
+  elevation: 3203
+  frequency: 112800000
+  id: MSO
+  latitude: 46.9080009460449
+  longitude: -114.083999633789
+  magnetic_variation: 15.042
+MSP:
+  elevation: 831
+  frequency: 115300000
+  id: MSP
+  latitude: 44.8964996337891
+  longitude: -93.2365036010742
+  magnetic_variation: 1.147
+MSS:
+  elevation: 200
+  frequency: 114100000
+  id: MSS
+  latitude: 44.9143981933594
+  longitude: -74.7227020263672
+  magnetic_variation: -14.167
+MTJ:
+  elevation: 5710
+  frequency: 117100000
+  id: MTJ
+  latitude: 38.5064010620117
+  longitude: -107.899002075195
+  magnetic_variation: 10.504
+MTO:
+  elevation: 720
+  frequency: 109400000
+  id: MTO
+  latitude: 39.4780006408691
+  longitude: -88.2861022949219
+  magnetic_variation: -2.055
+MTU:
+  elevation: 5396
+  frequency: 112700000
+  id: MTU
+  latitude: 40.1492004394531
+  longitude: -110.127998352051
+  magnetic_variation: 12.02
+MTW:
+  elevation: 650
+  frequency: 111000000
+  id: MTW
+  latitude: 44.1285018920898
+  longitude: -87.6799011230469
+  magnetic_variation: -3.355
+MTY:
+  elevation: 1278
+  frequency: 114700000
+  id: MTY
+  latitude: 25.7728996276855
+  longitude: -100.103996276855
+  magnetic_variation: 6.222
+MVA:
+  elevation: 7860
+  frequency: 115100000
+  id: MVA
+  latitude: 38.565299987793
+  longitude: -118.032997131348
+  magnetic_variation: 14.083
+MVC:
+  elevation: 417
+  frequency: 116800000
+  id: MVC
+  latitude: 31.4603996276855
+  longitude: -87.3527984619141
+  magnetic_variation: -1.33
+MVE:
+  elevation: 1034
+  frequency: 111600000
+  id: MVE
+  latitude: 44.9726982116699
+  longitude: -95.7119979858398
+  magnetic_variation: 3.225
+MVY:
+  elevation: 59
+  frequency: 114500000
+  id: MVY
+  latitude: 41.3961982727051
+  longitude: -70.6127014160156
+  magnetic_variation: -15.154
+MWA:
+  elevation: 490
+  frequency: 110400000
+  id: MWA
+  latitude: 37.7541999816895
+  longitude: -89.0117034912109
+  magnetic_variation: -1.134
+MWH:
+  elevation: 1177
+  frequency: 115000000
+  id: MWH
+  latitude: 47.2108993530273
+  longitude: -119.317001342773
+  magnetic_variation: 16.513
+MXE:
+  elevation: 474
+  frequency: 113200000
+  id: MXE
+  latitude: 39.918098449707
+  longitude: -75.6707992553711
+  magnetic_variation: -11.538
+MXL:
+  elevation: 74
+  frequency: 115000000
+  id: MXL
+  latitude: 32.6310997009277
+  longitude: -115.237998962402
+  magnetic_variation: 12.111
+MXQ:
+  elevation: 1050
+  frequency: 112900000
+  id: MXQ
+  latitude: 39.4296989440918
+  longitude: -83.8012008666992
+  magnetic_variation: -5.446
+MXW:
+  elevation: 110
+  frequency: 110000000
+  id: MXW
+  latitude: 39.3176002502441
+  longitude: -122.22200012207
+  magnetic_variation: 15.085
+MYS:
+  elevation: 790
+  frequency: 108200000
+  id: MYS
+  latitude: 37.894100189209
+  longitude: -86.244499206543
+  magnetic_variation: -3.269
+MYV:
+  elevation: 60
+  frequency: 110800000
+  id: MYV
+  latitude: 39.0985984802246
+  longitude: -121.572998046875
+  magnetic_variation: 14.586
+MZB:
+  elevation: 12
+  frequency: 117800000
+  id: MZB
+  latitude: 32.7821998596191
+  longitude: -117.224998474121
+  magnetic_variation: 12.383
+MZV:
+  elevation: 820
+  frequency: 114400000
+  id: MZV
+  latitude: 41.3210983276367
+  longitude: -90.6380996704102
+  magnetic_variation: -0.27
+MZZ:
+  elevation: 850
+  frequency: 108600000
+  id: MZZ
+  latitude: 40.4934005737305
+  longitude: -85.67919921875
+  magnetic_variation: -4.273
+NGP:
+  elevation: 20
+  frequency: 114000000
+  id: NGP
+  latitude: 27.68630027771
+  longitude: -97.2947006225586
+  magnetic_variation: 5.009
+NLD:
+  elevation: 484
+  frequency: 112600000
+  id: NLD
+  latitude: 27.4393997192383
+  longitude: -99.5645980834961
+  magnetic_variation: 6.089
+NUN:
+  elevation: 80
+  frequency: 108800000
+  id: NUN
+  latitude: 30.4722003936768
+  longitude: -87.3358001708984
+  magnetic_variation: -1.253
+OAB:
+  elevation: 4570
+  frequency: 109800000
+  id: OAB
+  latitude: 38.7561988830566
+  longitude: -109.749000549316
+  magnetic_variation: 11.387
+OAK:
+  elevation: 10
+  frequency: 116800000
+  id: OAK
+  latitude: 37.7258987426758
+  longitude: -122.223999023438
+  magnetic_variation: 14.426
+OAL:
+  elevation: 4800
+  frequency: 117700000
+  id: OAL
+  latitude: 38.0032997131348
+  longitude: -117.769996643066
+  magnetic_variation: 13.567
+OBH:
+  elevation: 2010
+  frequency: 114800000
+  id: OBH
+  latitude: 41.3757019042969
+  longitude: -98.3535995483398
+  magnetic_variation: 5.356
+OBK:
+  elevation: 758
+  frequency: 113000000
+  id: OBK
+  latitude: 42.2215003967285
+  longitude: -87.9517974853516
+  magnetic_variation: -2.546
+OCF:
+  elevation: 80
+  frequency: 113700000
+  id: OCF
+  latitude: 29.1774997711182
+  longitude: -82.2263031005859
+  magnetic_variation: -4.476
+OCN:
+  elevation: 53
+  frequency: 115300000
+  id: OCN
+  latitude: 33.2406005859375
+  longitude: -117.417999267578
+  magnetic_variation: 12.466
+OCS:
+  elevation: 6780
+  frequency: 116000000
+  id: OCS
+  latitude: 41.5901985168457
+  longitude: -109.014999389648
+  magnetic_variation: 11.484
+ODF:
+  elevation: 1700
+  frequency: 113400000
+  id: ODF
+  latitude: 34.6958999633789
+  longitude: -83.2976989746094
+  magnetic_variation: -5.055
+ODG:
+  elevation: 1150
+  frequency: 109000000
+  id: ODG
+  latitude: 36.3737983703613
+  longitude: -97.7881011962891
+  magnetic_variation: 5.147
+ODI:
+  elevation: 1280
+  frequency: 117900000
+  id: ODI
+  latitude: 43.9123992919922
+  longitude: -91.4675979614258
+  magnetic_variation: -0.096
+ODK:
+  elevation: 130
+  frequency: 117100000
+  id: ODK
+  latitude: 57.7750015258789
+  longitude: -152.339996337891
+  magnetic_variation: 18.201
+ODR:
+  elevation: 1160
+  frequency: 114900000
+  id: ODR
+  latitude: 37.3244018554688
+  longitude: -79.9789962768555
+  magnetic_variation: -8.099
+OED:
+  elevation: 2080
+  frequency: 113600000
+  id: OED
+  latitude: 42.4795989990234
+  longitude: -122.91300201416
+  magnetic_variation: 16.093
+OFK:
+  elevation: 1540
+  frequency: 109600000
+  id: OFK
+  latitude: 41.9878997802734
+  longitude: -97.4346008300781
+  magnetic_variation: 4.547
+OGD:
+  elevation: 4223
+  frequency: 115700000
+  id: OGD
+  latitude: 41.2240982055664
+  longitude: -112.097999572754
+  magnetic_variation: 13
+OJC:
+  elevation: 1034
+  frequency: 113000000
+  id: OJC
+  latitude: 38.8405990600586
+  longitude: -94.7368011474609
+  magnetic_variation: 3.037
+OKK:
+  elevation: 830
+  frequency: 113500000
+  id: OKK
+  latitude: 40.5278015136719
+  longitude: -86.0579986572266
+  magnetic_variation: -4.089
+OKM:
+  elevation: 766
+  frequency: 114900000
+  id: OKM
+  latitude: 35.6930999755859
+  longitude: -95.8659973144531
+  magnetic_variation: 4.002
+OKW:
+  elevation: 649
+  frequency: 111000000
+  id: OKW
+  latitude: 33.2396011352539
+  longitude: -87.25
+  magnetic_variation: -1.532
+OLK:
+  elevation: 970
+  frequency: 110400000
+  id: OLK
+  latitude: 41.246898651123
+  longitude: -85.4973983764648
+  magnetic_variation: -4.471
+OLM:
+  elevation: 200
+  frequency: 113400000
+  id: OLM
+  latitude: 46.9715995788574
+  longitude: -122.902000427246
+  magnetic_variation: 17.342
+OLS:
+  elevation: 3870
+  frequency: 108200000
+  id: OLS
+  latitude: 31.4150009155273
+  longitude: -110.848999023438
+  magnetic_variation: 10.494
+OLU:
+  elevation: 1442
+  frequency: 111800000
+  id: OLU
+  latitude: 41.4500007629395
+  longitude: -97.3407974243164
+  magnetic_variation: 4.515
+OME:
+  elevation: 100
+  frequency: 115000000
+  id: OME
+  latitude: 64.4850997924805
+  longitude: -165.253005981445
+  magnetic_variation: 13.459
+OMN:
+  elevation: 19
+  frequency: 112600000
+  id: OMN
+  latitude: 29.3033008575439
+  longitude: -81.1127014160156
+  magnetic_variation: -5.354
+ONA:
+  elevation: 650
+  frequency: 111400000
+  id: ONA
+  latitude: 44.0761985778809
+  longitude: -91.7057037353516
+  magnetic_variation: 0.013
+ONL:
+  elevation: 2030
+  frequency: 113900000
+  id: ONL
+  latitude: 42.4705009460449
+  longitude: -98.686897277832
+  magnetic_variation: 5.493
+ONM:
+  elevation: 4910
+  frequency: 116800000
+  id: ONM
+  latitude: 34.3389015197754
+  longitude: -106.819999694824
+  magnetic_variation: 9.5
+ONP:
+  elevation: 150
+  frequency: 117100000
+  id: ONP
+  latitude: 44.5754013061523
+  longitude: -124.060997009277
+  magnetic_variation: 16.588
+OOD:
+  elevation: 140
+  frequency: 112800000
+  id: OOD
+  latitude: 39.6360015869141
+  longitude: -75.3030014038086
+  magnetic_variation: -12.028
+OOM:
+  elevation: 850
+  frequency: 110200000
+  id: OOM
+  latitude: 39.143798828125
+  longitude: -86.6129989624023
+  magnetic_variation: -3.238
+ORD:
+  elevation: 650
+  frequency: 113900000
+  id: ORD
+  latitude: 41.9877014160156
+  longitude: -87.904899597168
+  magnetic_variation: -2.54
+ORF:
+  elevation: 20
+  frequency: 116900000
+  id: ORF
+  latitude: 36.8918991088867
+  longitude: -76.2003021240234
+  magnetic_variation: -10.407
+ORL:
+  elevation: 109
+  frequency: 112200000
+  id: ORL
+  latitude: 28.5426998138428
+  longitude: -81.3349990844727
+  magnetic_variation: -5.173
+ORT:
+  elevation: 1178
+  frequency: 116300000
+  id: ORT
+  latitude: 62.9472007751465
+  longitude: -141.912994384766
+  magnetic_variation: 23.415
+ORW:
+  elevation: 310
+  frequency: 110000000
+  id: ORW
+  latitude: 41.5564002990723
+  longitude: -71.999397277832
+  magnetic_variation: -14.364
+OSH:
+  elevation: 780
+  frequency: 111800000
+  id: OSH
+  latitude: 43.9903984069824
+  longitude: -88.5559005737305
+  magnetic_variation: -2.463
+OSI:
+  elevation: 2270
+  frequency: 113900000
+  id: OSI
+  latitude: 37.3925018310547
+  longitude: -122.28099822998
+  magnetic_variation: 14.377
+OSW:
+  elevation: 930
+  frequency: 117600000
+  id: OSW
+  latitude: 37.1575012207031
+  longitude: -95.2035980224609
+  magnetic_variation: 3.295
+OTB:
+  elevation: 360
+  frequency: 109800000
+  id: OTB
+  latitude: 34.2238998413086
+  longitude: -88.7973022460938
+  magnetic_variation: -0.531
+OTG:
+  elevation: 1570
+  frequency: 110600000
+  id: OTG
+  latitude: 43.646900177002
+  longitude: -95.581901550293
+  magnetic_variation: 3.226
+OTH:
+  elevation: 707
+  frequency: 112100000
+  id: OTH
+  latitude: 43.4155006408691
+  longitude: -124.167999267578
+  magnetic_variation: 16.379
+OTK:
+  elevation: 199
+  frequency: 114800000
+  id: OTK
+  latitude: 30.7803993225098
+  longitude: -83.2797012329102
+  magnetic_variation: -4.21
+OTM:
+  elevation: 820
+  frequency: 111600000
+  id: OTM
+  latitude: 41.0290985107422
+  longitude: -92.3258972167969
+  magnetic_variation: 0.591
+OTO:
+  elevation: 6290
+  frequency: 114000000
+  id: OTO
+  latitude: 35.0722007751465
+  longitude: -105.935997009277
+  magnetic_variation: 9.328
+OTT:
+  elevation: 210
+  frequency: 113700000
+  id: OTT
+  latitude: 38.7058982849121
+  longitude: -76.7446975708008
+  magnetic_variation: -10.495
+OTZ:
+  elevation: 120
+  frequency: 115700000
+  id: OTZ
+  latitude: 66.8856964111328
+  longitude: -162.539993286133
+  magnetic_variation: 15.499
+OVR:
+  elevation: 1300
+  frequency: 116300000
+  id: OVR
+  latitude: 41.1673011779785
+  longitude: -95.736701965332
+  magnetic_variation: 3.401
+OWB:
+  elevation: 400
+  frequency: 108600000
+  id: OWB
+  latitude: 37.7435989379883
+  longitude: -87.165901184082
+  magnetic_variation: -2.412
+OXI:
+  elevation: 690
+  frequency: 115600000
+  id: OXI
+  latitude: 41.3219985961914
+  longitude: -86.649299621582
+  magnetic_variation: -3.497
+OZB:
+  elevation: 2500
+  frequency: 109000000
+  id: OZB
+  latitude: 40.8703994750977
+  longitude: -100.003997802734
+  magnetic_variation: 6.435
+OZN:
+  elevation: 2901
+  frequency: 109800000
+  id: OZN
+  latitude: 37.0881004333496
+  longitude: -113.592002868652
+  magnetic_variation: 12.394
+OZR:
+  elevation: 326
+  frequency: 111200000
+  id: OZR
+  latitude: 31.2689990997314
+  longitude: -85.7263031005859
+  magnetic_variation: -2.411
+PAE:
+  elevation: 670
+  frequency: 110600000
+  id: PAE
+  latitude: 47.9197998046875
+  longitude: -122.27799987793
+  magnetic_variation: 17.464
+PBF:
+  elevation: 210
+  frequency: 116000000
+  id: PBF
+  latitude: 34.2467994689941
+  longitude: -91.9262008666992
+  magnetic_variation: 1.229
+PBI:
+  elevation: 19
+  frequency: 115700000
+  id: PBI
+  latitude: 26.6800994873047
+  longitude: -80.0865020751953
+  magnetic_variation: -5.465
+PCU:
+  elevation: 70
+  frequency: 112200000
+  id: PCU
+  latitude: 30.5611991882324
+  longitude: -89.7304992675781
+  magnetic_variation: 0.136
+PDK:
+  elevation: 970
+  frequency: 116600000
+  id: PDK
+  latitude: 33.8755989074707
+  longitude: -84.2987976074219
+  magnetic_variation: -4.11
+PDT:
+  elevation: 1559
+  frequency: 114700000
+  id: PDT
+  latitude: 45.6983985900879
+  longitude: -118.939002990723
+  magnetic_variation: 16.173
+PDX:
+  elevation: 23
+  frequency: 111800000
+  id: PDX
+  latitude: 45.5937004089355
+  longitude: -122.606002807617
+  magnetic_variation: 17.039
+PDZ:
+  elevation: 1432
+  frequency: 112200000
+  id: PDZ
+  latitude: 33.9183006286621
+  longitude: -117.529998779297
+  magnetic_variation: 12.569
+PEQ:
+  elevation: 2650
+  frequency: 111800000
+  id: PEQ
+  latitude: 31.4692993164062
+  longitude: -103.574996948242
+  magnetic_variation: 8.103
+PER:
+  elevation: 1060
+  frequency: 113200000
+  id: PER
+  latitude: 36.7464981079102
+  longitude: -97.1601028442383
+  magnetic_variation: 4.501
+PFN:
+  elevation: 10
+  frequency: 114300000
+  id: PFN
+  latitude: 30.2161998748779
+  longitude: -85.6809005737305
+  magnetic_variation: -2.329
+PGA:
+  elevation: 4277
+  frequency: 117600000
+  id: PGA
+  latitude: 36.9309997558594
+  longitude: -111.446998596191
+  magnetic_variation: 11.545
+PGD:
+  elevation: 22
+  frequency: 110200000
+  id: PGD
+  latitude: 26.9167995452881
+  longitude: -81.9912033081055
+  magnetic_variation: -4.321
+PGO:
+  elevation: 2700
+  frequency: 113500000
+  id: PGO
+  latitude: 34.6805000305176
+  longitude: -94.609001159668
+  magnetic_variation: 3.123
+PGS:
+  elevation: 4760
+  frequency: 112000000
+  id: PGS
+  latitude: 35.624698638916
+  longitude: -113.543998718262
+  magnetic_variation: 12.21
+PGY:
+  elevation: 580
+  frequency: 109800000
+  id: PGY
+  latitude: 32.6102981567383
+  longitude: -116.978996276855
+  magnetic_variation: 12.331
+PHK:
+  elevation: 20
+  frequency: 115400000
+  id: PHK
+  latitude: 26.7826995849609
+  longitude: -80.6913986206055
+  magnetic_variation: -5.233
+PHP:
+  elevation: 2340
+  frequency: 108400000
+  id: PHP
+  latitude: 44.0582008361816
+  longitude: -101.664001464844
+  magnetic_variation: 7.57
+PIA:
+  elevation: 730
+  frequency: 115200000
+  id: PIA
+  latitude: 40.6800994873047
+  longitude: -89.7928009033203
+  magnetic_variation: -1.032
+PIE:
+  elevation: 9
+  frequency: 116400000
+  id: PIE
+  latitude: 27.9078006744385
+  longitude: -82.6843032836914
+  magnetic_variation: -4.155
+PIH:
+  elevation: 4433
+  frequency: 112600000
+  id: PIH
+  latitude: 42.8703994750977
+  longitude: -112.652000427246
+  magnetic_variation: 13.332
+PIO:
+  elevation: 6580
+  frequency: 110400000
+  id: PIO
+  latitude: 32.5292015075684
+  longitude: -105.305000305176
+  magnetic_variation: 9.004
+PIR:
+  elevation: 1790
+  frequency: 112500000
+  id: PIR
+  latitude: 44.3945007324219
+  longitude: -100.16300201416
+  magnetic_variation: 6.541
+PKD:
+  elevation: 1440
+  frequency: 110600000
+  id: PKD
+  latitude: 46.8982009887695
+  longitude: -95.0708999633789
+  magnetic_variation: 2.368
+PKE:
+  elevation: 1000
+  frequency: 117900000
+  id: PKE
+  latitude: 34.1020011901855
+  longitude: -114.681999206543
+  magnetic_variation: 12.21
+PLB:
+  elevation: 343
+  frequency: 116900000
+  id: PLB
+  latitude: 44.6848983764648
+  longitude: -73.5226974487305
+  magnetic_variation: -14.55
+PLL:
+  elevation: 840
+  frequency: 111200000
+  id: PLL
+  latitude: 41.9655990600586
+  longitude: -89.5242004394531
+  magnetic_variation: -1.302
+PLN:
+  elevation: 840
+  frequency: 111800000
+  id: PLN
+  latitude: 45.6305999755859
+  longitude: -84.6641006469727
+  magnetic_variation: -6.45
+PMD:
+  elevation: 2500
+  frequency: 114500000
+  id: PMD
+  latitude: 34.6314010620117
+  longitude: -118.064002990723
+  magnetic_variation: 13.121
+PMM:
+  elevation: 640
+  frequency: 112100000
+  id: PMM
+  latitude: 42.4654998779297
+  longitude: -86.1057968139648
+  magnetic_variation: -4.339
+PNE:
+  elevation: 110
+  frequency: 112000000
+  id: PNE
+  latitude: 40.0820999145508
+  longitude: -75.0094985961914
+  magnetic_variation: -12.223
+PNG:
+  elevation: 901
+  frequency: 113600000
+  id: PNG
+  latitude: 28.631799697876
+  longitude: -100.53800201416
+  magnetic_variation: 6.381
+PNH:
+  elevation: 3592
+  frequency: 116600000
+  id: PNH
+  latitude: 35.2350997924805
+  longitude: -101.698997497559
+  magnetic_variation: 7.305
+PNN:
+  elevation: 400
+  frequency: 114300000
+  id: PNN
+  latitude: 45.3292007446289
+  longitude: -67.7042007446289
+  magnetic_variation: -17.578
+PNT:
+  elevation: 679
+  frequency: 109600000
+  id: PNT
+  latitude: 40.8212013244629
+  longitude: -88.7334976196289
+  magnetic_variation: -1.578
+POM:
+  elevation: 1270
+  frequency: 110400000
+  id: POM
+  latitude: 34.0783996582031
+  longitude: -117.787002563477
+  magnetic_variation: 13.012
+PPE:
+  elevation: 30
+  frequency: 112100000
+  id: PPE
+  latitude: 31.3542003631592
+  longitude: -113.518997192383
+  magnetic_variation: 11.319
+PPM:
+  elevation: 41
+  frequency: 108400000
+  id: PPM
+  latitude: 39.4667015075684
+  longitude: -76.1709976196289
+  magnetic_variation: -11.26
+PQI:
+  elevation: 590
+  frequency: 116400000
+  id: PQI
+  latitude: 46.7742004394531
+  longitude: -68.0944976806641
+  magnetic_variation: -18.267
+PRB:
+  elevation: 820
+  frequency: 114300000
+  id: PRB
+  latitude: 35.6724014282227
+  longitude: -120.626998901367
+  magnetic_variation: 13.557
+PRX:
+  elevation: 510
+  frequency: 113600000
+  id: PRX
+  latitude: 33.5424003601074
+  longitude: -95.4483032226562
+  magnetic_variation: 3.483
+PSB:
+  elevation: 2440
+  frequency: 115500000
+  id: PSB
+  latitude: 40.9163017272949
+  longitude: -77.9926986694336
+  magnetic_variation: -10.374
+PSC:
+  elevation: 404
+  frequency: 108400000
+  id: PSC
+  latitude: 46.2630004882812
+  longitude: -119.115997314453
+  magnetic_variation: 16.256
+PSI:
+  elevation: 1148
+  frequency: 111000000
+  id: PSI
+  latitude: 42.7009010314941
+  longitude: -83.5327987670898
+  magnetic_variation: -6.497
+PSK:
+  elevation: 2120
+  frequency: 116800000
+  id: PSK
+  latitude: 37.0876998901367
+  longitude: -80.7128982543945
+  magnetic_variation: -7.338
+PSM:
+  elevation: 99
+  frequency: 116500000
+  id: PSM
+  latitude: 43.0844993591309
+  longitude: -70.8320007324219
+  magnetic_variation: -15.448
+PSP:
+  elevation: 1600
+  frequency: 115500000
+  id: PSP
+  latitude: 33.8699989318848
+  longitude: -116.430000305176
+  magnetic_variation: 12.425
+PSX:
+  elevation: 15
+  frequency: 117300000
+  id: PSX
+  latitude: 28.7644004821777
+  longitude: -96.3061981201172
+  magnetic_variation: 4.275
+PTW:
+  elevation: 290
+  frequency: 116500000
+  id: PTW
+  latitude: 40.2223014831543
+  longitude: -75.560302734375
+  magnetic_variation: -12.038
+PUB:
+  elevation: 4760
+  frequency: 116700000
+  id: PUB
+  latitude: 38.2943000793457
+  longitude: -104.429000854492
+  magnetic_variation: 9.102
+PUC:
+  elevation: 5891
+  frequency: 115500000
+  id: PUC
+  latitude: 39.603199005127
+  longitude: -110.753997802734
+  magnetic_variation: 12.109
+PUT:
+  elevation: 650
+  frequency: 117400000
+  id: PUT
+  latitude: 41.9555015563965
+  longitude: -71.8441009521484
+  magnetic_variation: -14.496
+PUW:
+  elevation: 2720
+  frequency: 109000000
+  id: PUW
+  latitude: 46.6743011474609
+  longitude: -117.223999023438
+  magnetic_variation: 16.056
+PVD:
+  elevation: 49
+  frequency: 115600000
+  id: PVD
+  latitude: 41.7243003845215
+  longitude: -71.4296035766602
+  magnetic_variation: -14.577
+PVU:
+  elevation: 4493
+  frequency: 108400000
+  id: PVU
+  latitude: 40.214900970459
+  longitude: -111.721000671387
+  magnetic_variation: 12.396
+PVW:
+  elevation: 3400
+  frequency: 112900000
+  id: PVW
+  latitude: 34.0862007141113
+  longitude: -101.790000915527
+  magnetic_variation: 7.295
+PWA:
+  elevation: 1270
+  frequency: 113400000
+  id: PWA
+  latitude: 35.532901763916
+  longitude: -97.6472015380859
+  magnetic_variation: 5.096
+PWE:
+  elevation: 1360
+  frequency: 112400000
+  id: PWE
+  latitude: 40.2004013061523
+  longitude: -96.206298828125
+  magnetic_variation: 4.042
+PWL:
+  elevation: 1250
+  frequency: 114300000
+  id: PWL
+  latitude: 41.7697982788086
+  longitude: -73.6005020141602
+  magnetic_variation: -13.47
+PXN:
+  elevation: 2060
+  frequency: 112600000
+  id: PXN
+  latitude: 36.7154998779297
+  longitude: -120.778999328613
+  magnetic_variation: 14.129
+PXR:
+  elevation: 1182
+  frequency: 115600000
+  id: PXR
+  latitude: 33.4329986572266
+  longitude: -111.970001220703
+  magnetic_variation: 11.295
+PXT:
+  elevation: 20
+  frequency: 117600000
+  id: PXT
+  latitude: 38.2877998352051
+  longitude: -76.4001998901367
+  magnetic_variation: -10.561
+PXV:
+  elevation: 430
+  frequency: 113300000
+  id: PXV
+  latitude: 37.9282989501953
+  longitude: -87.7623977661133
+  magnetic_variation: -2.168
+PYE:
+  elevation: 1340
+  frequency: 113700000
+  id: PYE
+  latitude: 38.0797996520996
+  longitude: -122.86799621582
+  magnetic_variation: 14.54
+PZD:
+  elevation: 280
+  frequency: 116100000
+  id: PZD
+  latitude: 31.6551990509033
+  longitude: -84.293098449707
+  magnetic_variation: -3.47
+RAL:
+  elevation: 762
+  frequency: 112400000
+  id: RAL
+  latitude: 33.9519996643066
+  longitude: -117.448997497559
+  magnetic_variation: 12.564
+RAP:
+  elevation: 3160
+  frequency: 112300000
+  id: RAP
+  latitude: 43.976001739502
+  longitude: -103.012001037598
+  magnetic_variation: 8.503
+RAV:
+  elevation: 1750
+  frequency: 114600000
+  id: RAV
+  latitude: 40.5533981323242
+  longitude: -76.5994033813477
+  magnetic_variation: -11.288
+RBA:
+  elevation: 1126
+  frequency: 108200000
+  id: RBA
+  latitude: 39.8507995605469
+  longitude: -95.4231033325195
+  magnetic_variation: 3.305
+RBG:
+  elevation: 1320
+  frequency: 108200000
+  id: RBG
+  latitude: 43.1823997497559
+  longitude: -123.351997375488
+  magnetic_variation: 16.262
+RBL:
+  elevation: 322
+  frequency: 115700000
+  id: RBL
+  latitude: 40.0988998413086
+  longitude: -122.236000061035
+  magnetic_variation: 15.193
+RBS:
+  elevation: 780
+  frequency: 116800000
+  id: RBS
+  latitude: 40.5816993713379
+  longitude: -88.1642990112305
+  magnetic_variation: -2.238
+RBV:
+  elevation: 250
+  frequency: 113800000
+  id: RBV
+  latitude: 40.2024002075195
+  longitude: -74.495002746582
+  magnetic_variation: -12.437
+RBX:
+  elevation: 10
+  frequency: 111600000
+  id: RBX
+  latitude: 35.9205017089844
+  longitude: -75.6968994140625
+  magnetic_variation: -10.447
+RDD:
+  elevation: 490
+  frequency: 108400000
+  id: RDD
+  latitude: 40.5046005249023
+  longitude: -122.291999816895
+  magnetic_variation: 15.286
+RDU:
+  elevation: 429
+  frequency: 117200000
+  id: RDU
+  latitude: 35.872501373291
+  longitude: -78.7833023071289
+  magnetic_variation: -8.395
+REC:
+  elevation: 2340
+  frequency: 110600000
+  id: REC
+  latitude: 40.546501159668
+  longitude: -78.7470016479492
+  magnetic_variation: -9.578
+REO:
+  elevation: 4050
+  frequency: 112500000
+  id: REO
+  latitude: 42.5904998779297
+  longitude: -117.86799621582
+  magnetic_variation: 15.078
+REX:
+  elevation: 139
+  frequency: 112400000
+  id: REX
+  latitude: 26.0105991363525
+  longitude: -98.2319030761719
+  magnetic_variation: 5.303
+RFD:
+  elevation: 860
+  frequency: 110800000
+  id: RFD
+  latitude: 42.2256011962891
+  longitude: -89.1993026733398
+  magnetic_variation: -1.499
+RHI:
+  elevation: 1590
+  frequency: 109200000
+  id: RHI
+  latitude: 45.6338005065918
+  longitude: -89.4578018188477
+  magnetic_variation: -2.2
+RIC:
+  elevation: 159
+  frequency: 114100000
+  id: RIC
+  latitude: 37.5023002624512
+  longitude: -77.3202972412109
+  magnetic_variation: -10.058
+RID:
+  elevation: 1135
+  frequency: 110600000
+  id: RID
+  latitude: 39.7551002502441
+  longitude: -84.8387985229492
+  magnetic_variation: -4.587
+RIL:
+  elevation: 5529
+  frequency: 110600000
+  id: RIL
+  latitude: 39.5280990600586
+  longitude: -107.716003417969
+  magnetic_variation: 10.543
+RIS:
+  elevation: 740
+  frequency: 111400000
+  id: RIS
+  latitude: 39.1203994750977
+  longitude: -94.5966033935547
+  magnetic_variation: 2.563
+RIW:
+  elevation: 5450
+  frequency: 108800000
+  id: RIW
+  latitude: 43.0657005310059
+  longitude: -108.456001281738
+  magnetic_variation: 11.475
+RKA:
+  elevation: 2032
+  frequency: 112600000
+  id: RKA
+  latitude: 42.4663009643555
+  longitude: -75.2391967773438
+  magnetic_variation: -13.01
+RLG:
+  elevation: 9370
+  frequency: 113800000
+  id: RLG
+  latitude: 40.0026016235352
+  longitude: -106.442001342773
+  magnetic_variation: 10.22
+RLY:
+  elevation: 4190
+  frequency: 114800000
+  id: RLY
+  latitude: 43.9640998840332
+  longitude: -107.950996398926
+  magnetic_variation: 11.412
+RMG:
+  elevation: 1150
+  frequency: 115400000
+  id: RMG
+  latitude: 34.1626014709473
+  longitude: -85.1194000244141
+  magnetic_variation: -3.374
+RND:
+  elevation: 773
+  frequency: 112300000
+  id: RND
+  latitude: 29.5191993713379
+  longitude: -98.2852020263672
+  magnetic_variation: 5.315
+RNL:
+  elevation: 3350
+  frequency: 116600000
+  id: RNL
+  latitude: 37.9752998352051
+  longitude: -80.8065032958984
+  magnetic_variation: -7.429
+ROA:
+  elevation: 3060
+  frequency: 109400000
+  id: ROA
+  latitude: 37.3433990478516
+  longitude: -80.0703964233398
+  magnetic_variation: -8.061
+ROC:
+  elevation: 549
+  frequency: 110000000
+  id: ROC
+  latitude: 43.1207008361816
+  longitude: -77.6735992431641
+  magnetic_variation: -11.355
+ROD:
+  elevation: 1080
+  frequency: 117500000
+  id: ROD
+  latitude: 40.2877998352051
+  longitude: -84.043098449707
+  magnetic_variation: -5.454
+ROM:
+  elevation: 3880
+  frequency: 110000000
+  id: ROM
+  latitude: 36.1403999328613
+  longitude: -120.665000915527
+  magnetic_variation: 14.03
+ROX:
+  elevation: 1059
+  frequency: 108800000
+  id: ROX
+  latitude: 48.8546981811523
+  longitude: -95.6949996948242
+  magnetic_variation: 2.564
+RPD:
+  elevation: 1092
+  frequency: 110000000
+  id: RPD
+  latitude: 45.4151992797852
+  longitude: -91.7779998779297
+  magnetic_variation: -0.089
+RQR:
+  elevation: 7
+  frequency: 110800000
+  id: RQR
+  latitude: 30.0874996185303
+  longitude: -90.5886001586914
+  magnetic_variation: 0.514
+RQZ:
+  elevation: 1200
+  frequency: 112200000
+  id: RQZ
+  latitude: 34.7971000671387
+  longitude: -86.633903503418
+  magnetic_variation: -2.355
+RRS:
+  elevation: 360
+  frequency: 111600000
+  id: RRS
+  latitude: 31.2844009399414
+  longitude: -85.4311981201172
+  magnetic_variation: -2.54
+RSG:
+  elevation: 2310
+  frequency: 111200000
+  id: RSG
+  latitude: 30.0146007537842
+  longitude: -100.300003051758
+  magnetic_variation: 6.337
+RSK:
+  elevation: 5823
+  frequency: 115300000
+  id: RSK
+  latitude: 36.7484016418457
+  longitude: -108.098999023438
+  magnetic_variation: 10.403
+RST:
+  elevation: 1380
+  frequency: 112000000
+  id: RST
+  latitude: 43.782901763916
+  longitude: -92.5969009399414
+  magnetic_variation: 0.508
+RSV:
+  elevation: 490
+  frequency: 108400000
+  id: RSV
+  latitude: 39.0181007385254
+  longitude: -87.6485977172852
+  magnetic_variation: -2.317
+RSW:
+  elevation: 25
+  frequency: 111800000
+  id: RSW
+  latitude: 26.529899597168
+  longitude: -81.7758026123047
+  magnetic_variation: -4.365
+RUT:
+  elevation: 781
+  frequency: 111000000
+  id: RUT
+  latitude: 43.5265998840332
+  longitude: -72.9506988525391
+  magnetic_variation: -14.476
+RWF:
+  elevation: 1060
+  frequency: 113300000
+  id: RWF
+  latitude: 44.4672012329102
+  longitude: -95.128303527832
+  magnetic_variation: 2.557
+RWL:
+  elevation: 6750
+  frequency: 109400000
+  id: RWL
+  latitude: 41.8047981262207
+  longitude: -107.204002380371
+  magnetic_variation: 10.591
+RZC:
+  elevation: 1331
+  frequency: 116400000
+  id: RZC
+  latitude: 36.2463989257812
+  longitude: -94.1213989257812
+  magnetic_variation: 2.468
+RZN:
+  elevation: 987
+  frequency: 109400000
+  id: RZN
+  latitude: 45.8204002380371
+  longitude: -92.3744964599609
+  magnetic_variation: 0.194
+RZS:
+  elevation: 3620
+  frequency: 114900000
+  id: RZS
+  latitude: 34.5094985961914
+  longitude: -119.771003723145
+  magnetic_variation: 13.299
+SAC:
+  elevation: 10
+  frequency: 115200000
+  id: SAC
+  latitude: 38.4435997009277
+  longitude: -121.552001953125
+  magnetic_variation: 14.478
+SAE:
+  elevation: 3256
+  frequency: 110200000
+  id: SAE
+  latitude: 41.1190986633301
+  longitude: -101.776000976562
+  magnetic_variation: 7.525
+SAF:
+  elevation: 6263
+  frequency: 110600000
+  id: SAF
+  latitude: 35.5405006408691
+  longitude: -106.065002441406
+  magnetic_variation: 9.394
+SAM:
+  elevation: 540
+  frequency: 116600000
+  id: SAM
+  latitude: 38.4851989746094
+  longitude: -88.0858001708984
+  magnetic_variation: -2.048
+SAT:
+  elevation: 1160
+  frequency: 116800000
+  id: SAT
+  latitude: 29.6439990997314
+  longitude: -98.4613037109375
+  magnetic_variation: 5.371
+SAU:
+  elevation: 1040
+  frequency: 116200000
+  id: SAU
+  latitude: 37.8553009033203
+  longitude: -122.523002624512
+  magnetic_variation: 14.474
+SAV:
+  elevation: 9
+  frequency: 115950000
+  id: SAV
+  latitude: 32.1463012695312
+  longitude: -81.1990966796875
+  magnetic_variation: -6.06
+SAW:
+  elevation: 1220
+  frequency: 117100000
+  id: SAW
+  latitude: 46.3588981628418
+  longitude: -87.3972015380859
+  magnetic_variation: -4.274
+SAX:
+  elevation: 1410
+  frequency: 115700000
+  id: SAX
+  latitude: 41.0675010681152
+  longitude: -74.5382995605469
+  magnetic_variation: -12.589
+SBI:
+  elevation: 10
+  frequency: 115400000
+  id: SBI
+  latitude: 29.6867008209229
+  longitude: -94.0380020141602
+  magnetic_variation: 3.058
+SBJ:
+  elevation: 190
+  frequency: 112900000
+  id: SBJ
+  latitude: 40.5830001831055
+  longitude: -74.74169921875
+  magnetic_variation: -12.419
+SBV:
+  elevation: 530
+  frequency: 110400000
+  id: SBV
+  latitude: 36.6749992370605
+  longitude: -79.0145034790039
+  magnetic_variation: -8.418
+SBY:
+  elevation: 50
+  frequency: 111200000
+  id: SBY
+  latitude: 38.3450012207031
+  longitude: -75.5105972290039
+  magnetic_variation: -11.318
+SCB:
+  elevation: 1317
+  frequency: 111000000
+  id: SCB
+  latitude: 41.6053009033203
+  longitude: -96.6286010742188
+  magnetic_variation: 4.194
+SCC:
+  elevation: 74
+  frequency: 113900000
+  id: SCC
+  latitude: 70.1992034912109
+  longitude: -148.416000366211
+  magnetic_variation: 24.275
+SDO:
+  elevation: 4161
+  frequency: 114300000
+  id: SDO
+  latitude: 41.4071006774902
+  longitude: -118.035003662109
+  magnetic_variation: 14.516
+SDZ:
+  elevation: 590
+  frequency: 111800000
+  id: SDZ
+  latitude: 35.2154006958008
+  longitude: -79.5879974365234
+  magnetic_variation: -7.558
+SEA:
+  elevation: 354
+  frequency: 116800000
+  id: SEA
+  latitude: 47.4353981018066
+  longitude: -122.309997558594
+  magnetic_variation: 17.369
+SEG:
+  elevation: 620
+  frequency: 110400000
+  id: SEG
+  latitude: 40.7907981872559
+  longitude: -76.8840026855469
+  magnetic_variation: -11.218
+SEY:
+  elevation: 100
+  frequency: 117800000
+  id: SEY
+  latitude: 41.1674003601074
+  longitude: -71.5761032104492
+  magnetic_variation: -14.419
+SFK:
+  elevation: 1990
+  frequency: 108600000
+  id: SFK
+  latitude: 41.6953010559082
+  longitude: -77.4198989868164
+  magnetic_variation: -11.169
+SFL:
+  elevation: 3730
+  frequency: 113000000
+  id: SFL
+  latitude: 31.7481002807617
+  longitude: -105.08699798584
+  magnetic_variation: 8.504
+SFO:
+  elevation: 13
+  frequency: 115800000
+  id: SFO
+  latitude: 37.619499206543
+  longitude: -122.374000549316
+  magnetic_variation: 14.423
+SGD:
+  elevation: 10
+  frequency: 112100000
+  id: SGD
+  latitude: 38.1794013977051
+  longitude: -122.373001098633
+  magnetic_variation: 14.513
+SGF:
+  elevation: 1240
+  frequency: 116900000
+  id: SGF
+  latitude: 37.355899810791
+  longitude: -93.3339996337891
+  magnetic_variation: 2.08
+SGH:
+  elevation: 1050
+  frequency: 113200000
+  id: SGH
+  latitude: 39.836498260498
+  longitude: -83.8450012207031
+  magnetic_variation: -5.484
+SGJ:
+  elevation: 10
+  frequency: 109400000
+  id: SGJ
+  latitude: 29.9566993713379
+  longitude: -81.3303985595703
+  magnetic_variation: -5.347
+SHB:
+  elevation: 810
+  frequency: 112000000
+  id: SHB
+  latitude: 39.6325988769531
+  longitude: -85.8243026733398
+  magnetic_variation: -4.086
+SHR:
+  elevation: 4410
+  frequency: 115300000
+  id: SHR
+  latitude: 44.8423004150391
+  longitude: -107.060997009277
+  magnetic_variation: 11.211
+SHY:
+  elevation: 910
+  frequency: 108400000
+  id: SHY
+  latitude: 38.040599822998
+  longitude: -92.6024017333984
+  magnetic_variation: 1.316
+SIE:
+  elevation: 10
+  frequency: 114800000
+  id: SIE
+  latitude: 39.0955009460449
+  longitude: -74.8003005981445
+  magnetic_variation: -12.119
+SJC:
+  elevation: 43
+  frequency: 114100000
+  id: SJC
+  latitude: 37.374698638916
+  longitude: -121.944999694824
+  magnetic_variation: 14.345
+SJI:
+  elevation: 190
+  frequency: 115300000
+  id: SJI
+  latitude: 30.7259998321533
+  longitude: -88.3592987060547
+  magnetic_variation: -0.444
+SJN:
+  elevation: 6840
+  frequency: 112300000
+  id: SJN
+  latitude: 34.4240989685059
+  longitude: -109.143997192383
+  magnetic_variation: 10.439
+SJT:
+  elevation: 1890
+  frequency: 115100000
+  id: SJT
+  latitude: 31.375
+  longitude: -100.455001831055
+  magnetic_variation: 6.411
+SKY:
+  elevation: 580
+  frequency: 109200000
+  id: SKY
+  latitude: 41.4345016479492
+  longitude: -82.6548004150391
+  magnetic_variation: -7.117
+SLI:
+  elevation: 23
+  frequency: 115700000
+  id: SLI
+  latitude: 33.7832984924316
+  longitude: -118.055000305176
+  magnetic_variation: 13.013
+SLK:
+  elevation: 1650
+  frequency: 109200000
+  id: SLK
+  latitude: 44.3846015930176
+  longitude: -74.2044982910156
+  magnetic_variation: -14.232
+SLN:
+  elevation: 1310
+  frequency: 117100000
+  id: SLN
+  latitude: 38.9250984191895
+  longitude: -97.6213989257812
+  magnetic_variation: 5.067
+SLR:
+  elevation: 480
+  frequency: 109000000
+  id: SLR
+  latitude: 33.198600769043
+  longitude: -95.5426025390625
+  magnetic_variation: 3.526
+SLT:
+  elevation: 2320
+  frequency: 113900000
+  id: SLT
+  latitude: 41.5127983093262
+  longitude: -77.970100402832
+  magnetic_variation: -10.498
+SLW:
+  elevation: 4778
+  frequency: 116100000
+  id: SLW
+  latitude: 25.5461006164551
+  longitude: -100.930000305176
+  magnetic_variation: 6.432
+SMO:
+  elevation: 114
+  frequency: 110800000
+  id: SMO
+  latitude: 34.0102005004883
+  longitude: -118.457000732422
+  magnetic_variation: 13.076
+SNS:
+  elevation: 101
+  frequency: 117300000
+  id: SNS
+  latitude: 36.6637992858887
+  longitude: -121.602996826172
+  magnetic_variation: 14.202
+SNY:
+  elevation: 4300
+  frequency: 115900000
+  id: SNY
+  latitude: 41.0966987609863
+  longitude: -102.983001708984
+  magnetic_variation: 8.365
+SOT:
+  elevation: 4239
+  frequency: 108800000
+  id: SOT
+  latitude: 35.7901000976562
+  longitude: -83.0523986816406
+  magnetic_variation: -5.302
+SPA:
+  elevation: 910
+  frequency: 115700000
+  id: SPA
+  latitude: 35.0336990356445
+  longitude: -81.9271011352539
+  magnetic_variation: -6.111
+SPI:
+  elevation: 587
+  frequency: 112700000
+  id: SPI
+  latitude: 39.8396987915039
+  longitude: -89.6776962280273
+  magnetic_variation: -1.026
+SPS:
+  elevation: 1100
+  frequency: 112700000
+  id: SPS
+  latitude: 33.9873008728027
+  longitude: -98.5934982299805
+  magnetic_variation: 5.437
+SPW:
+  elevation: 1330
+  frequency: 110000000
+  id: SPW
+  latitude: 43.1622009277344
+  longitude: -95.2009963989258
+  magnetic_variation: 3.064
+SQA:
+  elevation: 2501
+  frequency: 117200000
+  id: SQA
+  latitude: 61.0984992980957
+  longitude: -155.634994506836
+  magnetic_variation: 17.537
+SQN:
+  elevation: 60
+  frequency: 113300000
+  id: SQN
+  latitude: 30.5454006195068
+  longitude: -115.956001281738
+  magnetic_variation: 11.55
+SQS:
+  elevation: 125
+  frequency: 114700000
+  id: SQS
+  latitude: 33.4639015197754
+  longitude: -90.2772979736328
+  magnetic_variation: 0.171
+SRL:
+  elevation: 625
+  frequency: 112600000
+  id: SRL
+  latitude: 27.3283004760742
+  longitude: -112.269996643066
+  magnetic_variation: 10.326
+SRQ:
+  elevation: 20
+  frequency: 115200000
+  id: SRQ
+  latitude: 27.3978004455566
+  longitude: -82.5542984008789
+  magnetic_variation: -4.159
+SSF:
+  elevation: 540
+  frequency: 108400000
+  id: SSF
+  latitude: 29.2583999633789
+  longitude: -98.4434967041016
+  magnetic_variation: 5.364
+SSI:
+  elevation: 10
+  frequency: 109800000
+  id: SSI
+  latitude: 31.050500869751
+  longitude: -81.4459991455078
+  magnetic_variation: -5.422
+SSM:
+  elevation: 690
+  frequency: 112200000
+  id: SSM
+  latitude: 46.4119987487793
+  longitude: -84.3149032592773
+  magnetic_variation: -7.201
+SSO:
+  elevation: 3600
+  frequency: 115400000
+  id: SSO
+  latitude: 32.2691993713379
+  longitude: -109.263000488281
+  magnetic_variation: 10.275
+SSR:
+  elevation: 50
+  frequency: 114000000
+  id: SSR
+  latitude: 58.1777000427246
+  longitude: -135.259002685547
+  magnetic_variation: 22.437
+SSU:
+  elevation: 3330
+  frequency: 108400000
+  id: SSU
+  latitude: 37.7639007568359
+  longitude: -80.3015975952148
+  magnetic_variation: -8.023
+STC:
+  elevation: 1025
+  frequency: 112100000
+  id: STC
+  latitude: 45.5493011474609
+  longitude: -94.0586013793945
+  magnetic_variation: 1.529
+STE:
+  elevation: 1110
+  frequency: 110600000
+  id: STE
+  latitude: 44.5432014465332
+  longitude: -89.5306015014648
+  magnetic_variation: -2.01
+STJ:
+  elevation: 1160
+  frequency: 115500000
+  id: STJ
+  latitude: 39.9606018066406
+  longitude: -94.9252014160156
+  magnetic_variation: 3.077
+STL:
+  elevation: 450
+  frequency: 117400000
+  id: STL
+  latitude: 38.8606986999512
+  longitude: -90.4823989868164
+  magnetic_variation: -0.131
+STS:
+  elevation: 120
+  frequency: 113000000
+  id: STS
+  latitude: 38.5080986022949
+  longitude: -122.810997009277
+  magnetic_variation: 15.006
+STV:
+  elevation: 1530
+  frequency: 113800000
+  id: STV
+  latitude: 30.2068004608154
+  longitude: -98.7058029174805
+  magnetic_variation: 5.451
+STW:
+  elevation: 920
+  frequency: 109600000
+  id: STW
+  latitude: 40.9958000183105
+  longitude: -74.8690032958984
+  magnetic_variation: -12.451
+SUG:
+  elevation: 3970
+  frequency: 112200000
+  id: SUG
+  latitude: 35.4065017700195
+  longitude: -82.2686004638672
+  magnetic_variation: -6.006
+SUX:
+  elevation: 1087
+  frequency: 116500000
+  id: SUX
+  latitude: 42.3445014953613
+  longitude: -96.323600769043
+  magnetic_variation: 4.032
+SVC:
+  elevation: 5423
+  frequency: 110800000
+  id: SVC
+  latitude: 32.6376991271973
+  longitude: -108.161003112793
+  magnetic_variation: 10.077
+SVM:
+  elevation: 950
+  frequency: 114300000
+  id: SVM
+  latitude: 42.4089012145996
+  longitude: -83.5941009521484
+  magnetic_variation: -6.416
+SVN:
+  elevation: 40
+  frequency: 111600000
+  id: SVN
+  latitude: 32.0119018554688
+  longitude: -81.1408996582031
+  magnetic_variation: -6.068
+SWB:
+  elevation: 164
+  frequency: 113750000
+  id: SWB
+  latitude: 31.9731998443604
+  longitude: -92.6771011352539
+  magnetic_variation: 2.049
+SWL:
+  elevation: 40
+  frequency: 112400000
+  id: SWL
+  latitude: 38.0565986633301
+  longitude: -75.4638977050781
+  magnetic_variation: -11.286
+SWO:
+  elevation: 1020
+  frequency: 108400000
+  id: SWO
+  latitude: 36.2243003845215
+  longitude: -97.081298828125
+  magnetic_variation: 4.474
+SWR:
+  elevation: 8850
+  frequency: 113200000
+  id: SWR
+  latitude: 39.1803016662598
+  longitude: -120.269996643066
+  magnetic_variation: 14.455
+SXC:
+  elevation: 2090
+  frequency: 111400000
+  id: SXC
+  latitude: 33.3750991821289
+  longitude: -118.419998168945
+  magnetic_variation: 12.597
+SXW:
+  elevation: 8060
+  frequency: 109200000
+  id: SXW
+  latitude: 39.6295013427734
+  longitude: -106.990997314453
+  magnetic_variation: 10.35
+SYI:
+  elevation: 810
+  frequency: 109000000
+  id: SYI
+  latitude: 35.5620002746582
+  longitude: -86.4392013549805
+  magnetic_variation: -2.522
+SYO:
+  elevation: 1990
+  frequency: 115200000
+  id: SYO
+  latitude: 35.3451995849609
+  longitude: -99.6352996826172
+  magnetic_variation: 6.217
+SYR:
+  elevation: 420
+  frequency: 117000000
+  id: SYR
+  latitude: 43.1604995727539
+  longitude: -76.2045974731445
+  magnetic_variation: -12.379
+SZW:
+  elevation: 180
+  frequency: 117500000
+  id: SZW
+  latitude: 30.5562000274658
+  longitude: -84.3740005493164
+  magnetic_variation: -3.319
+TAL:
+  elevation: 390
+  frequency: 116600000
+  id: TAL
+  latitude: 65.1771011352539
+  longitude: -152.177993774414
+  magnetic_variation: 20.438
+TAS:
+  elevation: 7860
+  frequency: 117600000
+  id: TAS
+  latitude: 36.6087989807129
+  longitude: -105.90599822998
+  magnetic_variation: 9.424
+TAY:
+  elevation: 140
+  frequency: 112900000
+  id: TAY
+  latitude: 30.5046005249023
+  longitude: -82.5529022216797
+  magnetic_variation: -4.489
+TBC:
+  elevation: 5045
+  frequency: 113500000
+  id: TBC
+  latitude: 36.1212997436523
+  longitude: -111.269996643066
+  magnetic_variation: 11.446
+TBD:
+  elevation: 10
+  frequency: 112000000
+  id: TBD
+  latitude: 29.6643009185791
+  longitude: -90.8291015625
+  magnetic_variation: 1.035
+TBE:
+  elevation: 5730
+  frequency: 111200000
+  id: TBE
+  latitude: 37.2587013244629
+  longitude: -103.599998474121
+  magnetic_variation: 8.389
+TBN:
+  elevation: 1175
+  frequency: 110000000
+  id: TBN
+  latitude: 37.7424011230469
+  longitude: -92.1389999389648
+  magnetic_variation: 1.123
+TCC:
+  elevation: 4070
+  frequency: 113600000
+  id: TCC
+  latitude: 35.1820983886719
+  longitude: -103.598999023438
+  magnetic_variation: 8.286
+TCH:
+  elevation: 4220
+  frequency: 116800000
+  id: TCH
+  latitude: 40.8502998352051
+  longitude: -111.982002258301
+  magnetic_variation: 12.529
+TCM:
+  elevation: 284
+  frequency: 109600000
+  id: TCM
+  latitude: 47.1477012634277
+  longitude: -122.474998474121
+  magnetic_variation: 17.33
+TCS:
+  elevation: 4905
+  frequency: 112700000
+  id: TCS
+  latitude: 33.2825012207031
+  longitude: -107.28099822998
+  magnetic_variation: 9.531
+TDD:
+  elevation: 3180
+  frequency: 108600000
+  id: TDD
+  latitude: 41.9817008972168
+  longitude: -100.71900177002
+  magnetic_variation: 7.138
+TDG:
+  elevation: 530
+  frequency: 108800000
+  id: TDG
+  latitude: 33.5751991271973
+  longitude: -86.0427017211914
+  magnetic_variation: -2.511
+TDT:
+  elevation: 1710
+  frequency: 117600000
+  id: TDT
+  latitude: 41.7130012512207
+  longitude: -79.4172973632812
+  magnetic_variation: -9.497
+TEB:
+  elevation: 10
+  frequency: 108400000
+  id: TEB
+  latitude: 40.8487014770508
+  longitude: -74.0622024536133
+  magnetic_variation: -13.12
+TFD:
+  elevation: 1316
+  frequency: 114800000
+  id: TFD
+  latitude: 32.8858985900879
+  longitude: -111.908996582031
+  magnetic_variation: 11.226
+TGE:
+  elevation: 490
+  frequency: 117300000
+  id: TGE
+  latitude: 32.4846000671387
+  longitude: -85.6692962646484
+  magnetic_variation: -2.555
+THS:
+  elevation: 2340
+  frequency: 115000000
+  id: THS
+  latitude: 39.9332008361816
+  longitude: -77.9508972167969
+  magnetic_variation: -10.211
+THX:
+  elevation: 270
+  frequency: 111400000
+  id: THX
+  latitude: 28.5049991607666
+  longitude: -98.1504974365234
+  magnetic_variation: 5.272
+TIJ:
+  elevation: 489
+  frequency: 116500000
+  id: TIJ
+  latitude: 32.5404014587402
+  longitude: -116.953002929688
+  magnetic_variation: 12.319
+TKA:
+  elevation: 360
+  frequency: 116200000
+  id: TKA
+  latitude: 62.298698425293
+  longitude: -150.106002807617
+  magnetic_variation: 20.367
+TKO:
+  elevation: 1880
+  frequency: 109800000
+  id: TKO
+  latitude: 39.8064002990723
+  longitude: -98.2600021362305
+  magnetic_variation: 5.324
+TNP:
+  elevation: 1350
+  frequency: 114200000
+  id: TNP
+  latitude: 34.1122016906738
+  longitude: -115.769996643066
+  magnetic_variation: 12.367
+TNU:
+  elevation: 980
+  frequency: 112500000
+  id: TNU
+  latitude: 41.7837982177734
+  longitude: -93.109001159668
+  magnetic_variation: 1.321
+TNV:
+  elevation: 230
+  frequency: 115900000
+  id: TNV
+  latitude: 30.2884998321533
+  longitude: -96.0581970214844
+  magnetic_variation: 4.167
+TON:
+  elevation: 2630
+  frequency: 114900000
+  id: TON
+  latitude: 40.7350997924805
+  longitude: -78.331298828125
+  magnetic_variation: -10.194
+TOP:
+  elevation: 1070
+  frequency: 117800000
+  id: TOP
+  latitude: 39.1371002197266
+  longitude: -95.5491027832031
+  magnetic_variation: 3.384
+TOU:
+  elevation: 1650
+  frequency: 112200000
+  id: TOU
+  latitude: 48.2999000549316
+  longitude: -124.626998901367
+  magnetic_variation: 18.191
+TOY:
+  elevation: 570
+  frequency: 116000000
+  id: TOY
+  latitude: 38.739200592041
+  longitude: -89.9186019897461
+  magnetic_variation: -0.39
+TPH:
+  elevation: 5330
+  frequency: 117200000
+  id: TPH
+  latitude: 38.0307006835938
+  longitude: -117.033996582031
+  magnetic_variation: 13.468
+TPL:
+  elevation: 710
+  frequency: 110400000
+  id: TPL
+  latitude: 31.2092990875244
+  longitude: -97.4250030517578
+  magnetic_variation: 5.03
+TQA:
+  elevation: 2018
+  frequency: 111600000
+  id: TQA
+  latitude: 32.2356986999512
+  longitude: -99.8168029785156
+  magnetic_variation: 6.227
+TQE:
+  elevation: 1030
+  frequency: 108400000
+  id: TQE
+  latitude: 41.7596015930176
+  longitude: -96.178596496582
+  magnetic_variation: 3.584
+TRC:
+  elevation: 3688
+  frequency: 116400000
+  id: TRC
+  latitude: 25.5639991760254
+  longitude: -103.407997131348
+  magnetic_variation: 7.424
+TRM:
+  elevation: -87
+  frequency: 116200000
+  id: TRM
+  latitude: 33.628101348877
+  longitude: -116.160003662109
+  magnetic_variation: 12.34
+TTE:
+  elevation: 580
+  frequency: 109200000
+  id: TTE
+  latitude: 35.9131011962891
+  longitude: -119.021003723145
+  magnetic_variation: 13.422
+TTH:
+  elevation: 610
+  frequency: 115300000
+  id: TTH
+  latitude: 39.4889984130859
+  longitude: -87.2490005493164
+  magnetic_variation: -2.567
+TTT:
+  elevation: 540
+  frequency: 113100000
+  id: TTT
+  latitude: 32.8692016601562
+  longitude: -97.0404968261719
+  magnetic_variation: 4.486
+TUL:
+  elevation: 770
+  frequency: 114400000
+  id: TUL
+  latitude: 36.1963005065918
+  longitude: -95.7881011962891
+  magnetic_variation: 3.561
+TUS:
+  elevation: 2672
+  frequency: 116000000
+  id: TUS
+  latitude: 32.0951995849609
+  longitude: -110.915000915527
+  magnetic_variation: 10.571
+TVC:
+  elevation: 910
+  frequency: 114600000
+  id: TVC
+  latitude: 44.6679000854492
+  longitude: -85.5500030517578
+  magnetic_variation: -5.392
+TVF:
+  elevation: 1110
+  frequency: 108400000
+  id: TVF
+  latitude: 48.0693016052246
+  longitude: -96.1865005493164
+  magnetic_variation: 3.293
+TVT:
+  elevation: 1340
+  frequency: 116500000
+  id: TVT
+  latitude: 40.4580001831055
+  longitude: -82.1268005371094
+  magnetic_variation: -7.209
+TWF:
+  elevation: 4140
+  frequency: 115800000
+  id: TWF
+  latitude: 42.4799003601074
+  longitude: -114.488998413086
+  magnetic_variation: 14.067
+TXC:
+  elevation: 4893
+  frequency: 112900000
+  id: TXC
+  latitude: 39.698299407959
+  longitude: -103.214996337891
+  magnetic_variation: 8.382
+TXK:
+  elevation: 270
+  frequency: 116300000
+  id: TXK
+  latitude: 33.5139007568359
+  longitude: -94.0731964111328
+  magnetic_variation: 2.545
+TXO:
+  elevation: 4060
+  frequency: 112200000
+  id: TXO
+  latitude: 34.4950981140137
+  longitude: -102.839996337891
+  magnetic_variation: 8.03
+TYI:
+  elevation: 70
+  frequency: 117800000
+  id: TYI
+  latitude: 35.9766998291016
+  longitude: -77.7037963867188
+  magnetic_variation: -9.26
+TYR:
+  elevation: 540
+  frequency: 114200000
+  id: TYR
+  latitude: 32.355899810791
+  longitude: -95.4035034179688
+  magnetic_variation: 3.491
+TZZ:
+  elevation: 32
+  frequency: 116400000
+  id: TZZ
+  latitude: 38.3442001342773
+  longitude: -121.810997009277
+  magnetic_variation: 14.487
+UBG:
+  elevation: 1440
+  frequency: 117400000
+  id: UBG
+  latitude: 45.353199005127
+  longitude: -122.977996826172
+  magnetic_variation: 17.031
+UCA:
+  elevation: 1420
+  frequency: 111200000
+  id: UCA
+  latitude: 43.0265007019043
+  longitude: -75.1644973754883
+  magnetic_variation: -13.16
+UIA:
+  elevation: 330
+  frequency: 110200000
+  id: UIA
+  latitude: 31.3094997406006
+  longitude: -86.3921966552734
+  magnetic_variation: -2.129
+UIM:
+  elevation: 520
+  frequency: 114000000
+  id: UIM
+  latitude: 32.8804016113281
+  longitude: -95.3667984008789
+  magnetic_variation: 3.466
+UIN:
+  elevation: 710
+  frequency: 113600000
+  id: UIN
+  latitude: 39.847900390625
+  longitude: -91.2788009643555
+  magnetic_variation: 0.172
+UJM:
+  elevation: 241
+  frequency: 109600000
+  id: UJM
+  latitude: 34.5750007629395
+  longitude: -90.6744003295898
+  magnetic_variation: 0.27
+UKN:
+  elevation: 1300
+  frequency: 116600000
+  id: UKN
+  latitude: 43.280101776123
+  longitude: -91.5373992919922
+  magnetic_variation: 0.003
+UKW:
+  elevation: 1100
+  frequency: 112400000
+  id: UKW
+  latitude: 33.5359001159668
+  longitude: -97.8212966918945
+  magnetic_variation: 5.163
+ULL:
+  elevation: 380
+  frequency: 117300000
+  id: ULL
+  latitude: 63.6922988891602
+  longitude: -170.470001220703
+  magnetic_variation: 10.372
+ULW:
+  elevation: 1620
+  frequency: 109650000
+  id: ULW
+  latitude: 42.0942001342773
+  longitude: -77.0248031616211
+  magnetic_variation: -11.416
+UNK:
+  elevation: 430
+  frequency: 116900000
+  id: UNK
+  latitude: 63.8918991088867
+  longitude: -160.684005737305
+  magnetic_variation: 16.083
+URH:
+  elevation: 681
+  frequency: 114300000
+  id: URH
+  latitude: 33.9441986083984
+  longitude: -96.3917999267578
+  magnetic_variation: 4.236
+UXM:
+  elevation: 1082
+  frequency: 109650000
+  id: UXM
+  latitude: 35.3804016113281
+  longitude: -86.2457962036133
+  magnetic_variation: -2.592
+VAD:
+  elevation: 213
+  frequency: 113300000
+  id: VAD
+  latitude: 30.9601001739502
+  longitude: -83.1933975219727
+  magnetic_variation: -4.267
+VAN:
+  elevation: 140
+  frequency: 110400000
+  id: VAN
+  latitude: 33.4748001098633
+  longitude: -80.448600769043
+  magnetic_variation: -6.551
+VBI:
+  elevation: 1312
+  frequency: 115200000
+  id: VBI
+  latitude: 49.4766998291016
+  longitude: -94.0466995239258
+  magnetic_variation: 1.147
+VBS:
+  elevation: 2918
+  frequency: 114200000
+  id: VBS
+  latitude: 48.0172004699707
+  longitude: -71.2693023681641
+  magnetic_variation: -17.385
+VCN:
+  elevation: 120
+  frequency: 115200000
+  id: VCN
+  latitude: 39.5377006530762
+  longitude: -74.9671020507812
+  magnetic_variation: -12.137
+VCT:
+  elevation: 130
+  frequency: 109000000
+  id: VCT
+  latitude: 28.9002990722656
+  longitude: -96.9788970947266
+  magnetic_variation: 4.496
+VCV:
+  elevation: 2855
+  frequency: 109400000
+  id: VCV
+  latitude: 34.5942001342773
+  longitude: -117.389999389648
+  magnetic_variation: 13.042
+VEL:
+  elevation: 5344
+  frequency: 108200000
+  id: VEL
+  latitude: 40.3790016174316
+  longitude: -109.49299621582
+  magnetic_variation: 11.488
+VHP:
+  elevation: 870
+  frequency: 116300000
+  id: VHP
+  latitude: 39.8147010803223
+  longitude: -86.3675994873047
+  magnetic_variation: -3.441
+VIE:
+  elevation: 902
+  frequency: 115100000
+  id: VIE
+  latitude: 44.6609001159668
+  longitude: -77.8880996704102
+  magnetic_variation: -12.003
+VIH:
+  elevation: 1110
+  frequency: 117700000
+  id: VIH
+  latitude: 38.1540985107422
+  longitude: -91.7068023681641
+  magnetic_variation: 0.498
+VIS:
+  elevation: 263
+  frequency: 109400000
+  id: VIS
+  latitude: 36.3672981262207
+  longitude: -119.482002258301
+  magnetic_variation: 13.541
+VKZ:
+  elevation: 5
+  frequency: 117100000
+  id: VKZ
+  latitude: 25.7518997192383
+  longitude: -80.1544036865234
+  magnetic_variation: -5.33
+VLA:
+  elevation: 604
+  frequency: 114300000
+  id: VLA
+  latitude: 39.0937004089355
+  longitude: -89.1624984741211
+  magnetic_variation: -1.188
+VLN:
+  elevation: 1895
+  frequency: 114200000
+  id: VLN
+  latitude: 50.6669998168945
+  longitude: -104.889999389648
+  magnetic_variation: 10.459
+VLR:
+  elevation: 935
+  frequency: 112200000
+  id: VLR
+  latitude: 50.4221992492676
+  longitude: -98.7237014770508
+  magnetic_variation: 5.371
+VLV:
+  elevation: 1584
+  frequency: 117200000
+  id: VLV
+  latitude: 45.9249992370605
+  longitude: -70.8460998535156
+  magnetic_variation: -16.527
+VNA:
+  elevation: 300
+  frequency: 116500000
+  id: VNA
+  latitude: 32.2134017944336
+  longitude: -83.4972991943359
+  magnetic_variation: -4.277
+VNN:
+  elevation: 555
+  frequency: 113800000
+  id: VNN
+  latitude: 38.3619995117188
+  longitude: -88.8072967529297
+  magnetic_variation: -1.289
+VNY:
+  elevation: 810
+  frequency: 113100000
+  id: VNY
+  latitude: 34.2234001159668
+  longitude: -118.491996765137
+  magnetic_variation: 13.123
+VQQ:
+  elevation: 70
+  frequency: 117900000
+  id: VQQ
+  latitude: 30.2129993438721
+  longitude: -81.8908996582031
+  magnetic_variation: -5.135
+VRB:
+  elevation: 20
+  frequency: 117300000
+  id: VRB
+  latitude: 27.6784000396729
+  longitude: -80.4896011352539
+  magnetic_variation: -5.419
+VTU:
+  elevation: 1560
+  frequency: 108200000
+  id: VTU
+  latitude: 34.1151008605957
+  longitude: -119.049003601074
+  magnetic_variation: 13.168
+VUH:
+  elevation: 4
+  frequency: 113000000
+  id: VUH
+  latitude: 29.2693004608154
+  longitude: -94.8676986694336
+  magnetic_variation: 3.369
+VUZ:
+  elevation: 750
+  frequency: 114400000
+  id: VUZ
+  latitude: 33.6702003479004
+  longitude: -86.8998031616211
+  magnetic_variation: -2.127
+VWV:
+  elevation: 660
+  frequency: 113100000
+  id: VWV
+  latitude: 41.4514999389648
+  longitude: -83.6387023925781
+  magnetic_variation: -6.235
+VXV:
+  elevation: 1290
+  frequency: 116400000
+  id: VXV
+  latitude: 35.9048004150391
+  longitude: -83.8946990966797
+  magnetic_variation: -4.532
+WLK:
+  elevation: 7
+  frequency: 114200000
+  id: WLK
+  latitude: 66.5995025634766
+  longitude: -159.990997314453
+  magnetic_variation: 17.117
+X7:
+  elevation: 1906
+  frequency: 114500000
+  id: X7
+  latitude: 61.6605987548828
+  longitude: -73.3171997070312
+  magnetic_variation: -27.474
+XUB:
+  elevation: 690
+  frequency: 112500000
+  id: XUB
+  latitude: 39.5269012451172
+  longitude: -82.977897644043
+  magnetic_variation: -6.256
+YAK:
+  elevation: 35
+  frequency: 113300000
+  id: YAK
+  latitude: 59.510799407959
+  longitude: -139.647994995117
+  magnetic_variation: 22.42
+YAN:
+  elevation: 870
+  frequency: 112400000
+  id: YAN
+  latitude: 49.7780990600586
+  longitude: -84.5911026000977
+  magnetic_variation: -8.248
+YAY:
+  elevation: 114
+  frequency: 113700000
+  id: YAY
+  latitude: 51.3939018249512
+  longitude: -56.0839004516602
+  magnetic_variation: -22.292
+YBC:
+  elevation: 71
+  frequency: 117700000
+  id: YBC
+  latitude: 49.1339988708496
+  longitude: -68.2221984863281
+  magnetic_variation: -19.332
+YBK:
+  elevation: 400
+  frequency: 114500000
+  id: YBK
+  latitude: 64.3180999755859
+  longitude: -96.1046981811523
+  magnetic_variation: -2.034
+YBR:
+  elevation: 1381
+  frequency: 113800000
+  id: YBR
+  latitude: 49.9099998474121
+  longitude: -99.9457015991211
+  magnetic_variation: 6.44
+YBW:
+  elevation: 3971
+  frequency: 108600000
+  id: YBW
+  latitude: 51.1067008972168
+  longitude: -114.373001098633
+  magnetic_variation: 16.239
+YCB:
+  elevation: 90
+  frequency: 112700000
+  id: YCB
+  latitude: 69.1177978515625
+  longitude: -105.172996520996
+  magnetic_variation: 12.277
+YCF:
+  elevation: 620
+  frequency: 113500000
+  id: YCF
+  latitude: 44.3330993652344
+  longitude: -77.7027969360352
+  magnetic_variation: -12.01
+YDC:
+  elevation: 5329
+  frequency: 113900000
+  id: YDC
+  latitude: 49.3816986083984
+  longitude: -120.374000549316
+  magnetic_variation: 17.508
+YDF:
+  elevation: 470
+  frequency: 113300000
+  id: YDF
+  latitude: 49.2324981689453
+  longitude: -57.2132987976074
+  magnetic_variation: -21.259
+YDN:
+  elevation: 1022
+  frequency: 116100000
+  id: YDN
+  latitude: 51.1049995422363
+  longitude: -100.052001953125
+  magnetic_variation: 6.484
+YDR:
+  elevation: 2016
+  frequency: 117500000
+  id: YDR
+  latitude: 50.3633003234863
+  longitude: -102.540000915527
+  magnetic_variation: 8.554
+YEA:
+  elevation: 2436
+  frequency: 115900000
+  id: YEA
+  latitude: 50.926399230957
+  longitude: -109.988998413086
+  magnetic_variation: 14.09
+YEE:
+  elevation: 800
+  frequency: 112800000
+  id: YEE
+  latitude: 44.5816993713379
+  longitude: -79.793098449707
+  magnetic_variation: -10.313
+YEG:
+  elevation: 2557
+  frequency: 117600000
+  id: YEG
+  latitude: 53.1856002807617
+  longitude: -113.866996765137
+  magnetic_variation: 16.507
+YEV:
+  elevation: 264
+  frequency: 112500000
+  id: YEV
+  latitude: 68.3080978393555
+  longitude: -133.548004150391
+  magnetic_variation: 28.402
+YFB:
+  elevation: 15
+  frequency: 117400000
+  id: YFB
+  latitude: 63.74169921875
+  longitude: -68.4732971191406
+  magnetic_variation: -32.275
+YFC:
+  elevation: 52
+  frequency: 113000000
+  id: YFC
+  latitude: 45.8953018188477
+  longitude: -66.4188995361328
+  magnetic_variation: -18.382
+YFS:
+  elevation: 574
+  frequency: 117900000
+  id: YFS
+  latitude: 61.7738990783691
+  longitude: -121.299003601074
+  magnetic_variation: 23.474
+YGH:
+  elevation: 303
+  frequency: 112300000
+  id: YGH
+  latitude: 66.2360992431641
+  longitude: -128.623001098633
+  magnetic_variation: 27.434
+YGL:
+  elevation: 624
+  frequency: 112200000
+  id: YGL
+  latitude: 53.6255989074707
+  longitude: -77.7164001464844
+  magnetic_variation: -16.515
+YGP:
+  elevation: 108
+  frequency: 115400000
+  id: YGP
+  latitude: 48.7630996704102
+  longitude: -64.4047012329102
+  magnetic_variation: -20.3
+YGQ:
+  elevation: 1100
+  frequency: 114200000
+  id: YGQ
+  latitude: 49.7697982788086
+  longitude: -86.9844970703125
+  magnetic_variation: -6.016
+YGR:
+  elevation: 63
+  frequency: 112000000
+  id: YGR
+  latitude: 47.4303016662598
+  longitude: -61.7741012573242
+  magnetic_variation: -20.206
+YHY:
+  elevation: 573
+  frequency: 113900000
+  id: YHY
+  latitude: 60.8361015319824
+  longitude: -115.803001403809
+  magnetic_variation: 21.022
+YHZ:
+  elevation: 604
+  frequency: 115100000
+  id: YHZ
+  latitude: 44.9230995178223
+  longitude: -63.401798248291
+  magnetic_variation: -19.014
+YJN:
+  elevation: 200
+  frequency: 115800000
+  id: YJN
+  latitude: 45.2557983398438
+  longitude: -73.3212966918945
+  magnetic_variation: -15.162
+YJT:
+  elevation: 1184
+  frequency: 113100000
+  id: YJT
+  latitude: 48.5825004577637
+  longitude: -58.6692008972168
+  magnetic_variation: -21.071
+YKJ:
+  elevation: 1915
+  frequency: 115300000
+  id: YKJ
+  latitude: 57.1671981811523
+  longitude: -105.841003417969
+  magnetic_variation: 12.293
+YKL:
+  elevation: 1990
+  frequency: 112700000
+  id: YKL
+  latitude: 54.8146018981934
+  longitude: -66.7547988891602
+  magnetic_variation: -23.391
+YKM:
+  elevation: 980
+  frequency: 116000000
+  id: YKM
+  latitude: 46.5703010559082
+  longitude: -120.444999694824
+  magnetic_variation: 16.557
+YKN:
+  elevation: 1301
+  frequency: 111400000
+  id: YKN
+  latitude: 42.918399810791
+  longitude: -97.3850021362305
+  magnetic_variation: 4.506
+YMJ:
+  elevation: 1898
+  frequency: 113400000
+  id: YMJ
+  latitude: 50.3311004638672
+  longitude: -105.563003540039
+  magnetic_variation: 11.125
+YMM:
+  elevation: 1205
+  frequency: 112000000
+  id: YMM
+  latitude: 56.6472015380859
+  longitude: -111.122001647949
+  magnetic_variation: 16.283
+YMO:
+  elevation: 30
+  frequency: 112900000
+  id: YMO
+  latitude: 51.2915000915527
+  longitude: -80.6073989868164
+  magnetic_variation: -12.552
+YMS:
+  elevation: 1682
+  frequency: 114500000
+  id: YMS
+  latitude: 44.1431007385254
+  longitude: -80.1462020874023
+  magnetic_variation: -10.049
+YMX:
+  elevation: 1663
+  frequency: 116700000
+  id: YMX
+  latitude: 45.8883018493652
+  longitude: -74.3757019042969
+  magnetic_variation: -14.542
+YNA:
+  elevation: 35
+  frequency: 113600000
+  id: YNA
+  latitude: 50.1837005615234
+  longitude: -61.7811012268066
+  magnetic_variation: -21.413
+YNG:
+  elevation: 1160
+  frequency: 109000000
+  id: YNG
+  latitude: 41.3310012817383
+  longitude: -80.6746978759766
+  magnetic_variation: -8.447
+YNY:
+  elevation: 6697
+  frequency: 115200000
+  id: YNY
+  latitude: 50.6777992248535
+  longitude: -118.939002990723
+  magnetic_variation: 17.546
+YOJ:
+  elevation: 1129
+  frequency: 113300000
+  id: YOJ
+  latitude: 58.5544013977051
+  longitude: -117.093002319336
+  magnetic_variation: 20.311
+YOW:
+  elevation: 450
+  frequency: 114600000
+  id: YOW
+  latitude: 45.4416999816895
+  longitude: -75.8970031738281
+  magnetic_variation: -13.436
+YPA:
+  elevation: 1433
+  frequency: 113000000
+  id: YPA
+  latitude: 53.2167015075684
+  longitude: -105.666999816895
+  magnetic_variation: 11.422
+YPE:
+  elevation: 1925
+  frequency: 117200000
+  id: YPE
+  latitude: 56.206901550293
+  longitude: -117.512001037598
+  magnetic_variation: 19.368
+YPG:
+  elevation: 900
+  frequency: 114600000
+  id: YPG
+  latitude: 49.8997001647949
+  longitude: -98.2673034667969
+  magnetic_variation: 5.139
+YPK:
+  elevation: 44
+  frequency: 112400000
+  id: YPK
+  latitude: 49.2167015075684
+  longitude: -122.714996337891
+  magnetic_variation: 18.19
+YQB:
+  elevation: 270
+  frequency: 112800000
+  id: YQB
+  latitude: 46.7052993774414
+  longitude: -71.6266021728516
+  magnetic_variation: -16.502
+YQD:
+  elevation: 911
+  frequency: 113600000
+  id: YQD
+  latitude: 53.9735984802246
+  longitude: -101.099998474121
+  magnetic_variation: 7.45
+YQG:
+  elevation: 620
+  frequency: 113800000
+  id: YQG
+  latitude: 42.2498016357422
+  longitude: -82.8287963867188
+  magnetic_variation: -7.171
+YQH:
+  elevation: 2517
+  frequency: 114900000
+  id: YQH
+  latitude: 60.0863990783691
+  longitude: -128.858001708984
+  magnetic_variation: 23.586
+YQI:
+  elevation: 164
+  frequency: 113300000
+  id: YQI
+  latitude: 43.8250999450684
+  longitude: -66.0824966430664
+  magnetic_variation: -17.551
+YQL:
+  elevation: 3109
+  frequency: 115700000
+  id: YQL
+  latitude: 49.6343994140625
+  longitude: -112.667999267578
+  magnetic_variation: 15.121
+YQM:
+  elevation: 172
+  frequency: 117300000
+  id: YQM
+  latitude: 46.1889991760254
+  longitude: -64.5707015991211
+  magnetic_variation: -19.165
+YQO:
+  elevation: 780
+  frequency: 114200000
+  id: YQO
+  latitude: 42.7066993713379
+  longitude: -80.8879013061523
+  magnetic_variation: -9.003
+YQT:
+  elevation: 1641
+  frequency: 114100000
+  id: YQT
+  latitude: 48.2538986206055
+  longitude: -89.4375991821289
+  magnetic_variation: -3.027
+YQU:
+  elevation: 2515
+  frequency: 113100000
+  id: YQU
+  latitude: 55.1741981506348
+  longitude: -119.029998779297
+  magnetic_variation: 19.426
+YQV:
+  elevation: 1665
+  frequency: 115800000
+  id: YQV
+  latitude: 51.2641983032227
+  longitude: -102.46900177002
+  magnetic_variation: 8.549
+YQX:
+  elevation: 600
+  frequency: 112700000
+  id: YQX
+  latitude: 48.8997001647949
+  longitude: -54.5349006652832
+  magnetic_variation: -21.078
+YQY:
+  elevation: 258
+  frequency: 114900000
+  id: YQY
+  latitude: 46.1534004211426
+  longitude: -60.0559005737305
+  magnetic_variation: -19.595
+YRI:
+  elevation: 425
+  frequency: 113900000
+  id: YRI
+  latitude: 47.7574996948242
+  longitude: -69.5897979736328
+  magnetic_variation: -18.182
+YRK:
+  elevation: 1040
+  frequency: 112800000
+  id: YRK
+  latitude: 38.644100189209
+  longitude: -82.9783020019531
+  magnetic_variation: -6.125
+YRL:
+  elevation: 1280
+  frequency: 114000000
+  id: YRL
+  latitude: 51.0713996887207
+  longitude: -93.7619018554688
+  magnetic_variation: 0.372
+YRM:
+  elevation: 3544
+  frequency: 114300000
+  id: YRM
+  latitude: 52.5022010803223
+  longitude: -115.323997497559
+  magnetic_variation: 17.16
+YRT:
+  elevation: 140
+  frequency: 112400000
+  id: YRT
+  latitude: 62.8138999938965
+  longitude: -92.1172027587891
+  magnetic_variation: -7.377
+YSB:
+  elevation: 1120
+  frequency: 112300000
+  id: YSB
+  latitude: 46.6291999816895
+  longitude: -80.7981033325195
+  magnetic_variation: -10.3
+YSC:
+  elevation: 1000
+  frequency: 113200000
+  id: YSC
+  latitude: 45.3163986206055
+  longitude: -71.788200378418
+  magnetic_variation: -16.085
+YSJ:
+  elevation: 494
+  frequency: 113500000
+  id: YSJ
+  latitude: 45.4071998596191
+  longitude: -65.8707962036133
+  magnetic_variation: -18.359
+YSM:
+  elevation: 708
+  frequency: 112400000
+  id: YSM
+  latitude: 60.0203018188477
+  longitude: -111.96900177002
+  magnetic_variation: 18.18
+YSO:
+  elevation: 932
+  frequency: 117350000
+  id: YSO
+  latitude: 44.2386016845703
+  longitude: -79.1716995239258
+  magnetic_variation: -10.527
+YSP:
+  elevation: 1200
+  frequency: 115900000
+  id: YSP
+  latitude: 48.7434005737305
+  longitude: -86.3274993896484
+  magnetic_variation: -6.171
+YTH:
+  elevation: 796
+  frequency: 112900000
+  id: YTH
+  latitude: 55.8111991882324
+  longitude: -97.8253021240234
+  magnetic_variation: 4.061
+YTP:
+  elevation: 580
+  frequency: 116550000
+  id: YTP
+  latitude: 43.6716995239258
+  longitude: -79.6641998291016
+  magnetic_variation: -10.176
+YTS:
+  elevation: 976
+  frequency: 113000000
+  id: YTS
+  latitude: 48.5718994140625
+  longitude: -81.370002746582
+  magnetic_variation: -10.512
+YUL:
+  elevation: 200
+  frequency: 116300000
+  id: YUL
+  latitude: 45.6150016784668
+  longitude: -73.9717025756836
+  magnetic_variation: -15.022
+YUX:
+  elevation: 53
+  frequency: 117300000
+  id: YUX
+  latitude: 68.7782974243164
+  longitude: -81.2394027709961
+  magnetic_variation: -34.275
+YVC:
+  elevation: 1344
+  frequency: 112300000
+  id: YVC
+  latitude: 55.1582984924316
+  longitude: -105.266998291016
+  magnetic_variation: 11.398
+YVO:
+  elevation: 1112
+  frequency: 113700000
+  id: YVO
+  latitude: 48.1753005981445
+  longitude: -77.8202972412109
+  magnetic_variation: -13.345
+YVP:
+  elevation: 150
+  frequency: 112500000
+  id: YVP
+  latitude: 58.0962982177734
+  longitude: -68.4272994995117
+  magnetic_variation: -25.569
+YVQ:
+  elevation: 257
+  frequency: 112700000
+  id: YVQ
+  latitude: 65.2641983032227
+  longitude: -126.724998474121
+  magnetic_variation: 27
+YVR:
+  elevation: 17
+  frequency: 115900000
+  id: YVR
+  latitude: 49.0772018432617
+  longitude: -123.149002075195
+  magnetic_variation: 18.209
+YVV:
+  elevation: 730
+  frequency: 117700000
+  id: YVV
+  latitude: 44.744800567627
+  longitude: -81.1054000854492
+  magnetic_variation: -9.313
+YWG:
+  elevation: 820
+  frequency: 115500000
+  id: YWG
+  latitude: 49.9277992248535
+  longitude: -97.2391967773438
+  magnetic_variation: 4.164
+YWK:
+  elevation: 2267
+  frequency: 112300000
+  id: YWK
+  latitude: 52.9600982666016
+  longitude: -66.8535003662109
+  magnetic_variation: -22.178
+YWL:
+  elevation: 3662
+  frequency: 113600000
+  id: YWL
+  latitude: 52.2369003295898
+  longitude: -122.169998168945
+  magnetic_variation: 19.207
+YWT:
+  elevation: 1068
+  frequency: 115000000
+  id: YWT
+  latitude: 43.4586982727051
+  longitude: -80.3793029785156
+  magnetic_variation: -9.395
+YWV:
+  elevation: 2230
+  frequency: 114500000
+  id: YWV
+  latitude: 52.9813995361328
+  longitude: -110.833000183105
+  magnetic_variation: 15.103
+YWY:
+  elevation: 506
+  frequency: 113100000
+  id: YWY
+  latitude: 63.1838989257812
+  longitude: -123.361999511719
+  magnetic_variation: 25.101
+YXC:
+  elevation: 7585
+  frequency: 112100000
+  id: YXC
+  latitude: 49.5550003051758
+  longitude: -116.087997436523
+  magnetic_variation: 16.352
+YXE:
+  elevation: 1700
+  frequency: 116200000
+  id: YXE
+  latitude: 52.1810989379883
+  longitude: -106.720001220703
+  magnetic_variation: 12.191
+YXH:
+  elevation: 2474
+  frequency: 116500000
+  id: YXH
+  latitude: 49.9646987915039
+  longitude: -110.814002990723
+  magnetic_variation: 14.222
+YXI:
+  elevation: 587
+  frequency: 115600000
+  id: YXI
+  latitude: 45.6631011962891
+  longitude: -77.6027984619141
+  magnetic_variation: -12.37
+YXJ:
+  elevation: 2674
+  frequency: 114200000
+  id: YXJ
+  latitude: 56.2841987609863
+  longitude: -120.896003723145
+  magnetic_variation: 20.466
+YXS:
+  elevation: 4051
+  frequency: 112300000
+  id: YXS
+  latitude: 53.8941993713379
+  longitude: -122.456001281738
+  magnetic_variation: 20.057
+YXU:
+  elevation: 910
+  frequency: 117200000
+  id: YXU
+  latitude: 43.0381011962891
+  longitude: -81.1483993530273
+  magnetic_variation: -8.542
+YXY:
+  elevation: 5285
+  frequency: 116600000
+  id: YXY
+  latitude: 60.6189002990723
+  longitude: -135.139007568359
+  magnetic_variation: 23.574
+YXZ:
+  elevation: 797
+  frequency: 112700000
+  id: YXZ
+  latitude: 47.9500007629395
+  longitude: -84.8233032226562
+  magnetic_variation: -7.259
+YYB:
+  elevation: 1220
+  frequency: 115400000
+  id: YYB
+  latitude: 46.363899230957
+  longitude: -79.4364013671875
+  magnetic_variation: -11.302
+YYC:
+  elevation: 3566
+  frequency: 116700000
+  id: YYC
+  latitude: 51.1151008605957
+  longitude: -113.88200378418
+  magnetic_variation: 16.111
+YYD:
+  elevation: 4189
+  frequency: 114700000
+  id: YYD
+  latitude: 54.4522018432617
+  longitude: -126.651000976562
+  magnetic_variation: 21.02
+YYE:
+  elevation: 2040
+  frequency: 112900000
+  id: YYE
+  latitude: 58.8917007446289
+  longitude: -123.015998840332
+  magnetic_variation: 22.362
+YYG:
+  elevation: 212
+  frequency: 113800000
+  id: YYG
+  latitude: 46.2975006103516
+  longitude: -63.119701385498
+  magnetic_variation: -19.38
+YYJ:
+  elevation: 1968
+  frequency: 113700000
+  id: YYJ
+  latitude: 48.7268981933594
+  longitude: -123.484001159668
+  magnetic_variation: 18.169
+YYL:
+  elevation: 1219
+  frequency: 112600000
+  id: YYL
+  latitude: 56.864200592041
+  longitude: -101.074996948242
+  magnetic_variation: 7.398
+YYN:
+  elevation: 2680
+  frequency: 117400000
+  id: YYN
+  latitude: 50.2971992492676
+  longitude: -107.69100189209
+  magnetic_variation: 12.378
+YYQ:
+  elevation: 45
+  frequency: 114100000
+  id: YYQ
+  latitude: 58.74169921875
+  longitude: -94.1352996826172
+  magnetic_variation: -1.338
+YYR:
+  elevation: 92
+  frequency: 117300000
+  id: YYR
+  latitude: 53.3198013305664
+  longitude: -60.2946014404297
+  magnetic_variation: -23.395
+YYT:
+  elevation: 833
+  frequency: 113500000
+  id: YYT
+  latitude: 47.4852981567383
+  longitude: -52.8521995544434
+  magnetic_variation: -20.209
+YYY:
+  elevation: 190
+  frequency: 115900000
+  id: YYY
+  latitude: 48.6120986938477
+  longitude: -68.2089996337891
+  magnetic_variation: -19.172
+YYZ:
+  elevation: 541
+  frequency: 112150000
+  id: YYZ
+  latitude: 43.6581001281738
+  longitude: -79.6316986083984
+  magnetic_variation: -10.189
+YZF:
+  elevation: 712
+  frequency: 115500000
+  id: YZF
+  latitude: 62.4644012451172
+  longitude: -114.436996459961
+  magnetic_variation: 21.054
+YZP:
+  elevation: 30
+  frequency: 114100000
+  id: YZP
+  latitude: 53.2522010803223
+  longitude: -131.807006835938
+  magnetic_variation: 20.479
+YZT:
+  elevation: 39
+  frequency: 112000000
+  id: YZT
+  latitude: 50.6842002868652
+  longitude: -127.36499786377
+  magnetic_variation: 19.33
+YZU:
+  elevation: 2604
+  frequency: 112500000
+  id: YZU
+  latitude: 54.1455993652344
+  longitude: -115.796997070312
+  magnetic_variation: 18.039
+YZV:
+  elevation: 180
+  frequency: 114500000
+  id: YZV
+  latitude: 50.2321014404297
+  longitude: -66.2739028930664
+  magnetic_variation: -20.478
+ZBV:
+  elevation: 10
+  frequency: 116700000
+  id: ZBV
+  latitude: 25.7042007446289
+  longitude: -79.2944030761719
+  magnetic_variation: -6.067
+ZFP:
+  elevation: 7
+  frequency: 113200000
+  id: ZFP
+  latitude: 26.5552997589111
+  longitude: -78.6978988647461
+  magnetic_variation: -6.404
+ZQA:
+  elevation: 7
+  frequency: 112700000
+  id: ZQA
+  latitude: 25.0254993438721
+  longitude: -77.446403503418
+  magnetic_variation: -7.11
+ZTC:
+  elevation: 8
+  frequency: 112900000
+  id: ZTC
+  latitude: 26.7348003387451
+  longitude: -77.3792037963867
+  magnetic_variation: -7.343
+ZUN:
+  elevation: 6550
+  frequency: 113400000
+  id: ZUN
+  latitude: 34.9658012390137
+  longitude: -109.154998779297
+  magnetic_variation: 10.49
+ZZV:
+  elevation: 900
+  frequency: 111400000
+  id: ZZV
+  latitude: 39.9408988952637
+  longitude: -81.8926010131836
+  magnetic_variation: -7.237

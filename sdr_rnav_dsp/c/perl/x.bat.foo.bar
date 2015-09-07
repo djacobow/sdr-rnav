@@ -1,0 +1,7 @@
+rm outdir/*.csv outdir/*.wav
+cd ..
+make -f Makefile.windows
+cd p2
+rm -rf _Inline
+y.pl
+

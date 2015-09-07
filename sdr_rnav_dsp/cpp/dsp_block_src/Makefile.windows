@@ -1,0 +1,48 @@
+
+CC=g++
+
+BUILD            := 
+
+cflags.common    := -g -Wall -O6 -std=c++0x -DKISS_FFT_FIXED_POINT=32 
+cflags.common    += -DDEBUG
+libs.common      := -L../../rtl_tools/Win32 -lws2_32 -lm -lpthread -lrtlsdr
+incs.common      := -I../dsp_block_include \
+	            -I../../rtl_tools \
+		    -I./kiss_fft130 \
+		    -I./
+
+CFLAGS   := ${cflags.${BUILD}} ${cflags.common}
+LIBS     := ${libs.${BUILD}}   ${libs.common}
+INCLUDES := ${incs.${BUILD}}    ${incs.common}
+
+
+SOURCES=  $(wildcard *.cpp)
+SOURCES+= $(wildcard kiss_fft130/*.cpp)
+
+OBJECTS=$(SOURCES:.cpp=.o)
+
+DEPFILES=$(OBJECTS:.o=.dep)
+
+all: $(SOURCES) \
+     libdjdsp.lib \
+     djdsp.dll
+
+libdjdsp.lib libdjdsp.a: $(OBJECTS) 
+	$(AR) rcs libdjdsp.lib $(OBJECTS) 
+	ranlib libdjdsp.lib 
+	cp libdjdsp.lib libdjdsp.a
+
+djdsp.dll: $(OBJECTS) 
+	$(CC) -shared -o djdsp.dll $(OBJECTS) $(LIBS) -Wl,-no-undefined,--enable-runtime-pseudo-reloc,--out-implib,libdjdsp_dll.a
+
+-include $(OBJECTS:.o=.dep)
+
+%.o: %.cpp
+	$(CC) -c  $(INCLUDES) $(CFLAGS) $< -o $@
+	$(CC) -MM $(INCLUDES) $(CFLAGS) $< -o $*.dep 
+	../fdep.pl $@ $*.dep
+
+.PHONY: clean
+clean:
+	rm -f $(OBJECTS) $(OUTPUT_LIB) $(DEPFILES) 
+

@@ -1,0 +1,76 @@
+
+BUILD=file
+
+CC=gcc
+
+cflags.common    := -g -Wall -O6 -ansi -pedantic-errors \
+                    -DUSE_SOCK_SERVER
+cflags.common    += -DDEBUG \
+	            -DFFT_FIR
+libs.common      := -Ldp -ldp -lm -lpthread -lrtlsdr 
+incs.common      := -Iinc \
+	            -Idp \
+                    -I../rtl_tools  \
+                    -I./dp/kiss_fft130 \
+                    -I./ \
+#                    -Isrc/vor_db  \
+
+cflags.radio     :=  -DAUDIO_OUTPUT -DUSE_RADIO
+cflags.rpi       :=  -DAUDIO_OUTPUT -DUSE_RADIO -DUSE_LCD
+cflags.file      :=  
+libs.radio       :=  -lasound
+libs.rpi         :=  -lasound
+libs.file        :=  -lasound
+
+CFLAGS   := ${cflags.common} ${cflags.${BUILD}} 
+LIBS     := ${libs.common}   ${libs.${BUILD}}   
+INCLUDES := ${incs.common}   ${incs.${BUILD}}
+
+SOURCES=  $(wildcard src/*.c)
+
+MAIN=main.c
+SOURCES+=$(MAIN)
+
+# for the time being, do not link in the vor db. Makes the executable
+# larger and we'll probably handle the VORs from a higher-level language
+#SOURCES+=src/vor_db/vordb.c
+
+OBJECTS=$(SOURCES:.c=.o)
+#OBJECTS+=src/autofilter.o
+
+DEPFILES=$(OBJECTS:.o=.dep)
+
+EXECUTABLE=test
+
+all: dp \
+     $(SOURCES) \
+     $(EXECUTABLE) \
+     src/autofilter.c \
+     src/vor_db/vordb.c
+
+.PHONY: dp
+dp:
+	$(MAKE) -C dp -f Makefile.linux
+
+$(EXECUTABLE): $(OBJECTS) dp
+	$(CC) $(CFLAGS) $(OBJECTS) $(LIBS) -o $@
+
+-include $(OBJECTS:.o=.dep)
+
+src/autofilter.c src/autofilter.h: src/dsp_chain.c
+	firdes/make_filters.pl src/autofilter src/dsp_chain.c
+
+src/vor_db/vordb.c src/vor_db/vordb.h:
+	src/vor_db/getvors.pl src/vor_db/vordb
+
+%.o: %.c
+	$(CC) -c  $(INCLUDES) $(CFLAGS) $< -o $@
+	$(CC) -MM $(INCLUDES) $(CFLAGS) $< -o $*.dep 
+	./fdep.pl $@ $*.dep
+
+.PHONY: clean
+clean:
+	rm -f $(OBJECTS) $(EXECUTABLE) $(DEPFILES) src/vor_db/vordb.c
+	$(MAKE) clean -C dp -f Makefile.linux
+
+

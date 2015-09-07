@@ -1,0 +1,69 @@
+
+BUILD=radio
+
+CC=g++
+
+cflags.common    := -g -Wall -O6 -std=c++0x 
+cflags.common    += -DDEBUG #-DFFT_FIR
+libs.common      := -Ldsp_block_src -L../rtl_tools/Win32 \
+	            -ldjdsp -lm -lpthread -lrtlsdr -lws2_32
+incs.common      := -Iinclude \
+	            -Idsp_block_include \
+                    -Isrc/vor_db  \
+                    -I../rtl_tools  \
+                    -I./dsp_block_src/kiss_fft130 \
+                    -I./
+
+cflags.radio     := -DUSE_RADIO
+libs.radio       :=
+cflags.file      :=
+libs.file        :=
+
+CFLAGS    := ${cflags.common} ${cflags.${BUILD}} 
+LIBS      := ${libs.common}   ${libs.${BUILD}}   
+INCLUDES  := ${incs.common}   ${incs.${BUILD}}
+
+
+SOURCES=  $(wildcard src/*.cpp)
+
+MAIN=main.cpp
+SOURCES+=$(MAIN)
+SOURCES+=src/vor_db/vordb.cpp
+
+OBJECTS=$(SOURCES:.cpp=.o)
+OBJECTS+=src/autofilter.o
+
+DEPFILES=$(OBJECTS:.o=.dep)
+
+EXECUTABLE=test.exe
+
+all: djdsp \
+     $(SOURCES) \
+     $(EXECUTABLE) 
+
+.PHONY: djdsp
+djdsp:
+	$(MAKE) -C dsp_block_src -f Makefile.windows
+
+$(EXECUTABLE): $(OBJECTS) $(MISC_LIB) djdsp
+	$(CC) $(CFLAGS) $(OBJECTS) $(LIBS) -o $@
+
+-include $(OBJECTS:.o=.dep)
+
+src/autofilter.c src/autofilter.h: src/dsp_chain.cpp
+	firdes/make_filters.pl src/autofilter src/dsp_chain.cpp
+
+src/vor_db/vordb.cpp src/vor_db/vordb.h:
+	src/vor_db/getvors.pl src/vor_db/vordb
+
+%.o: %.cpp
+	$(CC) -c  $(INCLUDES) $(CFLAGS) $< -o $@
+	$(CC) -MM $(INCLUDES) $(CFLAGS) $< -o $*.dep 
+	./fdep.pl $@ $*.dep
+
+.PHONY: clean
+clean:
+	rm -f $(OBJECTS) $(EXECUTABLE) $(DEPFILES) src/vor_db/vordb.cpp
+	$(MAKE) clean -C dsp_block_src -f Makefile.windows
+
+

@@ -1,0 +1,53 @@
+
+CC=gcc
+
+BUILD            := 
+
+cflags.common    := -g -ansi -pedantic-errors -Wall \
+                     -O6 -DKISS_FFT_FIXED_POINT=32 
+cflags.common    += -DDEBUG
+libs.common      := -L../../rtl_tools/Win32 -lws2_32 -lm -lpthread -lrtlsdr
+incs.common      := -I../../rtl_tools \
+		    -I./kiss_fft130 \
+		    -I./
+
+CFLAGS   := ${cflags.${BUILD}} ${cflags.common}
+LIBS     := ${libs.${BUILD}}   ${libs.common}
+INCLUDES := ${incs.${BUILD}}    ${incs.common}
+
+
+SOURCES=  $(wildcard dp*.c)
+SOURCES+= $(wildcard kiss_fft130/*.c)
+SOURCES+= _dp_ctors.c
+
+OBJECTS=$(SOURCES:.c=.o)
+
+DEPFILES=$(OBJECTS:.o=.dep)
+
+all: 	_dp_ctors.c \
+	$(SOURCES) \
+	libdp.lib \
+	dp.dll
+
+_dp_ctors.h _dp_ctors.c: dp_base.h make_ctors.pl
+	make_ctors.pl dp_base.h
+
+libdp.lib libdp.a: $(OBJECTS) 
+	$(AR) rcs libdp.lib $(OBJECTS) 
+	ranlib libdp.lib 
+	cp libdp.lib libdp.a
+
+dp.dll: $(OBJECTS) 
+	$(CC) -shared -o dp.dll $(OBJECTS) $(LIBS) -Wl,-no-undefined,--enable-runtime-pseudo-reloc,--out-implib,libdp_dll.a
+
+-include $(OBJECTS:.o=.dep)
+
+%.o: %.c
+	$(CC) -c  $(INCLUDES) $(CFLAGS) $< -o $@
+	$(CC) -MM $(INCLUDES) $(CFLAGS) $< -o $*.dep 
+	../fdep.pl $@ $*.dep
+
+.PHONY: clean
+clean:
+	rm -f _dp_ctors.c _dp_ctors.h $(OBJECTS) $(OUTPUT_LIB) $(DEPFILES)  *.a *.dll
+

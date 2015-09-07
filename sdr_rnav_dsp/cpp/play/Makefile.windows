@@ -1,0 +1,55 @@
+
+BUILD=
+
+CC=g++
+
+cflags.common    := -g -Wall -O6 -std=c++0x 
+cflags.common    += -DDEBUG # -pg
+libs.common      := -L../dsp_block_src -ldjdsp -lm -lpthread 
+incs.common      := -I../dsp_block_include \
+                    -I../dsp_block_src/kiss_fft130 \
+                    -I./
+
+CFLAGS   := ${cflags.${BUILD}} ${cflags.common}
+LIBS     := ${libs.${BUILD}}   ${libs.common}
+INCLUDES := ${ins.${BUILD}}    ${incs.common}
+
+SOURCES  := 
+
+MAIN=t1.cpp
+
+SOURCES+=$(MAIN)
+
+OBJECTS=$(SOURCES:.cpp=.o)
+
+DEPFILES=$(OBJECTS:.o=.dep)
+
+EXECUTABLE=test.exe
+
+all: djdsp \
+     $(SOURCES) \
+     $(EXECUTABLE) 
+
+.PHONY: djdsp
+djdsp:
+	$(MAKE) -C ../dsp_block_src -f Makefile.windows
+
+autofilter.c autofilter.h: $(MAIN)
+	../firdes/make_filters.pl autofilter $(MAIN)
+
+$(EXECUTABLE): autofilter.c autofilter.o $(OBJECTS) $(BLOCK_LIB)
+	$(CC) $(CFLAGS) $(OBJECTS) autofilter.o $(LIBS) -o $@
+
+-include $(OBJECTS:.o=.dep)
+
+%.o: %.cpp
+	$(CC) -c  $(INCLUDES) $(CFLAGS) $< -o $@
+	$(CC) -MM $(INCLUDES) $(CFLAGS) $< -o $*.dep 
+	../fdep.pl $@ $*.dep
+
+.PHONY: clean
+clean:
+	rm -f $(OBJECTS) $(EXECUTABLE) $(DEPFILES)  autofilter.c autofilter.h
+	$(MAKE) clean -C ../dsp_block_src -f Makefile.windows
+
+

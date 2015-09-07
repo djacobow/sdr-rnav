@@ -1,0 +1,3 @@
+pm_remez.o: pm_remez.cpp pm_remez.h
+f_helpers.o: f_helpers.cpp f_helpers.h pm_remez.h
+main.o: main.cpp f_helpers.h

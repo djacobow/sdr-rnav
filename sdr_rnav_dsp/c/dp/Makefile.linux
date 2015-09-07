@@ -1,0 +1,49 @@
+
+BUILD=
+
+CC=gcc
+
+cflags.common    := -g -O6 -Wall -DKISS_FFT_FIXED_POINT=32 -fpic
+cflags.common    += -DDEBUG
+libs.common      := -lm -lpthread -lrtlsdr -lasound -lairspy
+incs.common      := -I../rtl_tools \
+		    -I./kiss_fft130 \
+		    -I./
+
+CFLAGS   := ${cflags.${BUILD}} ${cflags.common}
+LIBS     := ${libs.${BUILD}} ${libs.common}
+INCLUDES := ${incs.${BUILD}} ${incs.common}
+
+SOURCES=  $(wildcard *.c)
+SOURCES+= $(wildcard kiss_fft130/*.c)
+
+OBJECTS=$(SOURCES:.c=.o)
+
+DEPFILES=$(OBJECTS:.o=.dep)
+
+all: _dp_ctors.c \
+     $(SOURCES) \
+     libdp.a \
+     libdp.so.0
+
+libdp.lib libdp.a: $(OBJECTS)
+	$(AR) rcs libdp.a $(OBJECTS) 
+	ranlib libdp.a
+
+libdp.so.0: $(OBJECTS)
+	-$(CC) -shared -Wl,-soname,libdp.so.0 -o libdp.so.0 $(OBJECTS) 
+
+-include $(OBJECTS:.o=.dep)
+
+_dp_ctors.h _dp_ctors.c: dp_base.h make_ctors.pl
+	./make_ctors.pl dp_base.h
+
+%.o: %.c
+	$(CC) -c  $(INCLUDES) $(CFLAGS) $< -o $@
+	$(CC) -MM $(INCLUDES) $(CFLAGS) $< -o $*.dep 
+	../fdep.pl $@ $*.dep
+
+.PHONY: clean
+clean:
+	rm -f $(OBJECTS) $(OUTPUT_LIB) $(DEPFILES)  _dp_ctors.* *.a *.so*
+

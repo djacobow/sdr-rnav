@@ -1,0 +1,35 @@
+# Author: David Jacobowitz
+#         david.jacobowitz@gmail.com
+#
+# Date  : Fall 2013
+#
+# Copyright 2013, David Jacobowitz
+#
+#
+# Typemap file for the dplib wrapper to the dp library.
+# Most of these typemaps entry do not provide true type 
+# conversion at all. Instead, they merely allow the pointers
+# to be captured in perl and relayed subsequently to other 
+# functions. There is no knowledge of what those pointers 
+# point to. When necessary, other functions, particularly
+# those in dp_pl_shrelist.c and helpers.c provide accessors 
+# that perl can use to access pointer contents.
+dp_vec_t * 	     T_PTR
+dp_base_t *          T_PTR
+dp_baselist_t *      T_PTR
+dp_int_t *           T_PTR
+peak_pts_t *         T_PTR
+rtl2832_cmd_t        T_IV
+dp_bool_t            T_UV
+uint32_t             T_UV
+uint16_t             T_UV
+int32_t              T_IV
+int16_t              T_IV
+uint8_t              T_U_CHAR
+int8_t               T_CHAR
+int16_t *            T_PTR
+pthread_t *          T_PTR
+dp_pl_sharelist_t *  T_PTR
+float *              T_PTR
+uint32_t *           T_PTR
+

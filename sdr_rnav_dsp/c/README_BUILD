@@ -1,0 +1,91 @@
+
+== Windows ==
+
+ - obtain and install TortoiseCVS
+
+   Choose a location and download the repository for this code. You can do it from the command line with this command:
+
+   svn co https://svn.circlemud.org/svn/sdr-rnav
+   < you will be prompted for a username and password >
+
+
+ - obtain and install a copy of the latest Strawberry Perl
+
+ - open command window
+
+ - setup cpan
+
+   cpan
+   < follow prompts to allow it to configure itself>
+
+ - install YAML, File::Slurp, and the latest Inline::C
+ 
+  cpan
+  install YAML
+  install File::Slurp
+  install ExtUtils::MakeMaker
+  install Inline::C
+
+ - build the SDR library
+ 
+  cd sdr-rnav/sdr-rnav-dsp/c
+  make -f Makefile.windows src/autofilter.c
+  make -f Makefile.windows
+
+ - run the perl script
+
+  cd perl
+  perl -c rnav.pl
+  < ... assuming no errors ... >
+  rnav.pl
+
+
+
+
+
+== Ubuntu ==
+
+- make sure some build tools are installed
+  
+  sudo apt-get install subversion
+  sudo apt-get install git
+  sudo apt-get install libyaml-perl
+  sudo apt-get install libfile-slurp-perl
+  sudo apt-get install libusb-dev
+  sudo apt-get install libusb-1.0-0-dev
+
+- install rtl-sdr 
+
+  git clone git://git.osmocom.org/rtl-sdr.git
+  cd rtl-sdr
+  mkdir build
+  cd build
+  cmake ../ -DINSTALL_UDEV_RULES=on
+  make
+  sudo make install
+
+- install perl inline::c
+
+  (note you can apt-get install an inline::c, but the one you will get from Canonical is old and has bugs. It will not work. Do this instead)
+
+  cpan
+  < allow it to automatically configure. Choose the 'sudo' install option >
+  install Inline::C
+  quit
+
+
+- checkout and build this library 
+
+  <cd to appropriate directory>
+  svn co https://svn.circlemud.org/svn/sdr-rnav
+  < this takes some time >
+  cd sdr-rnav/sdr-rnav-dsp/c
+  make -f Makefile.linux src/autofilter.c
+  make -f Makefile.linux
+
+  cd perl
+  perl -c rnav.pl
+  < assuming no errors ... >
+  ./rnav.pl
+
+  

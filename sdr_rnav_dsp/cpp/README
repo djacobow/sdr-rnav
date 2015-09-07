@@ -1,0 +1,253 @@
+8/7/2013
+
+The server-based approach is turning out hard to do and maybe
+expensive since calls to sockets seem to block or waste system
+time in strange ways. Spent the last few days trying something
+else: perl extension. We can now link the radio/chain to perl
+and access it from there like a hardware device. Will do the 
+higher level code in Perl.
+
+8/2/2013
+
+Created a new class fft_filt_c which should be a "drop-in" 
+replacement for "fir_c". The latter performs filtering convolution
+in the most direct canonical way, which can be slow for long 
+filters. fft_filt_c performs fft-based convolution. It should be 
+faste for long filters and produce exactly the same result -- as 
+long as it works -- which right now is kinda sorta. There are 
+some scaling and precision issues.
+
+
+7/20/2013
+
+Server-based communication of radio status now. Once we get
+this c++ code stabilized I will try to move move development
+to perl or python to actually track VORs and compute/
+display a position.
+
+Also added a new block class: fft_filt_c which tried to
+implement an FFT convolution method of calculating FIR
+filters. It should be faster than a FIR for more than 40-
+100 taps, which many filters here are. However, it doesn't
+work and I think it maybe can't due to fixed-point 
+precision limitations.
+
+
+7/14/2013
+
+Flew the code for the first time today. Did not work. Several
+things appear to be in play:
+ - low signal strength and/or bad antenna and/or strong 
+   line of sight means even antenna in aircraft can block
+   signals. Need something flying under the AC like a real VOR
+   antenna?
+ - interference from aircraft radios. Need shielding and/or 
+   do not place antenna on dashboard
+ - morse decode can be sketchy -- probably need to tweak 
+   hysteresis, etc.
+
+
+Are the radials correct? Well, one very strong signal from SFO
+actually did decode accurately -- so maybe this thing isn't far 
+from working?
+
+But it obviously needs a lot of work.
+
+However, it didn't crash and the radio could keep up, so 
+at least the infrastructure for debugging the radio is in
+place now.
+
+
+7/1/2013
+
+LCD interfac for the RPi working. This is only tested so far 
+with a 20x4 HD44780 device driven by an MCP23008 - ie, the 
+Adafruit "i2c backpack", which is turn is driven by the 
+kernel modules for i2c which is in turn driven by LCDd
+which in turn is driven by LCDproc, which takes commands 
+on port 13666 from whomever wants to write to the LCD.
+
+
+7/1/2013
+
+RPi working again. Ironed out interlock/threading issues
+(for now, I'm sure). 
+
+6/26/2013 -- much later
+
+So, tried running this on the RPi and it stuttered because 
+the processing is falling behind the sampling. It worked the 
+other day so I don't know quite what I did to make it slower.
+
+I then decided to spend some time unrolling my previous 
+changes that might be slowing things (threading stuff), which
+didn't seem to help, and also seeing if I can cut down some
+of the DSP -- which should help.
+
+
+6/26/2013
+
+Lots of re-arranging in anticipation of making this a real
+VOR receiver; not much work on the DSP side. I think the DSP 
+is probably close to being functional, but far from being 
+efficient. But we'll not even know if it's functional until
+we get in the air.
+
+The rest of the code changes are around what to do with the 
+radio data. Current plan is to 
+
+ 1. scan all the VOR frequencies for things that look like 
+    signals
+ 2. obtain the IDs for the signals, by parking on those 
+    frequencies long enough
+ 3. round-robbin visiting those signals to read radials,
+    and display them
+ 4. If a signal is older than X, drop it
+ 5. if we have dropped too many, go back to 1
+
+This is all still to be implemented.
+
+For the time being in "real" radio mode, the program just 
+sits at a frequency tells you what, if anything it is picking
+up there.
+
+There are a few commands you can enter into the running 
+program from the console:
+ - up    arrow = increase tuned freq by a lot
+ - down  arrow = decrease tuned freq by a lot
+ - left  arrow = increase tuned freq by a little
+ - right arrow = decrease tuned freq by a little
+ - [numbers] [enter] set to the frequency keyed
+ - q quit
+
+
+
+5/20/2013
+
+Some cleanup. Builds and works properly on Ubuntu amd64.
+
+5/17/2013
+
+RTL-SDR integration now works properly. Fixed issues with sign
+extension from the 8b samples to the 16b format used throughout
+the rest of the blocks.
+
+Also added a simple command interface to the running program. 
+Hitting 'q' will stop the sampling, and you gen enter a frequency
+and [enter] to change tuner frequency mid sample.
+
+
+5/15/2013
+
+Work today on integrating the hardware radio using the rtl-sdr 
+driver hosted here: http://sdr.osmocom.org/trac/wiki/rtl-sdr
+
+Lots of pain with pthreads and mutexes, followd by pain getting
+data out of the driver. It's kind of working, but not quite right.
+I feel like I'm close.
+
+This will sort of be like a regular DSP block, but sort of not,
+since it will be driven asynchronously be buffers being ready.
+It will have a work() function like other blocks, but this work
+function may block. Another thread is pushing data into the buffer
+and signalling to the blocked thread when it is ready.
+
+
+5/14/2013 -- again
+
+Added a block module and an example for communicating with the rtl_tcp
+program (the Win32 version of which I have placed in rtl_tools/). This
+will allow the SW to operate on live data.
+
+The block and module compile but there is still a problem reading the
+data from the rtl_tcp program. I can't figure it out, but suspect it's
+something I don't understand about win sockets. I can access the data
+with a perl script (also in rtl_tools/) as well as with simple 'telnet'.
+
+
+5/14/2013
+
+Big refactor today. Well, it was big to me, even though things 
+don't look much better. All the blocks are subclassed off the same
+parent so they can run together in a loop or chained from some
+STL container or something. 
+
+The tradeofff is that the setup for all the blocks can go one for
+screenfulls and screenfulls. But at least it's a straightforward
+chain of blocks linked by buffers and inputs/outputs.
+
+I found a memory bug that was driving me crazy. It was actually
+a functional bug, too. I just wasn't handling FIR filters with 
+many more taps than the size of the buffer. That was resulting in
+negatice indices into arrays. Fixed now... maybe.
+
+OK, stil lwant to get back to automated FIR and IIR design as part
+of the make process. Maybe in a few days...
+
+
+5/13/2013
+
+Changes today are that I have the full radio analytic section "working" 
+soup to nuts, from an IF file from the dongle to decoded angle.
+Well, the angle is wrong, but I think that probably can be fixed
+with a simple fixed addition that accounts for all the phase shift
+(hopefully) fixed that come from the filters. If I'm right, in the air
+we'll see that same error unchanging and we can just put in a magic
+number to fix it.
+
+Created two new modules today: ph_compare_c and quasi_quad_c. Both
+of them use a zero-crossing detection approach to determine phase
+and quadrature. Both also use a lot of floating point math, which I 
+will need to re-do. I don't mind some FP here and there, but I don't
+want to see it in any sample-by sample loops, at least for the 
+normal case.
+
+Both of the phase measuring modules estimate the zero crossing by
+linear interpolating to guess where the line between the negative
+and positive samples cross.
+
+Oh, and the dc block module is problematic. I've tried using a few 
+"high pass" IIR filters that I've found on the interwebz, but they've
+been sketchy at best. Instead, I've resorted to a tried and true
+zero blocker: just subtract out the average value of the signal 
+from all the samples. This works if your signal repeats a lot within
+one "block" of samples, but may not really be kosher. I tried to 
+make it subtract a trailing average of previous block averages, too.
+That should make it self-adjuting and not too abrupt from block to
+block. we'll see.
+
+-- dgj
+
+
+5/11/2013
+
+This folder contains the most bare-bones implentation of the required
+DSP to decode a VOR signal I could scrape together quickly. It does
+not depend on any fancy language features, external libraries or 
+anything. I hope it's
+mostly self-explanatory. There are a serious of classes that each
+do something useful, usually taking buffers for input and output. Main
+just stitches those buffers together.
+
+To make it fancy I probably should go back and make a fancier 
+object-oriented hierarchy that allows me to create blocks, call
+some kind of stitching routine and then fire of a go() routine 
+that will run everything. But then again, maybe this low-level c-like
+approach is better.
+
+Anyway, the current status is that I am decoding everything so far 
+except the 30 Hz FM-encoded reference signal.
+
+PS -- there are a lot of bug fixes since the last time I sent this 
+last week. In particular, the wav reader and writer are much improved
+
+PPS -- there are a few blocks that I have not yet tried to get working.
+In particular, the IIR filter and the IIR filter designer (chebdes) are
+something I should get to as I think they will be useful for cutting
+down the computation for some of the filtering.
+
+
+-- dgj
+
+
+

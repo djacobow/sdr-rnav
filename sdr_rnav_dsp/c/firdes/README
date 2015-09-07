@@ -1,0 +1,32 @@
+
+10/18/2013
+
+This folder contains a perl script that calls a function called 
+remez which designs optimized FIR filters according to your specifications.
+remez itself is an old piece of c code floating around the interwebs,
+used in GnuRadio's filter designer as well as the signals package 
+of GNU Octave. 
+
+In fact, the function C code is copied verbatim from GNU Octave and
+just wrapped a little to make it callable from Perl.
+
+Older versions of this script called GNU Radio or Octave, requiring 
+one or the other be installed, but now there should be no external
+dependency at all.
+
+
+The perl script takes a first argument which is the name of a file to
+create that will contain the filer taps. The rest of the arguments are
+source files to scan. Each file is scanned for comments that look like
+YAML. If found, the YAML is interpreted as parameters for FIR filters
+to be designed. 
+
+The perl calls the python for each filter needed, and the results are
+written to a .h and .c version of the output file.
+
+The result is that the files with the comments can also reference 
+arrays with the taps, and if the comment is changed and the project
+recompiled, the new filter will automagically be there.
+
+-- dgj
+
