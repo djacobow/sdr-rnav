@@ -1,0 +1,7 @@
+*.dep
+*.log
+sdr_rnav_dsp/test_input_files/*
+sdr_rnav_dsp/test_output_files/*
+sdr_rnav_dsp/c/_Inline/*
+sdr_rnav_dsp/c/perl/outdir/*
+sdr_rnav_dsp/c/firdes2/_Inline/*
