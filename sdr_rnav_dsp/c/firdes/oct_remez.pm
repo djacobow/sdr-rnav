@@ -859,15 +859,15 @@ SV *run_remez(int numtaps, int numbands, SV *bands,
  free(c_weights);
 
  AV *o =  newAV();
- int i;
- for (i=0;i<numtaps;i++) {
-  av_store(o, i, newSVnv(c_results[i]));
- }
- free(c_results);
 
  if (fail) { 
   printf("-remez failed-\n");
  } else {
+  int i;
+  for (i=0;i<numtaps;i++) {
+   av_store(o, i, newSVnv(c_results[i]));
+  }
+  free(c_results);
  }
  return  newRV_inc(o);;
 }

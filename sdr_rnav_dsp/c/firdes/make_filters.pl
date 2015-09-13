@@ -201,6 +201,7 @@ $req->{sample_rate});
      print "rname $rname\n";
      print Dumper \@r_args;
      my $rv = oct_remez::run_remez(@r_args);
+     print Dumper $rv;
      $results->{$rname} = {
       taps => $rv,
       num_taps => scalar @$rv,
