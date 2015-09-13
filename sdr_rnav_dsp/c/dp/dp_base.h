@@ -39,6 +39,7 @@ typedef enum dp_subt_t {
  dp_subt_iq_w,
  dp_subt_agc,
  dp_subt_airspy,
+ dp_subt_raw_r,
  __dp_subt_invalid
 } dp_subt_t;
 
